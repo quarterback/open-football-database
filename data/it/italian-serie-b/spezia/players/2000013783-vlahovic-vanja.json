@@ -1,0 +1,27 @@
+{
+  "id": 2000013783,
+  "first_name": "Vanja",
+  "last_name": "Vlahović",
+  "birth_date": "2004-03-23",
+  "country_id": 802,
+  "club_id": 1173,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 4000000,
+  "contract": {
+    "expiration": "2028-06-30",
+    "salary": 0,
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 27150884,
+  "first_name": "Laurs",
+  "last_name": "Skjellerup",
+  "birth_date": "2002-08-12",
+  "country_id": 764,
+  "club_id": 1173,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 2000000
+}

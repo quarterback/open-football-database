@@ -1,0 +1,17 @@
+{
+  "id": 2000221615,
+  "first_name": "Fellipe",
+  "last_name": "Jack",
+  "birth_date": "2006-01-12",
+  "country_id": 776,
+  "club_id": 1119,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 3000000
+}

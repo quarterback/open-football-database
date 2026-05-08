@@ -1,0 +1,27 @@
+{
+  "id": 2000008080,
+  "first_name": "Jonas",
+  "last_name": "Rouhi",
+  "birth_date": "2004-01-07",
+  "country_id": 797,
+  "club_id": 1116,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 2000000,
+  "contract": {
+    "expiration": "2028-06-30",
+    "salary": 312000,
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

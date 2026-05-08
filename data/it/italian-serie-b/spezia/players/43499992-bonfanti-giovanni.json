@@ -1,0 +1,23 @@
+{
+  "id": 43499992,
+  "first_name": "Giovanni",
+  "last_name": "Bonfanti",
+  "birth_date": "2003-01-17",
+  "country_id": 776,
+  "club_id": 1173,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 4000000,
+  "contract": {
+    "expiration": "2028-06-30",
+    "salary": 260000,
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

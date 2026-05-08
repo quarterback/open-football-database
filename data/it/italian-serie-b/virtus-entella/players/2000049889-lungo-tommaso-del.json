@@ -1,0 +1,27 @@
+{
+  "id": 2000049889,
+  "first_name": "Tommaso Del",
+  "last_name": "Lungo",
+  "birth_date": "2003-11-21",
+  "country_id": 776,
+  "club_id": 43036943,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 3000000,
+  "contract": {
+    "expiration": "2027-06-30",
+    "salary": 0,
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

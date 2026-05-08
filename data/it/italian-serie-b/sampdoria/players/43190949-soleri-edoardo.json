@@ -1,0 +1,31 @@
+{
+  "id": 43190949,
+  "first_name": "Edoardo",
+  "last_name": "Soleri",
+  "birth_date": "1997-10-19",
+  "country_id": 776,
+  "club_id": 1167,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 121,
+  "potential_ability": 135,
+  "value": 1000000,
+  "contract": {
+    "expiration": "2027-06-30",
+    "salary": 0,
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2000242163,
+  "first_name": "Pietro",
+  "last_name": "Pinelli",
+  "birth_date": "2006-02-18",
+  "country_id": 776,
+  "club_id": 1164,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 100,
+  "value": 101000,
+  "contract": {
+    "expiration": "2027-06-30",
+    "salary": 0,
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2000415959,
+  "first_name": "Joachim",
+  "last_name": "Williamson",
+  "birth_date": "2007-11-05",
+  "country_id": 798,
+  "club_id": 1135,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 100
+}

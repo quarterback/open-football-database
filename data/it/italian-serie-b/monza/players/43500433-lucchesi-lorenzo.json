@@ -1,0 +1,17 @@
+{
+  "id": 43500433,
+  "first_name": "Lorenzo",
+  "last_name": "Lucchesi",
+  "birth_date": "2003-05-09",
+  "country_id": 776,
+  "club_id": 1149,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 4000000
+}

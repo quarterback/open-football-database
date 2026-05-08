@@ -1,0 +1,21 @@
+{
+  "id": 43591069,
+  "first_name": "Nosa",
+  "last_name": "Obaretin",
+  "birth_date": "2003-01-26",
+  "country_id": 776,
+  "club_id": 1126,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 117000
+}

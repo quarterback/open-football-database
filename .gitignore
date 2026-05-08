@@ -2,3 +2,4 @@ target/
 *.db
 *.db.tmp
 /.claude/settings.local.json
+/scraper/

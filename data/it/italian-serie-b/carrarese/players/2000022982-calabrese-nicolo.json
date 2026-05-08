@@ -1,0 +1,17 @@
+{
+  "id": 2000022982,
+  "first_name": "Nicolò",
+  "last_name": "Calabrese",
+  "birth_date": "2004-11-16",
+  "country_id": 776,
+  "club_id": 1116,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 1000000
+}

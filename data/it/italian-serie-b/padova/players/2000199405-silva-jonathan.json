@@ -1,0 +1,17 @@
+{
+  "id": 2000199405,
+  "first_name": "Jonathan",
+  "last_name": "Silva",
+  "birth_date": "2004-04-21",
+  "country_id": 1651,
+  "club_id": 1154,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 1000000
+}

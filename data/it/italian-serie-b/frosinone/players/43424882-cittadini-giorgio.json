@@ -1,0 +1,17 @@
+{
+  "id": 43424882,
+  "first_name": "Giorgio",
+  "last_name": "Cittadini",
+  "birth_date": "2002-04-18",
+  "country_id": 776,
+  "club_id": 2199,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 1000000
+}

@@ -1,0 +1,23 @@
+{
+  "id": 43044146,
+  "first_name": "Francesco",
+  "last_name": "Bardi",
+  "birth_date": "1992-01-18",
+  "country_id": 776,
+  "club_id": 700198,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 818000,
+  "contract": {
+    "expiration": "2027-06-30",
+    "salary": 0,
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

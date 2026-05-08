@@ -1,0 +1,21 @@
+{
+  "id": 2000098328,
+  "first_name": "Patrick",
+  "last_name": "Nuamah",
+  "birth_date": "2005-12-31",
+  "country_id": 776,
+  "club_id": 1119,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 648000
+}

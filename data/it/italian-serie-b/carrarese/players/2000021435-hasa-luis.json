@@ -1,0 +1,27 @@
+{
+  "id": 2000021435,
+  "first_name": "Luis",
+  "last_name": "Hasa",
+  "birth_date": "2004-01-06",
+  "country_id": 776,
+  "club_id": 1116,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 488000,
+  "contract": {
+    "expiration": "2029-06-30",
+    "salary": 0,
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

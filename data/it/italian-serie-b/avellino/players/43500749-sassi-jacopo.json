@@ -1,0 +1,17 @@
+{
+  "id": 43500749,
+  "first_name": "Jacopo",
+  "last_name": "Sassi",
+  "birth_date": "2003-07-24",
+  "country_id": 776,
+  "club_id": 1108,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 145000
+}
