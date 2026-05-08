@@ -1,0 +1,23 @@
+{
+  "id": 72052908,
+  "first_name": "Ben",
+  "last_name": "Lundt",
+  "birth_date": "1995-09-24",
+  "country_id": 771,
+  "club_id": 2000153732,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 382000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

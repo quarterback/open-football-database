@@ -1,0 +1,27 @@
+{
+  "id": 53084421,
+  "first_name": "Stian Rode",
+  "last_name": "Gregersen",
+  "birth_date": "1995-05-17",
+  "country_id": 786,
+  "club_id": 72047296,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 131,
+  "potential_ability": 131,
+  "value": 6000000,
+  "contract": {
+    "salary": 676000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

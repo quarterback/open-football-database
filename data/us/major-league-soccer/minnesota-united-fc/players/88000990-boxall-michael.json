@@ -1,0 +1,23 @@
+{
+  "id": 88000990,
+  "first_name": "Michael",
+  "last_name": "Boxall",
+  "birth_date": "1988-08-18",
+  "country_id": 1438,
+  "club_id": 20030048,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 104,
+  "potential_ability": 107,
+  "value": 144000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

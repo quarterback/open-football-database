@@ -1,0 +1,23 @@
+{
+  "id": 28122338,
+  "first_name": "Peter",
+  "last_name": "Stroud",
+  "birth_date": "2002-04-23",
+  "country_id": 390,
+  "club_id": 20030048,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 0,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

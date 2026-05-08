@@ -1,0 +1,57 @@
+{
+  "id": 72047296,
+  "name": "Atlanta United FC",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 33000000
+  },
+  "teams": [
+    {
+      "id": 72047296,
+      "name": "Atlanta United FC",
+      "slug": "atlanta-united-fc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 89000041,
+      "name": "Atlanta United FC",
+      "slug": "atlanta-united-fc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 89000042,
+      "name": "Atlanta United FC",
+      "slug": "atlanta-united-fc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#80000f",
+    "foreground": "#a28f47"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Great",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 49351
+}

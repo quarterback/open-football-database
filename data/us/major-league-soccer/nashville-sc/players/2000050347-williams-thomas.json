@@ -1,0 +1,23 @@
+{
+  "id": 2000050347,
+  "first_name": "Thomas",
+  "last_name": "Williams",
+  "birth_date": "2004-08-15",
+  "country_id": 390,
+  "club_id": 20046403,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 2000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

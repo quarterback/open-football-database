@@ -1,0 +1,27 @@
+{
+  "id": 20046587,
+  "first_name": "Luca",
+  "last_name": "Petrasso",
+  "birth_date": "2000-06-16",
+  "country_id": 364,
+  "club_id": 105180,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

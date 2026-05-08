@@ -1,0 +1,31 @@
+{
+  "id": 27088228,
+  "first_name": "Marcus",
+  "last_name": "Ingvartsen",
+  "birth_date": "1996-01-04",
+  "country_id": 764,
+  "club_id": 2000259716,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 130,
+  "value": 5000000,
+  "contract": {
+    "salary": 1300000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

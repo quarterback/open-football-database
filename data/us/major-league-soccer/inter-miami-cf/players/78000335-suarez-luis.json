@@ -1,0 +1,22 @@
+{
+  "id": 78000335,
+  "first_name": "Luis",
+  "last_name": "Suárez",
+  "birth_date": "1987-01-24",
+  "country_id": 1657,
+  "club_id": 72052048,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 144,
+  "potential_ability": 187,
+  "contract": {
+    "salary": 1092000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

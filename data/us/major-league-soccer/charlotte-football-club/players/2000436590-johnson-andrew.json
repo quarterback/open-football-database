@@ -1,0 +1,31 @@
+{
+  "id": 2000436590,
+  "first_name": "Andrew",
+  "last_name": "Johnson",
+  "birth_date": "2004-02-03",
+  "country_id": 386,
+  "club_id": 2000032491,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 404000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

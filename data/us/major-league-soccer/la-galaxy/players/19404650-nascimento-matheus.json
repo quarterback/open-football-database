@@ -1,0 +1,17 @@
+{
+  "id": 19404650,
+  "first_name": "Matheus",
+  "last_name": "Nascimento",
+  "birth_date": "2004-03-03",
+  "country_id": 1651,
+  "club_id": 1907,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 7000000
+}

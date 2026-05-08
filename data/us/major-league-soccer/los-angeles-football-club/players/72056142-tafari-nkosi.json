@@ -1,0 +1,23 @@
+{
+  "id": 72056142,
+  "first_name": "Nkosi",
+  "last_name": "Tafari",
+  "birth_date": "1997-03-23",
+  "country_id": 390,
+  "club_id": 72049313,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 111,
+  "potential_ability": 118,
+  "value": 869000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000026752,
+  "first_name": "Dawid",
+  "last_name": "Bugaj",
+  "birth_date": "2004-07-09",
+  "country_id": 787,
+  "club_id": 105180,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 1000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

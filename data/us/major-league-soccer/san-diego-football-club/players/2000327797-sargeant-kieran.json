@@ -1,0 +1,27 @@
+{
+  "id": 2000327797,
+  "first_name": "Kieran",
+  "last_name": "Sargeant",
+  "birth_date": "2003-05-14",
+  "country_id": 390,
+  "club_id": 2000259716,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 0,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

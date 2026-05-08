@@ -1,0 +1,27 @@
+{
+  "id": 2000436560,
+  "first_name": "Kieran",
+  "last_name": "Chandler",
+  "birth_date": "2005-06-09",
+  "country_id": 390,
+  "club_id": 20030048,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 826000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

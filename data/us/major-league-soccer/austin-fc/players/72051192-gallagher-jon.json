@@ -1,0 +1,35 @@
+{
+  "id": 72051192,
+  "first_name": "Jon",
+  "last_name": "Gallagher",
+  "birth_date": "1996-02-23",
+  "country_id": 789,
+  "club_id": 72053036,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 119,
+  "potential_ability": 119,
+  "value": 2000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

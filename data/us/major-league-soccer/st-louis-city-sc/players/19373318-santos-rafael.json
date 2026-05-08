@@ -1,0 +1,27 @@
+{
+  "id": 19373318,
+  "first_name": "Rafael",
+  "last_name": "Santos",
+  "birth_date": "1998-02-05",
+  "country_id": 1651,
+  "club_id": 2000153732,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 116,
+  "potential_ability": 125,
+  "value": 3000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

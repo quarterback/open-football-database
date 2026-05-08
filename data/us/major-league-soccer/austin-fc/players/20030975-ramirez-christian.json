@@ -1,0 +1,23 @@
+{
+  "id": 20030975,
+  "first_name": "Christian",
+  "last_name": "Ramírez",
+  "birth_date": "1991-04-04",
+  "country_id": 390,
+  "club_id": 72053036,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 92000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

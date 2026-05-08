@@ -1,0 +1,27 @@
+{
+  "id": 2000436502,
+  "first_name": "Mikah",
+  "last_name": "Thomas",
+  "birth_date": "2005-02-21",
+  "country_id": 390,
+  "club_id": 2000032491,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 1000000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

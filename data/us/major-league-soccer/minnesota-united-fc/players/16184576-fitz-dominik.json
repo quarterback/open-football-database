@@ -1,0 +1,27 @@
+{
+  "id": 16184576,
+  "first_name": "Dominik",
+  "last_name": "Fitz",
+  "birth_date": "1999-06-16",
+  "country_id": 755,
+  "club_id": 20030048,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 118,
+  "potential_ability": 133,
+  "value": 4000000,
+  "contract": {
+    "salary": 624000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

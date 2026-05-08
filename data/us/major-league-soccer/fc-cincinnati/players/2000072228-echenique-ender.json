@@ -1,0 +1,27 @@
+{
+  "id": 2000072228,
+  "first_name": "Ender",
+  "last_name": "Echenique",
+  "birth_date": "2004-04-02",
+  "country_id": 1658,
+  "club_id": 20041327,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 1000000,
+  "contract": {
+    "salary": 312000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

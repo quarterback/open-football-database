@@ -1,0 +1,27 @@
+{
+  "id": 2000252204,
+  "first_name": "Jack",
+  "last_name": "Neeley",
+  "birth_date": "2005-03-11",
+  "country_id": 390,
+  "club_id": 2000032491,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

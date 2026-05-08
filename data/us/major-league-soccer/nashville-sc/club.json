@@ -1,0 +1,57 @@
+{
+  "id": 20046403,
+  "name": "Nashville SC",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 18000000
+  },
+  "teams": [
+    {
+      "id": 20046403,
+      "name": "Nashville SC",
+      "slug": "nashville-sc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 89000071,
+      "name": "Nashville SC",
+      "slug": "nashville-sc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 89000072,
+      "name": "Nashville SC",
+      "slug": "nashville-sc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffd600",
+    "foreground": "#170f4f"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Fairly Basic"
+  },
+  "average_attendance": 25619
+}

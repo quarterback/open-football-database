@@ -1,0 +1,23 @@
+{
+  "id": 2000155713,
+  "first_name": "Alec",
+  "last_name": "Smir",
+  "birth_date": "1999-04-13",
+  "country_id": 390,
+  "club_id": 20030048,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 47000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

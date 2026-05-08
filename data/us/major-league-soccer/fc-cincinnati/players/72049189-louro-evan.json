@@ -1,0 +1,23 @@
+{
+  "id": 72049189,
+  "first_name": "Evan",
+  "last_name": "Louro",
+  "birth_date": "1996-01-19",
+  "country_id": 390,
+  "club_id": 20041327,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 382000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

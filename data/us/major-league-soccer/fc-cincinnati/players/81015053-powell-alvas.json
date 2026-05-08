@@ -1,0 +1,27 @@
+{
+  "id": 81015053,
+  "first_name": "Alvas",
+  "last_name": "Powell",
+  "birth_date": "1994-07-18",
+  "country_id": 377,
+  "club_id": 20041327,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 123,
+  "value": 957000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

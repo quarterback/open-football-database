@@ -1,0 +1,35 @@
+{
+  "id": 2000087051,
+  "first_name": "Bryan",
+  "last_name": "Ramírez",
+  "birth_date": "2000-08-11",
+  "country_id": 1654,
+  "club_id": 20041327,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 130,
+  "value": 3000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

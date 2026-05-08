@@ -1,0 +1,23 @@
+{
+  "id": 72052883,
+  "first_name": "Luis",
+  "last_name": "Barraza",
+  "birth_date": "1996-11-08",
+  "country_id": 390,
+  "club_id": 72052048,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 183000,
+  "contract": {
+    "salary": 156000,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

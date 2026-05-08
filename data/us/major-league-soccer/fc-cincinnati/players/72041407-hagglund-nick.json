@@ -1,0 +1,27 @@
+{
+  "id": 72041407,
+  "first_name": "Nick",
+  "last_name": "Hagglund",
+  "birth_date": "1992-09-14",
+  "country_id": 390,
+  "club_id": 20041327,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 107,
+  "value": 198000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

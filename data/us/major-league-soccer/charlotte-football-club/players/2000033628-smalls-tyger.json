@@ -1,0 +1,31 @@
+{
+  "id": 2000033628,
+  "first_name": "Tyger",
+  "last_name": "Smalls",
+  "birth_date": "2002-01-10",
+  "country_id": 765,
+  "club_id": 2000032491,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 93000,
+  "contract": {
+    "salary": 52000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

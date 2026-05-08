@@ -1,0 +1,31 @@
+{
+  "id": 2000091490,
+  "first_name": "Tadeo",
+  "last_name": "Allende",
+  "birth_date": "1999-02-20",
+  "country_id": 1649,
+  "club_id": 72052048,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 130,
+  "value": 3000000,
+  "contract": {
+    "salary": 5772000,
+    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

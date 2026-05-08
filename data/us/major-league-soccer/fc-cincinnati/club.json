@@ -1,0 +1,57 @@
+{
+  "id": 20041327,
+  "name": "FC Cincinnati",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 19000000
+  },
+  "teams": [
+    {
+      "id": 20041327,
+      "name": "FC Cincinnati",
+      "slug": "fc-cincinnati",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 89000057,
+      "name": "FC Cincinnati",
+      "slug": "fc-cincinnati-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 89000058,
+      "name": "FC Cincinnati",
+      "slug": "fc-cincinnati-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#003594",
+    "foreground": "#fe5000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 25265
+}

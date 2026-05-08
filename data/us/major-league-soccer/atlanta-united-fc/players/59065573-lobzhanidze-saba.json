@@ -1,0 +1,27 @@
+{
+  "id": 59065573,
+  "first_name": "Saba",
+  "last_name": "Lobzhanidze",
+  "birth_date": "1994-12-18",
+  "country_id": 770,
+  "club_id": 72047296,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 130,
+  "value": 5000000,
+  "contract": {
+    "salary": 728000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

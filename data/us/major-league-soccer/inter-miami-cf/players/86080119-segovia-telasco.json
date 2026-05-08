@@ -1,0 +1,23 @@
+{
+  "id": 86080119,
+  "first_name": "Telasco",
+  "last_name": "Segovia",
+  "birth_date": "2003-04-02",
+  "country_id": 1658,
+  "club_id": 72052048,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 130,
+  "value": 6000000,
+  "contract": {
+    "salary": 260000,
+    "expiration": "2029-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

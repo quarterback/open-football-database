@@ -1,0 +1,23 @@
+{
+  "id": 2000139842,
+  "first_name": "Nicolás",
+  "last_name": "Dubersarsky",
+  "birth_date": "2004-12-21",
+  "country_id": 1649,
+  "club_id": 72053036,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 3000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

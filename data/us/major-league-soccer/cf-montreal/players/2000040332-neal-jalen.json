@@ -1,0 +1,23 @@
+{
+  "id": 2000040332,
+  "first_name": "Jalen",
+  "last_name": "Neal",
+  "birth_date": "2003-08-24",
+  "country_id": 390,
+  "club_id": 105180,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 5000000,
+  "contract": {
+    "salary": 520000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

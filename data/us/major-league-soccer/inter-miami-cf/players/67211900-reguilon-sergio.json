@@ -1,0 +1,27 @@
+{
+  "id": 67211900,
+  "first_name": "Sergio",
+  "last_name": "Reguilón",
+  "birth_date": "1996-12-16",
+  "country_id": 796,
+  "club_id": 72052048,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 135,
+  "potential_ability": 148,
+  "value": 6000000,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

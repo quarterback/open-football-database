@@ -1,0 +1,22 @@
+{
+  "id": 72041431,
+  "first_name": "Aaron",
+  "last_name": "Long",
+  "birth_date": "1992-10-12",
+  "country_id": 390,
+  "club_id": 72049313,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 127,
+  "potential_ability": 127,
+  "contract": {
+    "salary": 780000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

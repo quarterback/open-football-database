@@ -1,0 +1,27 @@
+{
+  "id": 2000158084,
+  "first_name": "Dante",
+  "last_name": "Polvara",
+  "birth_date": "2000-06-21",
+  "country_id": 390,
+  "club_id": 2000153732,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 100,
+  "value": 0,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2000259716,
+  "name": "San Diego Football Club",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 26000000
+  },
+  "teams": [
+    {
+      "id": 2000259716,
+      "name": "San Diego Football Club",
+      "slug": "san-diego-football-club",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 89000087,
+      "name": "San Diego Football Club",
+      "slug": "san-diego-football-club-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 89000088,
+      "name": "San Diego Football Club",
+      "slug": "san-diego-football-club-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#5c0f8a",
+    "foreground": "#ff7a00"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Superb",
+    "youth": "Superb",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 28064
+}

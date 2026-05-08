@@ -1,0 +1,23 @@
+{
+  "id": 2000111586,
+  "first_name": "Ajani",
+  "last_name": "Fortune",
+  "birth_date": "2002-12-30",
+  "country_id": 389,
+  "club_id": 72047296,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 1000000,
+  "contract": {
+    "salary": 104000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

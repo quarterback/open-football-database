@@ -1,0 +1,57 @@
+{
+  "id": 72053036,
+  "name": "Austin FC",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 41000000
+  },
+  "teams": [
+    {
+      "id": 72053036,
+      "name": "Austin FC",
+      "slug": "austin-fc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 89000043,
+      "name": "Austin FC",
+      "slug": "austin-fc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 89000044,
+      "name": "Austin FC",
+      "slug": "austin-fc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#00b140",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Average"
+  },
+  "average_attendance": 20738
+}

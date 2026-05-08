@@ -1,0 +1,57 @@
+{
+  "id": 72052048,
+  "name": "Inter Miami CF",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 111000000
+  },
+  "teams": [
+    {
+      "id": 72052048,
+      "name": "Inter Miami CF",
+      "slug": "inter-miami-cf",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 89000063,
+      "name": "Inter Miami CF",
+      "slug": "inter-miami-cf-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 89000064,
+      "name": "Inter Miami CF",
+      "slug": "inter-miami-cf-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#f7b5cd",
+    "foreground": "#231f20"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Excellent",
+    "youth": "Great",
+    "academy": "Adequate",
+    "recruitment": "Excellent"
+  },
+  "average_attendance": 20994
+}

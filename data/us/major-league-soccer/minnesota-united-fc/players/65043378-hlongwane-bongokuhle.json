@@ -1,0 +1,31 @@
+{
+  "id": 65043378,
+  "first_name": "Bongokuhle",
+  "last_name": "Hlongwane",
+  "birth_date": "2000-06-20",
+  "country_id": 45,
+  "club_id": 20030048,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 130,
+  "value": 6000000,
+  "contract": {
+    "salary": 832000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

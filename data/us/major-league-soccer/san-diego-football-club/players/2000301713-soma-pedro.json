@@ -1,0 +1,23 @@
+{
+  "id": 2000301713,
+  "first_name": "Pedro",
+  "last_name": "Soma",
+  "birth_date": "2006-06-30",
+  "country_id": 390,
+  "club_id": 2000259716,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 100,
+  "potential_ability": 130,
+  "value": 2000000,
+  "contract": {
+    "salary": 208000,
+    "expiration": "2027-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

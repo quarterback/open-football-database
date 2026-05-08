@@ -1,0 +1,57 @@
+{
+  "id": 20030048,
+  "name": "Minnesota United FC",
+  "location": {
+    "city_id": 0
+  },
+  "finance": {
+    "balance": 14000000
+  },
+  "teams": [
+    {
+      "id": 20030048,
+      "name": "Minnesota United FC",
+      "slug": "minnesota-united-fc",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    },
+    {
+      "id": 89000069,
+      "name": "Minnesota United FC",
+      "slug": "minnesota-united-fc-u20",
+      "team_type": "U20",
+      "reputation": {
+        "home": 1680,
+        "national": 1680,
+        "world": 1680
+      }
+    },
+    {
+      "id": 89000070,
+      "name": "Minnesota United FC",
+      "slug": "minnesota-united-fc-u18",
+      "team_type": "U18",
+      "reputation": {
+        "home": 1120,
+        "national": 1120,
+        "world": 1120
+      }
+    }
+  ],
+  "colors": {
+    "background": "#8cd2f4",
+    "foreground": "#585958"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Great",
+    "youth": "Good",
+    "academy": "Adequate",
+    "recruitment": "Adequate"
+  },
+  "average_attendance": 19597
+}

@@ -1,0 +1,31 @@
+{
+  "id": 80035258,
+  "first_name": "Joseph",
+  "last_name": "Rosales",
+  "birth_date": "2000-11-06",
+  "country_id": 376,
+  "club_id": 72053036,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 119,
+  "value": 2000000,
+  "contract": {
+    "salary": 416000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

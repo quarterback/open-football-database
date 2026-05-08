@@ -1,0 +1,33 @@
+{
+  "id": 31041793,
+  "first_name": "Conrad",
+  "last_name": "Wallem",
+  "birth_date": "2000-06-09",
+  "country_id": 786,
+  "club_id": 2000153732,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 130,
+  "value": 3000000
+}

@@ -1,0 +1,35 @@
+{
+  "id": 14201874,
+  "first_name": "Facundo",
+  "last_name": "Mura",
+  "birth_date": "1999-03-23",
+  "country_id": 1649,
+  "club_id": 72052048,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 130,
+  "value": 3000000,
+  "contract": {
+    "salary": 468000,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

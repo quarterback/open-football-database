@@ -1,0 +1,23 @@
+{
+  "id": 29141814,
+  "first_name": "Sam",
+  "last_name": "Surridge",
+  "birth_date": "1998-07-28",
+  "country_id": 765,
+  "club_id": 20046403,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 122,
+  "potential_ability": 138,
+  "value": 6000000,
+  "contract": {
+    "salary": 2340000,
+    "expiration": "2028-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}

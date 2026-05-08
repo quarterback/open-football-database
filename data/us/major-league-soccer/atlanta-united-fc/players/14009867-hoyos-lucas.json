@@ -1,0 +1,22 @@
+{
+  "id": 14009867,
+  "first_name": "Lucas",
+  "last_name": "Hoyos",
+  "birth_date": "1989-04-29",
+  "country_id": 1649,
+  "club_id": 72047296,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 130,
+  "potential_ability": 130,
+  "contract": {
+    "salary": 364000,
+    "expiration": "2026-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  }
+}
