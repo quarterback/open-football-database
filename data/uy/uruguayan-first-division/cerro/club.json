@@ -53,5 +53,8 @@
     "academy": "Average",
     "recruitment": "Average"
   },
-  "average_attendance": 1819
+  "average_attendance": 1819,
+  "ids": {
+    "transfermarkt.com": "14806"
+  }
 }

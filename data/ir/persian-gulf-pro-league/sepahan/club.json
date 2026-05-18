@@ -53,5 +53,8 @@
     "academy": "Adequate",
     "recruitment": "Exceptional"
   },
-  "average_attendance": 15000
+  "average_attendance": 15000,
+  "ids": {
+    "transfermarkt.com": "4947"
+  }
 }

@@ -53,5 +53,8 @@
     "academy": "Basic",
     "recruitment": "Limited"
   },
-  "average_attendance": 1622
+  "average_attendance": 1622,
+  "ids": {
+    "transfermarkt.com": "32343"
+  }
 }

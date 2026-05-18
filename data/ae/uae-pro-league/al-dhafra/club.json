@@ -53,5 +53,8 @@
     "academy": "Fairly Basic",
     "recruitment": "Average"
   },
-  "average_attendance": 1210
+  "average_attendance": 1210,
+  "ids": {
+    "transfermarkt.com": "14456"
+  }
 }
