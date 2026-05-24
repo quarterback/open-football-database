@@ -1,0 +1,26 @@
+{
+  "id": 2000329087,
+  "first_name": "Donat",
+  "last_name": "Mehmeti",
+  "birth_date": "2006-06-21",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 52,
+  "potential_ability": 80,
+  "value": 52000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000329087"
+  }
+}

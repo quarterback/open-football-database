@@ -1,0 +1,26 @@
+{
+  "id": 2000467798,
+  "first_name": "Alerio",
+  "last_name": "Kola",
+  "birth_date": "2008-03-04",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 30,
+  "potential_ability": 50,
+  "value": 25000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000467798"
+  }
+}

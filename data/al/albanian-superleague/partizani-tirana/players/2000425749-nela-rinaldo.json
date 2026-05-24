@@ -1,0 +1,26 @@
+{
+  "id": 2000425749,
+  "first_name": "Rinaldo",
+  "last_name": "Nela",
+  "birth_date": "2007-01-20",
+  "country_id": 752,
+  "club_id": 69,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 57,
+  "potential_ability": 80,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000425749"
+  }
+}

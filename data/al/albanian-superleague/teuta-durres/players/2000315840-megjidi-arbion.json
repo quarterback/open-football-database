@@ -1,0 +1,26 @@
+{
+  "id": 2000315840,
+  "first_name": "Arbion",
+  "last_name": "Megjidi",
+  "birth_date": "2006-03-11",
+  "country_id": 752,
+  "club_id": 71,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 35,
+  "potential_ability": 50,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000315840"
+  }
+}

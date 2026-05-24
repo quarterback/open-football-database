@@ -1,0 +1,26 @@
+{
+  "id": 2000522733,
+  "first_name": "Denis",
+  "last_name": "Shera",
+  "birth_date": "2007-07-05",
+  "country_id": 752,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 80,
+  "value": 48000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000522733"
+  }
+}

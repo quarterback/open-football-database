@@ -1,0 +1,30 @@
+{
+  "id": 2000025370,
+  "first_name": "Rrok",
+  "last_name": "Toma",
+  "birth_date": "2004-02-27",
+  "country_id": 752,
+  "club_id": 69,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 80,
+  "value": 95000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000025370"
+  }
+}

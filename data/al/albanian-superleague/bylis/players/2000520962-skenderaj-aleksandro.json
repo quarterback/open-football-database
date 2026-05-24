@@ -1,0 +1,26 @@
+{
+  "id": 2000520962,
+  "first_name": "Aleksandro",
+  "last_name": "Skënderaj",
+  "birth_date": "2007-09-28",
+  "country_id": 752,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 40,
+  "potential_ability": 50,
+  "value": 20000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000520962"
+  }
+}

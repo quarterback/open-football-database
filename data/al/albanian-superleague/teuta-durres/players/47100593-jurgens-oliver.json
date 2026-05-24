@@ -1,0 +1,26 @@
+{
+  "id": 47100593,
+  "first_name": "Oliver",
+  "last_name": "Jürgens",
+  "birth_date": "2003-05-10",
+  "country_id": 766,
+  "club_id": 71,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 80,
+  "value": 83000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "47100593"
+  }
+}

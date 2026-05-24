@@ -1,0 +1,26 @@
+{
+  "id": 24053945,
+  "first_name": "Jasmin",
+  "last_name": "Čeliković",
+  "birth_date": "1999-01-07",
+  "country_id": 759,
+  "club_id": 72,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 74,
+  "potential_ability": 80,
+  "value": 95000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "24053945"
+  }
+}

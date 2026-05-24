@@ -1,0 +1,26 @@
+{
+  "id": 2000256654,
+  "first_name": "Aron",
+  "last_name": "Jukaj",
+  "birth_date": "2005-06-19",
+  "country_id": 752,
+  "club_id": 72,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 30,
+  "potential_ability": 50,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000256654"
+  }
+}

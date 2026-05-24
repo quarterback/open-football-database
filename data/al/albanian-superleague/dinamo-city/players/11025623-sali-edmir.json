@@ -1,0 +1,26 @@
+{
+  "id": 11025623,
+  "first_name": "Edmir",
+  "last_name": "Sali",
+  "birth_date": "1997-08-07",
+  "country_id": 752,
+  "club_id": 2000288897,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 80,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "11025623"
+  }
+}

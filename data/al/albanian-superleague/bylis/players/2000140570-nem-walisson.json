@@ -1,0 +1,38 @@
+{
+  "id": 2000140570,
+  "first_name": "Walisson",
+  "last_name": "Nem",
+  "birth_date": "1998-04-01",
+  "country_id": 1651,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 80,
+  "value": 26000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000140570"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 83185576,
+  "first_name": "Nani",
+  "last_name": "Ferreira",
+  "birth_date": "1998-02-22",
+  "country_id": 788,
+  "club_id": 2000288897,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 40,
+  "potential_ability": 50,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "83185576"
+  }
+}

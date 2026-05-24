@@ -1,0 +1,30 @@
+{
+  "id": 2000083479,
+  "first_name": "Anio",
+  "last_name": "Poçi",
+  "birth_date": "1999-03-13",
+  "country_id": 752,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 70,
+  "potential_ability": 80,
+  "value": 46000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000083479"
+  }
+}

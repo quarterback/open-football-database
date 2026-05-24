@@ -1,0 +1,30 @@
+{
+  "id": 2000122588,
+  "first_name": "Archange",
+  "last_name": "Bintsouka",
+  "birth_date": "2002-10-25",
+  "country_id": 49,
+  "club_id": 63,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 80,
+  "value": 100000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000122588"
+  }
+}

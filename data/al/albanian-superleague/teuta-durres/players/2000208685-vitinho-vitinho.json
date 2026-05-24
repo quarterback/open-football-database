@@ -1,0 +1,30 @@
+{
+  "id": 2000208685,
+  "first_name": "Vitinho",
+  "last_name": "Vitinho",
+  "birth_date": "2005-08-17",
+  "country_id": 1651,
+  "club_id": 71,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "current_ability": 40,
+  "potential_ability": 80,
+  "value": 50000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-05-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000208685"
+  }
+}

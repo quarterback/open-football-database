@@ -1,0 +1,30 @@
+{
+  "id": 2000109078,
+  "first_name": "Redon",
+  "last_name": "Xhixha",
+  "birth_date": "1998-07-14",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 80,
+  "value": 129000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000109078"
+  }
+}

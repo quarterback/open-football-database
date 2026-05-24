@@ -1,0 +1,38 @@
+{
+  "id": 71,
+  "name": "Teuta Durrës",
+  "location": {
+    "city_id": 7202
+  },
+  "finance": {
+    "balance": 1500000
+  },
+  "teams": [
+    {
+      "id": 71,
+      "name": "Teuta Durrës",
+      "slug": "teuta-durres",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1600,
+        "national": 1600,
+        "world": 1600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#ff0000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2000,
+  "ids": {
+    "sortitoutsi": "71"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2000080576,
+  "first_name": "Harallamb",
+  "last_name": "Qaqi",
+  "birth_date": "1993-09-17",
+  "country_id": 752,
+  "club_id": 71,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 80,
+  "value": 22000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000080576"
+  }
+}

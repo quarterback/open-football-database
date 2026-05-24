@@ -1,0 +1,26 @@
+{
+  "id": 2000490162,
+  "first_name": "Alvi",
+  "last_name": "Kumbaro",
+  "birth_date": "2009-04-18",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 25,
+  "potential_ability": 50,
+  "value": 23000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000490162"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2000520893,
+  "first_name": "Hizdion",
+  "last_name": "Sulejmani",
+  "birth_date": "2008-11-25",
+  "country_id": 752,
+  "club_id": 63,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 45,
+  "potential_ability": 80,
+  "value": 59000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000520893"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2000046819,
+  "first_name": "Edison",
+  "last_name": "Kola",
+  "birth_date": "2001-04-09",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 80,
+  "value": 31000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000046819"
+  }
+}

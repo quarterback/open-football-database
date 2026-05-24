@@ -1,0 +1,30 @@
+{
+  "id": 2000416877,
+  "first_name": "Faisal",
+  "last_name": "Charwetey",
+  "birth_date": "2002-12-03",
+  "country_id": 21,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 58,
+  "potential_ability": 80,
+  "value": 57000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000416877"
+  }
+}

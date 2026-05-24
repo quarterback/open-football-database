@@ -1,0 +1,26 @@
+{
+  "id": 2000189283,
+  "first_name": "Aurel",
+  "last_name": "Marku",
+  "birth_date": "2005-01-13",
+  "country_id": 752,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 69,
+  "potential_ability": 80,
+  "value": 51000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000189283"
+  }
+}

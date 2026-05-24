@@ -1,0 +1,34 @@
+{
+  "id": 11023334,
+  "first_name": "Lorenc",
+  "last_name": "Trashi",
+  "birth_date": "1992-05-19",
+  "country_id": 752,
+  "club_id": 63,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 80,
+  "value": 35000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "11023334"
+  }
+}

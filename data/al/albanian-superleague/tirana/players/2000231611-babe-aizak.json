@@ -1,0 +1,26 @@
+{
+  "id": 2000231611,
+  "first_name": "Aizak",
+  "last_name": "Babe",
+  "birth_date": "2006-09-05",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 40,
+  "potential_ability": 50,
+  "value": 10000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000231611"
+  }
+}

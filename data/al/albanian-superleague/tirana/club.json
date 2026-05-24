@@ -1,0 +1,38 @@
+{
+  "id": 61,
+  "name": "Tirana",
+  "location": {
+    "city_id": 7200
+  },
+  "finance": {
+    "balance": 1500000
+  },
+  "teams": [
+    {
+      "id": 61,
+      "name": "Tirana",
+      "slug": "tirana",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2400,
+        "national": 2400,
+        "world": 2400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0033a0",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2000,
+  "ids": {
+    "sortitoutsi": "61"
+  }
+}

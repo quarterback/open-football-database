@@ -1,0 +1,26 @@
+{
+  "id": 47094705,
+  "first_name": "Ildi",
+  "last_name": "Gruda",
+  "birth_date": "1999-12-13",
+  "country_id": 752,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 80,
+  "value": 151000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "47094705"
+  }
+}

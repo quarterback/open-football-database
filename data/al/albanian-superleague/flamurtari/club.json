@@ -1,0 +1,38 @@
+{
+  "id": 63,
+  "name": "Flamurtari",
+  "location": {
+    "city_id": 7201
+  },
+  "finance": {
+    "balance": 1500000
+  },
+  "teams": [
+    {
+      "id": 63,
+      "name": "Flamurtari",
+      "slug": "flamurtari",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1800,
+        "national": 1800,
+        "world": 1800
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ff0000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2000,
+  "ids": {
+    "sortitoutsi": "63"
+  }
+}

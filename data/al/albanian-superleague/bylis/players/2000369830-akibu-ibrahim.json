@@ -1,0 +1,26 @@
+{
+  "id": 2000369830,
+  "first_name": "Ibrahim",
+  "last_name": "Akibu",
+  "birth_date": "2005-01-02",
+  "country_id": 38,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 44,
+  "potential_ability": 50,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000369830"
+  }
+}

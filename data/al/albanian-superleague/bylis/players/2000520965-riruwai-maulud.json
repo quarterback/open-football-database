@@ -1,0 +1,26 @@
+{
+  "id": 2000520965,
+  "first_name": "Maulud",
+  "last_name": "Riruwai",
+  "birth_date": "2007-03-10",
+  "country_id": 38,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 40,
+  "potential_ability": 50,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000520965"
+  }
+}

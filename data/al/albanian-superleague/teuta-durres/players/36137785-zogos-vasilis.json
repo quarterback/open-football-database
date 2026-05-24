@@ -1,0 +1,30 @@
+{
+  "id": 36137785,
+  "first_name": "Vasilis",
+  "last_name": "Zogos",
+  "birth_date": "1999-07-29",
+  "country_id": 772,
+  "club_id": 71,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 80,
+  "value": 39000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "36137785"
+  }
+}

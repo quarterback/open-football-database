@@ -1,0 +1,26 @@
+{
+  "id": 2000189275,
+  "first_name": "Tomas",
+  "last_name": "Kiri",
+  "birth_date": "2005-01-02",
+  "country_id": 752,
+  "club_id": 2000288897,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 53,
+  "potential_ability": 80,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000189275"
+  }
+}

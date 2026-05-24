@@ -1,0 +1,26 @@
+{
+  "id": 2000520901,
+  "first_name": "Elio",
+  "last_name": "Nderjaku",
+  "birth_date": "2007-04-07",
+  "country_id": 752,
+  "club_id": 2000288897,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 80,
+  "value": 64000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000520901"
+  }
+}

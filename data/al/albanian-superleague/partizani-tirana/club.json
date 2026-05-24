@@ -1,0 +1,38 @@
+{
+  "id": 69,
+  "name": "Partizani Tirana",
+  "location": {
+    "city_id": 7200
+  },
+  "finance": {
+    "balance": 1500000
+  },
+  "teams": [
+    {
+      "id": 69,
+      "name": "Partizani Tirana",
+      "slug": "partizani-tirana",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2300,
+        "national": 2300,
+        "world": 2300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ff0000",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2000,
+  "ids": {
+    "sortitoutsi": "69"
+  }
+}

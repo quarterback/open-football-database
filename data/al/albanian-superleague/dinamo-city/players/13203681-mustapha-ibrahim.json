@@ -1,0 +1,30 @@
+{
+  "id": 13203681,
+  "first_name": "Ibrahim",
+  "last_name": "Mustapha",
+  "birth_date": "1996-09-01",
+  "country_id": 38,
+  "club_id": 2000288897,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 80,
+  "value": 83000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "13203681"
+  }
+}

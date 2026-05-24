@@ -1,0 +1,38 @@
+{
+  "id": 2000288897,
+  "name": "Dinamo City",
+  "location": {
+    "city_id": 7200
+  },
+  "finance": {
+    "balance": 1500000
+  },
+  "teams": [
+    {
+      "id": 2000288897,
+      "name": "Dinamo City",
+      "slug": "dinamo-city",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1900,
+        "national": 1900,
+        "world": 1900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0066b3",
+    "foreground": "#ffffff"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2000,
+  "ids": {
+    "sortitoutsi": "2000288897"
+  }
+}

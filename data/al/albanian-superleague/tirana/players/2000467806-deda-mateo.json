@@ -1,0 +1,26 @@
+{
+  "id": 2000467806,
+  "first_name": "Mateo",
+  "last_name": "Deda",
+  "birth_date": "2008-12-07",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 45,
+  "potential_ability": 80,
+  "value": 59000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000467806"
+  }
+}

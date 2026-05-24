@@ -1,0 +1,26 @@
+{
+  "id": 59136731,
+  "first_name": "Zamiq",
+  "last_name": "Əliyev",
+  "birth_date": "2001-05-05",
+  "country_id": 756,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 80,
+  "value": 11000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "59136731"
+  }
+}

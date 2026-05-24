@@ -1,0 +1,26 @@
+{
+  "id": 11027253,
+  "first_name": "Mario",
+  "last_name": "Dajsinani",
+  "birth_date": "1998-12-23",
+  "country_id": 752,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 80,
+  "value": 38000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "11027253"
+  }
+}

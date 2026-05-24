@@ -1,0 +1,34 @@
+{
+  "id": 2000241177,
+  "first_name": "Arli",
+  "last_name": "Pergjoni",
+  "birth_date": "2002-09-14",
+  "country_id": 752,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 45,
+  "potential_ability": 50,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000241177"
+  }
+}

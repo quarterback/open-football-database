@@ -1,0 +1,26 @@
+{
+  "id": 2000520880,
+  "first_name": "Fjoraldo",
+  "last_name": "Bejdollari",
+  "birth_date": "2008-10-30",
+  "country_id": 752,
+  "club_id": 63,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 45,
+  "potential_ability": 80,
+  "value": 67000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000520880"
+  }
+}

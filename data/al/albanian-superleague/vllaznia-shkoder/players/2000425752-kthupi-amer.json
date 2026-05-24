@@ -1,0 +1,26 @@
+{
+  "id": 2000425752,
+  "first_name": "Amer",
+  "last_name": "Kthupi",
+  "birth_date": "2008-03-16",
+  "country_id": 752,
+  "club_id": 72,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 80,
+  "value": 57000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000425752"
+  }
+}

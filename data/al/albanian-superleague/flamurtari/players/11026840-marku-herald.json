@@ -1,0 +1,34 @@
+{
+  "id": 11026840,
+  "first_name": "Herald",
+  "last_name": "Marku",
+  "birth_date": "1996-05-18",
+  "country_id": 752,
+  "club_id": 63,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 80,
+  "value": 83000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "11026840"
+  }
+}

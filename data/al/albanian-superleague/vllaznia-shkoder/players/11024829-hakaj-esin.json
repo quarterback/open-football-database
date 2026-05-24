@@ -1,0 +1,26 @@
+{
+  "id": 11024829,
+  "first_name": "Esin",
+  "last_name": "Hakaj",
+  "birth_date": "1996-12-06",
+  "country_id": 752,
+  "club_id": 72,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 80,
+  "value": 45000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "11024829"
+  }
+}

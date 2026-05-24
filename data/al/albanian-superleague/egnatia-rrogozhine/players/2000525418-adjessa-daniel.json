@@ -1,0 +1,26 @@
+{
+  "id": 2000525418,
+  "first_name": "Daniel",
+  "last_name": "Adjessa",
+  "birth_date": "2002-12-08",
+  "country_id": 11,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 80,
+  "value": 52000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2029-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000525418"
+  }
+}

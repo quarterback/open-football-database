@@ -1,0 +1,26 @@
+{
+  "id": 2000425730,
+  "first_name": "Serxho",
+  "last_name": "Vogli",
+  "birth_date": "2008-03-11",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 40,
+  "potential_ability": 80,
+  "value": 59000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000425730"
+  }
+}

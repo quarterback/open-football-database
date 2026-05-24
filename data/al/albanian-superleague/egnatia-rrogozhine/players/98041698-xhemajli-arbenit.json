@@ -1,0 +1,26 @@
+{
+  "id": 98041698,
+  "first_name": "Arbenit",
+  "last_name": "Xhemajli",
+  "birth_date": "1998-04-23",
+  "country_id": 752,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 80,
+  "value": 84000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "98041698"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2000518665,
+  "first_name": "Simon",
+  "last_name": "Uldedaj",
+  "birth_date": "2009-02-06",
+  "country_id": 752,
+  "club_id": 72,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 45,
+  "potential_ability": 80,
+  "value": 56000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000518665"
+  }
+}

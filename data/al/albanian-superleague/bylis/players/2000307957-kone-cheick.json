@@ -1,0 +1,30 @@
+{
+  "id": 2000307957,
+  "first_name": "Cheick",
+  "last_name": "Kone",
+  "birth_date": "2006-04-04",
+  "country_id": 765,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 30,
+  "potential_ability": 80,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000307957"
+  }
+}

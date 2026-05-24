@@ -1,0 +1,26 @@
+{
+  "id": 2000063211,
+  "first_name": "Levan",
+  "last_name": "Tandilashvili",
+  "birth_date": "2003-02-27",
+  "country_id": 770,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 110,
+  "value": 105000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000063211"
+  }
+}

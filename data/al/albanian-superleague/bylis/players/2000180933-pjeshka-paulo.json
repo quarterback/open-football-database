@@ -1,0 +1,34 @@
+{
+  "id": 2000180933,
+  "first_name": "Paulo",
+  "last_name": "Pjeshka",
+  "birth_date": "2003-02-18",
+  "country_id": 752,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 64,
+  "potential_ability": 80,
+  "value": 4000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000180933"
+  }
+}

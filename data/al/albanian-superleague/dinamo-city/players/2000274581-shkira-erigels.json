@@ -1,0 +1,26 @@
+{
+  "id": 2000274581,
+  "first_name": "Erigels",
+  "last_name": "Shkira",
+  "birth_date": "2006-05-03",
+  "country_id": 752,
+  "club_id": 2000288897,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "current_ability": 35,
+  "potential_ability": 50,
+  "value": 9000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000274581"
+  }
+}

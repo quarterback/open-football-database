@@ -1,0 +1,30 @@
+{
+  "id": 2000256651,
+  "first_name": "Ermal",
+  "last_name": "Meta",
+  "birth_date": "2005-06-20",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 51,
+  "potential_ability": 80,
+  "value": 75000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000256651"
+  }
+}

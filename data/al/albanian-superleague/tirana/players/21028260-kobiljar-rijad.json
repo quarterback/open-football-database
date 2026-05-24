@@ -1,0 +1,30 @@
+{
+  "id": 21028260,
+  "first_name": "Rijad",
+  "last_name": "Kobiljar",
+  "birth_date": "1996-04-08",
+  "country_id": 759,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 71,
+  "potential_ability": 80,
+  "value": 96000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "21028260"
+  }
+}

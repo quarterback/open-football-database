@@ -1,0 +1,26 @@
+{
+  "id": 2000532807,
+  "first_name": "Leon",
+  "last_name": "Misja",
+  "birth_date": "2007-11-28",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 63,
+  "potential_ability": 80,
+  "value": 53000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000532807"
+  }
+}

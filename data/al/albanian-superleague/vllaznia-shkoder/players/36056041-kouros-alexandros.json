@@ -1,0 +1,30 @@
+{
+  "id": 36056041,
+  "first_name": "Alexandros",
+  "last_name": "Kouros",
+  "birth_date": "1993-08-21",
+  "country_id": 772,
+  "club_id": 72,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 80,
+  "value": 27000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "36056041"
+  }
+}

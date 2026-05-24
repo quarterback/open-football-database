@@ -1,0 +1,26 @@
+{
+  "id": 2000269164,
+  "first_name": "Fabjan",
+  "last_name": "Përndreca",
+  "birth_date": "2006-12-06",
+  "country_id": 752,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 80,
+  "value": 0,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000269164"
+  }
+}

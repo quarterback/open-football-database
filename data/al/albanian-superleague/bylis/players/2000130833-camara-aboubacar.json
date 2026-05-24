@@ -1,0 +1,30 @@
+{
+  "id": 2000130833,
+  "first_name": "Aboubacar",
+  "last_name": "Camara",
+  "birth_date": "2002-01-04",
+  "country_id": 37,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 39,
+  "potential_ability": 50,
+  "value": 3000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000130833"
+  }
+}

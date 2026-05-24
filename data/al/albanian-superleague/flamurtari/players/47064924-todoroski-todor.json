@@ -1,0 +1,42 @@
+{
+  "id": 47064924,
+  "first_name": "Todor",
+  "last_name": "Todoroski",
+  "birth_date": "1999-02-26",
+  "country_id": 781,
+  "club_id": 63,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 80,
+  "value": 83000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "47064924"
+  }
+}

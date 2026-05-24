@@ -1,0 +1,26 @@
+{
+  "id": 53055061,
+  "first_name": "Kamer",
+  "last_name": "Qaka",
+  "birth_date": "1995-04-11",
+  "country_id": 752,
+  "club_id": 69,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 65,
+  "potential_ability": 80,
+  "value": 55000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "53055061"
+  }
+}

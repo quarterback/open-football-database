@@ -1,0 +1,26 @@
+{
+  "id": 2000520963,
+  "first_name": "Ahmed",
+  "last_name": "Adepoju",
+  "birth_date": "2007-06-06",
+  "country_id": 38,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 40,
+  "potential_ability": 50,
+  "value": 7000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000520963"
+  }
+}

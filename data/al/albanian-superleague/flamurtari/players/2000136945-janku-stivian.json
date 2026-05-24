@@ -1,0 +1,30 @@
+{
+  "id": 2000136945,
+  "first_name": "Stivian",
+  "last_name": "Janku",
+  "birth_date": "1997-06-23",
+  "country_id": 752,
+  "club_id": 63,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 80,
+  "value": 29000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000136945"
+  }
+}

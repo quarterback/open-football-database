@@ -1,0 +1,26 @@
+{
+  "id": 11024574,
+  "first_name": "Denis",
+  "last_name": "Pjeshka",
+  "birth_date": "1995-05-28",
+  "country_id": 752,
+  "club_id": 63,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 80,
+  "value": 33000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "11024574"
+  }
+}

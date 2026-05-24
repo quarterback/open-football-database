@@ -1,0 +1,30 @@
+{
+  "id": 18089899,
+  "first_name": "William",
+  "last_name": "Baeten",
+  "birth_date": "1997-02-07",
+  "country_id": 757,
+  "club_id": 63,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 80,
+  "value": 151000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "18089899"
+  }
+}

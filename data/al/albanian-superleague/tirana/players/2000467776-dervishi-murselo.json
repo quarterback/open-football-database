@@ -1,0 +1,26 @@
+{
+  "id": 2000467776,
+  "first_name": "Murselo",
+  "last_name": "Dervishi",
+  "birth_date": "2007-01-18",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "current_ability": 35,
+  "potential_ability": 50,
+  "value": 12000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000467776"
+  }
+}

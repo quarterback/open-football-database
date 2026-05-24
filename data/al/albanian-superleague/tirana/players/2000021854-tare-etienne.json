@@ -1,0 +1,26 @@
+{
+  "id": 2000021854,
+  "first_name": "Etienne",
+  "last_name": "Tare",
+  "birth_date": "2003-09-13",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 55,
+  "potential_ability": 80,
+  "value": 83000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000021854"
+  }
+}

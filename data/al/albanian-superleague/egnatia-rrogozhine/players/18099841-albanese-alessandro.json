@@ -1,0 +1,30 @@
+{
+  "id": 18099841,
+  "first_name": "Alessandro",
+  "last_name": "Albanese",
+  "birth_date": "2000-01-12",
+  "country_id": 757,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "current_ability": 72,
+  "potential_ability": 80,
+  "value": 58000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "18099841"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 19309685,
+  "first_name": "Olávio",
+  "last_name": "Olávio",
+  "birth_date": "1993-09-10",
+  "country_id": 1651,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 78,
+  "potential_ability": 80,
+  "value": 77000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "19309685"
+  }
+}

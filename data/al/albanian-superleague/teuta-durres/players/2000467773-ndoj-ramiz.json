@@ -1,0 +1,26 @@
+{
+  "id": 2000467773,
+  "first_name": "Ramiz",
+  "last_name": "Ndoj",
+  "birth_date": "2007-02-13",
+  "country_id": 752,
+  "club_id": 71,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 35,
+  "potential_ability": 50,
+  "value": 38000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000467773"
+  }
+}

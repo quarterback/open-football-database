@@ -1,0 +1,26 @@
+{
+  "id": 30054481,
+  "first_name": "Melos",
+  "last_name": "Bajrami",
+  "birth_date": "2001-09-29",
+  "country_id": 752,
+  "club_id": 72,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "current_ability": 46,
+  "potential_ability": 50,
+  "value": 5000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "30054481"
+  }
+}

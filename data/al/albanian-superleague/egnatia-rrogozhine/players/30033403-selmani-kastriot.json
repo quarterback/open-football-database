@@ -1,0 +1,26 @@
+{
+  "id": 30033403,
+  "first_name": "Kastriot",
+  "last_name": "Selmani",
+  "birth_date": "1999-07-08",
+  "country_id": 752,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 80,
+  "value": 79000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "30033403"
+  }
+}

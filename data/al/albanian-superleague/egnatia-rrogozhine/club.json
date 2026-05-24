@@ -1,0 +1,38 @@
+{
+  "id": 8350953,
+  "name": "Egnatia Rrogozhinë",
+  "location": {
+    "city_id": 7205
+  },
+  "finance": {
+    "balance": 1500000
+  },
+  "teams": [
+    {
+      "id": 8350953,
+      "name": "Egnatia Rrogozhinë",
+      "slug": "egnatia-rrogozhine",
+      "team_type": "Main",
+      "reputation": {
+        "home": 2200,
+        "national": 2200,
+        "world": 2200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffc20e",
+    "foreground": "#000000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2000,
+  "ids": {
+    "sortitoutsi": "8350953"
+  }
+}

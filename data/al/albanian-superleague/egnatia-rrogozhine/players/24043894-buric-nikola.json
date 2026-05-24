@@ -1,0 +1,34 @@
+{
+  "id": 24043894,
+  "first_name": "Nikola",
+  "last_name": "Burić",
+  "birth_date": "1996-10-01",
+  "country_id": 761,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "FC",
+      "level": 20
+    }
+  ],
+  "current_ability": 73,
+  "potential_ability": 80,
+  "value": 79000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "24043894"
+  }
+}

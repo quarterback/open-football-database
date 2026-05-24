@@ -1,0 +1,34 @@
+{
+  "id": 24065186,
+  "first_name": "Albion",
+  "last_name": "Marku",
+  "birth_date": "2000-10-14",
+  "country_id": 752,
+  "club_id": 69,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "current_ability": 59,
+  "potential_ability": 80,
+  "value": 44000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "24065186"
+  }
+}

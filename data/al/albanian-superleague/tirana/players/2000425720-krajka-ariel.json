@@ -1,0 +1,34 @@
+{
+  "id": 2000425720,
+  "first_name": "Ariel",
+  "last_name": "Krajka",
+  "birth_date": "2006-09-27",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 80,
+  "value": 51000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000425720"
+  }
+}

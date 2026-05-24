@@ -1,0 +1,26 @@
+{
+  "id": 2000425755,
+  "first_name": "Serxho",
+  "last_name": "Prendi",
+  "birth_date": "2008-03-29",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 40,
+  "potential_ability": 80,
+  "value": 67000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000425755"
+  }
+}

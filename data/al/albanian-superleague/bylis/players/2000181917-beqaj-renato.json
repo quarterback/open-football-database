@@ -1,0 +1,26 @@
+{
+  "id": 2000181917,
+  "first_name": "Renato",
+  "last_name": "Beqaj",
+  "birth_date": "2004-06-22",
+  "country_id": 752,
+  "club_id": 1300042,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 50,
+  "potential_ability": 80,
+  "value": 52000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000181917"
+  }
+}

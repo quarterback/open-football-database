@@ -1,0 +1,38 @@
+{
+  "id": 1300042,
+  "name": "Bylis",
+  "location": {
+    "city_id": 7204
+  },
+  "finance": {
+    "balance": 1500000
+  },
+  "teams": [
+    {
+      "id": 1300042,
+      "name": "Bylis",
+      "slug": "bylis",
+      "team_type": "Main",
+      "reputation": {
+        "home": 1200,
+        "national": 1200,
+        "world": 1200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#ffffff",
+    "foreground": "#ff0000"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Average",
+    "youth": "Average",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 2000,
+  "ids": {
+    "sortitoutsi": "1300042"
+  }
+}

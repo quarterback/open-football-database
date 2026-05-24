@@ -1,0 +1,26 @@
+{
+  "id": 89057083,
+  "first_name": "Visar",
+  "last_name": "Bekaj",
+  "birth_date": "1997-05-24",
+  "country_id": 752,
+  "club_id": 61,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 75,
+  "potential_ability": 80,
+  "value": 125000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "89057083"
+  }
+}

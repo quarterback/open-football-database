@@ -1,0 +1,26 @@
+{
+  "id": 2000305320,
+  "first_name": "Gerald",
+  "last_name": "Kubazi",
+  "birth_date": "2006-08-17",
+  "country_id": 752,
+  "club_id": 72,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 35,
+  "potential_ability": 50,
+  "value": 8000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000305320"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": 2000292082,
+  "first_name": "Daniel",
+  "last_name": "Afful",
+  "birth_date": "2005-09-03",
+  "country_id": 21,
+  "club_id": 8350953,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 67,
+  "potential_ability": 80,
+  "value": 13000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000292082"
+  }
+}

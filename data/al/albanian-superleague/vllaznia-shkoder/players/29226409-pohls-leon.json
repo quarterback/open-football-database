@@ -1,0 +1,26 @@
+{
+  "id": 29226409,
+  "first_name": "Léon",
+  "last_name": "Pöhls",
+  "birth_date": "1997-05-01",
+  "country_id": 771,
+  "club_id": 72,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 79,
+  "potential_ability": 80,
+  "value": 31000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "sortitoutsi": "29226409"
+  }
+}

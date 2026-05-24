@@ -1,0 +1,26 @@
+{
+  "id": 2000520902,
+  "first_name": "Mustapha",
+  "last_name": "Koma",
+  "birth_date": "2007-03-02",
+  "country_id": 20,
+  "club_id": 2000288897,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 60,
+  "potential_ability": 80,
+  "value": 39000,
+  "contract": {
+    "salary": 0,
+    "expiration": "2026-06-30",
+    "started": "2025-07-01",
+    "contract_type": "PartTime"
+  },
+  "ids": {
+    "sortitoutsi": "2000520902"
+  }
+}
