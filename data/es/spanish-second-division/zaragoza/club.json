@@ -1,6 +1,6 @@
 {
   "id": 1749,
-  "name": "Real Zaragoza",
+  "name": "Zaragoza",
   "location": {
     "city_id": 627
   },
@@ -10,7 +10,7 @@
   "teams": [
     {
       "id": 1749,
-      "name": "Real Zaragoza",
+      "name": "Zaragoza",
       "slug": "zaragoza",
       "team_type": "Main",
       "reputation": {
@@ -21,7 +21,7 @@
     },
     {
       "id": 99700015,
-      "name": "Real Zaragoza",
+      "name": "Zaragoza",
       "slug": "zaragoza-u20",
       "team_type": "U20",
       "reputation": {
@@ -32,7 +32,7 @@
     },
     {
       "id": 99700016,
-      "name": "Real Zaragoza",
+      "name": "Zaragoza",
       "slug": "zaragoza-u18",
       "team_type": "U18",
       "reputation": {

@@ -1,6 +1,6 @@
 {
   "id": 1709,
-  "name": "FC Andorra",
+  "name": "Andorra",
   "location": {
     "city_id": 639
   },
@@ -10,7 +10,7 @@
   "teams": [
     {
       "id": 1709,
-      "name": "FC Andorra",
+      "name": "Andorra",
       "slug": "fc-andorra",
       "team_type": "Main",
       "reputation": {
@@ -21,7 +21,7 @@
     },
     {
       "id": 99700039,
-      "name": "FC Andorra",
+      "name": "Andorra",
       "slug": "fc-andorra-u20",
       "team_type": "U20",
       "reputation": {
@@ -32,7 +32,7 @@
     },
     {
       "id": 99700040,
-      "name": "FC Andorra",
+      "name": "Andorra",
       "slug": "fc-andorra-u18",
       "team_type": "U18",
       "reputation": {

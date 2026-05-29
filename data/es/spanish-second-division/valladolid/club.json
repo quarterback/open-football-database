@@ -1,6 +1,6 @@
 {
   "id": 1747,
-  "name": "Real Valladolid",
+  "name": "Valladolid",
   "location": {
     "city_id": 624
   },
@@ -10,7 +10,7 @@
   "teams": [
     {
       "id": 1747,
-      "name": "Real Valladolid",
+      "name": "Valladolid",
       "slug": "valladolid",
       "team_type": "Main",
       "reputation": {
@@ -21,7 +21,7 @@
     },
     {
       "id": 99700009,
-      "name": "Real Valladolid",
+      "name": "Valladolid",
       "slug": "valladolid-u20",
       "team_type": "U20",
       "reputation": {
@@ -32,7 +32,7 @@
     },
     {
       "id": 99700010,
-      "name": "Real Valladolid",
+      "name": "Valladolid",
       "slug": "valladolid-u18",
       "team_type": "U18",
       "reputation": {

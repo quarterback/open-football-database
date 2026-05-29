@@ -1,6 +1,6 @@
 {
   "id": 1744,
-  "name": "Sporting Gijón",
+  "name": "Gijón",
   "location": {
     "city_id": 626
   },
@@ -10,7 +10,7 @@
   "teams": [
     {
       "id": 1744,
-      "name": "Sporting Gijón",
+      "name": "Gijón",
       "slug": "sporting-gijon",
       "team_type": "Main",
       "reputation": {
@@ -21,7 +21,7 @@
     },
     {
       "id": 99700013,
-      "name": "Sporting Gijón",
+      "name": "Gijón",
       "slug": "sporting-gijon-u20",
       "team_type": "U20",
       "reputation": {
@@ -32,7 +32,7 @@
     },
     {
       "id": 99700014,
-      "name": "Sporting Gijón",
+      "name": "Gijón",
       "slug": "sporting-gijon-u18",
       "team_type": "U18",
       "reputation": {
