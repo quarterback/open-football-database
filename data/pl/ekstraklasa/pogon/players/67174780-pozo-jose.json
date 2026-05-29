@@ -1,0 +1,34 @@
+{
+  "id": 67174780,
+  "first_name": "José",
+  "last_name": "Pozo",
+  "birth_date": "1996-03-15",
+  "country_id": 796,
+  "club_id": 1459,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 85,
+  "potential_ability": 116,
+  "value": 866000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "195605"
+  },
+  "history": [
+    { "s": 2014, "c": 679, "p": 3 },
+    { "s": 2018, "c": 1729, "p": 29, "g": 3 },
+    { "s": 2022, "c": 1729, "p": 8 },
+    { "s": 2023, "c": 1729, "p": 2 }
+  ]
+}
