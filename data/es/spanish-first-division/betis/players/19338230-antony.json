@@ -1,0 +1,34 @@
+{
+  "id": 19338230,
+  "first_name": "Antony",
+  "last_name": "",
+  "birth_date": "2000-02-24",
+  "country_id": 1651,
+  "club_id": 1733,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "current_ability": 117,
+  "potential_ability": 125,
+  "value": 52000000,
+  "contract": {    "expiration": "2030-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "602105"
+  },
+  "history": [
+    { "s": 2020, "c": 992, "p": 32, "g": 9 },
+    { "s": 2021, "c": 992, "p": 23, "g": 8 },
+    { "s": 2022, "c": 680, "p": 25, "g": 4 },
+    { "s": 2022, "c": 992, "p": 2, "g": 1 },
+    { "s": 2023, "c": 680, "p": 29, "g": 1 },
+    { "s": 2024, "c": 680, "p": 8 },
+    { "s": 2024, "c": 1733, "p": 17, "g": 5 },
+    { "s": 2025, "c": 1733, "p": 24, "g": 7 }
+  ]
+}
