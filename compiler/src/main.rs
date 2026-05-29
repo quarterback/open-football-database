@@ -5,6 +5,7 @@
 //!   data/continents.json
 //!   data/countries.json
 //!   data/national_competitions.json
+//!   data/domestic_cups.json   (optional — domestic club cups, keyed by country slug)
 //!   data/{country_code}/names.json
 //!   data/{country_code}/{league_slug}/league.json
 //!   data/{country_code}/{league_slug}/{club_slug}/club.json
@@ -41,7 +42,7 @@ use serde_json::{Map, Value};
 
 const OUTPUT_VERSION: &str = "0.01";
 const DEFAULT_DATA_DIR: &str = "../data";
-const DEFAULT_OUT_FILE: &str = r"F:\Rust\open-football\src\database\src\data\database.db";
+const DEFAULT_OUT_FILE: &str = r"D:\Projects\open-football\src\database\src\data\database.db";
 
 struct Args {
     data_dir: PathBuf,
@@ -95,6 +96,7 @@ struct Counts {
     continents: usize,
     countries: usize,
     national_competitions: usize,
+    domestic_cups: usize,
     leagues: usize,
     clubs: usize,
     names: usize,
@@ -113,6 +115,10 @@ fn main() -> Result<()> {
     let countries = read_top_level_array(&args.data_dir, "countries.json")?;
     let national_competitions =
         read_top_level_array(&args.data_dir, "national_competitions.json")?;
+    // Domestic club cups (FA Cup, Copa del Rey, ...). Optional: when the
+    // file is absent the runtime generator falls back to a "{Country} Cup"
+    // for every active country, so an older data tree still compiles.
+    let domestic_cups = read_optional_top_level_array(&args.data_dir, "domestic_cups.json")?;
 
     let mut leagues: Vec<Value> = Vec::new();
     let mut clubs: Vec<Value> = Vec::new();
@@ -294,6 +300,7 @@ fn main() -> Result<()> {
         continents: continents.len(),
         countries: countries.len(),
         national_competitions: national_competitions.len(),
+        domestic_cups: domestic_cups.len(),
         leagues: leagues.len(),
         clubs: clubs.len(),
         names: names.len(),
@@ -309,6 +316,7 @@ fn main() -> Result<()> {
         "national_competitions".into(),
         Value::Array(national_competitions),
     );
+    root.insert("domestic_cups".into(), Value::Array(domestic_cups));
     root.insert("leagues".into(), Value::Array(leagues));
     root.insert("clubs".into(), Value::Array(clubs));
     root.insert("names".into(), Value::Array(names));
@@ -332,13 +340,14 @@ fn main() -> Result<()> {
     let compressed_size = fs::metadata(&args.out_file)?.len();
     println!(
         "wrote {}: v{} — {} continents, {} countries, {} national_competitions, \
-         {} leagues, {} clubs, {} names, {} players \
+         {} domestic_cups, {} leagues, {} clubs, {} names, {} players \
          ({:.2} MB uncompressed, {:.2} MB gzipped)",
         args.out_file.display(),
         OUTPUT_VERSION,
         counts.continents,
         counts.countries,
         counts.national_competitions,
+        counts.domestic_cups,
         counts.leagues,
         counts.clubs,
         counts.names,
@@ -382,6 +391,18 @@ fn read_top_level_array(data_dir: &Path, file_name: &str) -> Result<Vec<Value>> 
         Value::Array(items) => Ok(items),
         _ => anyhow::bail!("{} must contain a JSON array", path.display()),
     }
+}
+
+/// Like `read_top_level_array`, but a missing file yields an empty Vec
+/// instead of an error. Used for optional tables (e.g. `domestic_cups.json`)
+/// so an older data tree still compiles — the runtime falls back to a
+/// generated "{Country} Cup" for every country.
+fn read_optional_top_level_array(data_dir: &Path, file_name: &str) -> Result<Vec<Value>> {
+    let path = data_dir.join(file_name);
+    if !path.is_file() {
+        return Ok(Vec::new());
+    }
+    read_top_level_array(data_dir, file_name)
 }
 
 fn insert_country_code(v: &mut Value, code: &str) {

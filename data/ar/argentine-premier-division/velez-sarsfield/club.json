@@ -1,6 +1,6 @@
 {
   "id": 98,
-  "name": "Vélez Sársfield",
+  "name": "Vélez",
   "location": {
     "city_id": 305
   },
@@ -10,7 +10,7 @@
   "teams": [
     {
       "id": 98,
-      "name": "Vélez Sársfield",
+      "name": "Vélez",
       "slug": "velez-sarsfield",
       "team_type": "Main",
       "reputation": {
@@ -21,7 +21,7 @@
     },
     {
       "id": 99300011,
-      "name": "Vélez Sársfield",
+      "name": "Vélez",
       "slug": "velez-sarsfield-u20",
       "team_type": "U20",
       "reputation": {
@@ -32,7 +32,7 @@
     },
     {
       "id": 99300012,
-      "name": "Vélez Sársfield",
+      "name": "Vélez",
       "slug": "velez-sarsfield-u18",
       "team_type": "U18",
       "reputation": {
