@@ -1,0 +1,36 @@
+{
+  "id": 2000206375,
+  "first_name": "Prosper",
+  "last_name": "Obah",
+  "birth_date": "2003-11-24",
+  "country_id": 38,
+  "club_id": 1895,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 120,
+  "potential_ability": 133,
+  "value": 7000000,
+  "contract": {    "expiration": "2030-12-31",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "1041630"
+  },
+  "history": [
+    { "s": 2025, "c": 1895, "p": 2 },
+    { "s": 2025, "c": 71016825, "p": 15, "g": 7 }
+  ]
+}

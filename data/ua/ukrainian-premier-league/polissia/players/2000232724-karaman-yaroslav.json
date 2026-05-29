@@ -1,0 +1,28 @@
+{
+  "id": 2000232724,
+  "first_name": "Yaroslav",
+  "last_name": "Karaman",
+  "birth_date": "2006-06-08",
+  "country_id": 800,
+  "club_id": 71100094,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "current_ability": 76,
+  "potential_ability": 101,
+  "value": 87000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "1294033"
+  },
+  "history": [
+    { "s": 2024, "c": 71100094, "p": 5 },
+    { "s": 2025, "c": 71100094, "p": 3 }
+  ]
+}
