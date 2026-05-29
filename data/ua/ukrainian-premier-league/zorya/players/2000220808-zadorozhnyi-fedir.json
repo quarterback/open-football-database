@@ -1,0 +1,40 @@
+{
+  "id": 2000220808,
+  "first_name": "Fedir",
+  "last_name": "Zadorozhnyi",
+  "birth_date": "2006-11-16",
+  "country_id": 800,
+  "club_id": 1885,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 99,
+  "potential_ability": 134,
+  "value": 2000000,
+  "contract": {    "expiration": "2027-02-28",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1902,
+    "expiration": "2027-06-30",    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "1262359"
+  },
+  "history": [
+    { "s": 2024, "c": 1902, "p": 1 },
+    { "s": 2025, "c": 1902, "p": 2 }
+  ]
+}
