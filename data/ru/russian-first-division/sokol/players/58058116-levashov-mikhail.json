@@ -1,0 +1,32 @@
+{
+  "id": 58058116,
+  "first_name": "Mikhail",
+  "last_name": "Levashov",
+  "birth_date": "1991-10-04",
+  "country_id": 791,
+  "club_id": 130511,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 88,
+  "value": 150000,
+  "contract": {    "expiration": "2021-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "148028"
+  },
+  "history": [
+    { "s": 2016, "c": 130501, "p": 12 },
+    { "s": 2017, "c": 130501, "p": 9 },
+    { "s": 2018, "c": 130501, "p": 15 },
+    { "s": 2019, "c": 130501, "p": 16 },
+    { "s": 2020, "c": 130501, "p": 5 },
+    { "s": 2021, "c": 130501, "p": 10 }
+  ]
+}

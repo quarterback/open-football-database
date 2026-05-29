@@ -1,0 +1,24 @@
+{
+  "id": 2000452120,
+  "first_name": "Michał",
+  "last_name": "Mikielewicz",
+  "birth_date": "2008-09-26",
+  "country_id": 787,
+  "club_id": 129577,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "current_ability": 66,
+  "potential_ability": 106,
+  "value": 45000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "1334268"
+  }
+}

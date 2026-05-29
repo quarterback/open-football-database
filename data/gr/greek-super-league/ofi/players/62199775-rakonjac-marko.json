@@ -1,0 +1,31 @@
+{
+  "id": 62199775,
+  "first_name": "Marko",
+  "last_name": "Rakonjac",
+  "birth_date": "2000-04-25",
+  "country_id": 62002127,
+  "club_id": 980,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 91,
+  "value": 496000,
+  "contract": {    "expiration": "2027-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "loan": {
+    "to_club_id": 1300671,
+    "expiration": "2027-05-31",    "wage_contribution_pct": 100
+  },
+  "ids": {
+    "transfermarkt.com": "457184"
+  },
+  "history": [
+    { "s": 2022, "c": 1525, "p": 12 }
+  ]
+}

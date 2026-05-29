@@ -1,0 +1,44 @@
+{
+  "id": 36106448,
+  "first_name": "Thanasis",
+  "last_name": "Androutsos",
+  "birth_date": "1997-05-06",
+  "country_id": 772,
+  "club_id": 980,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 16
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "current_ability": 81,
+  "potential_ability": 86,
+  "value": 425000,
+  "contract": {    "expiration": "2028-06-30",
+    "started": "2025-07-01",
+    "contract_type": "FullTime"
+  },
+  "ids": {
+    "transfermarkt.com": "341680"
+  },
+  "history": [
+    { "s": 2016, "c": 981, "p": 17, "g": 1 },
+    { "s": 2017, "c": 981, "p": 11 },
+    { "s": 2018, "c": 981, "p": 5 },
+    { "s": 2019, "c": 129692, "p": 20, "g": 3 },
+    { "s": 2020, "c": 981, "p": 11, "g": 1 },
+    { "s": 2021, "c": 981, "p": 11 },
+    { "s": 2022, "c": 981, "p": 5, "g": 1 },
+    { "s": 2024, "c": 980, "p": 7 },
+    { "s": 2024, "c": 981, "p": 1 },
+    { "s": 2025, "c": 980, "p": 24, "g": 2 }
+  ]
+}
