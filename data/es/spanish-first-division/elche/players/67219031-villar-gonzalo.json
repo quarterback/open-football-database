@@ -4,7 +4,7 @@
   "last_name": "Villar",
   "birth_date": "1998-03-23",
   "country_id": 796,
-  "club_id": 432,
+  "club_id": 1707,
   "positions": [
     {
       "code": "AMC",
@@ -19,12 +19,6 @@
     "expiration": "2029-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 1707,
-    "expiration": "2027-06-30",
-    "salary": 832000,
-    "wage_contribution_pct": 100
   },
   "ids": {
     "transfermarkt.com": "398163"

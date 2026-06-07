@@ -4,7 +4,7 @@
   "last_name": "Becker",
   "birth_date": "1995-02-09",
   "country_id": 387,
-  "club_id": 1685,
+  "club_id": 918,
   "positions": [
     {
       "code": "AMR",
@@ -27,12 +27,6 @@
     "expiration": "2027-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 918,
-    "expiration": "2027-06-30",
-    "salary": 1716000,
-    "wage_contribution_pct": 100
   },
   "ids": {
     "transfermarkt.com": "188888"

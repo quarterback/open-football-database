@@ -4,7 +4,7 @@
   "last_name": "Satriano",
   "birth_date": "2001-02-20",
   "country_id": 1657,
-  "club_id": 865,
+  "club_id": 1710,
   "positions": [
     {
       "code": "ST",
@@ -19,12 +19,6 @@
     "expiration": "2028-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 1710,
-    "expiration": "2027-06-30",
-    "salary": 1248000,
-    "wage_contribution_pct": 100
   },
   "ids": {
     "transfermarkt.com": "640109"

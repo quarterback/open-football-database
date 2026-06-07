@@ -4,7 +4,7 @@
   "last_name": "Martín",
   "birth_date": "2004-03-05",
   "country_id": 796,
-  "club_id": 1737,
+  "club_id": 1710,
   "positions": [
     {
       "code": "DM",
@@ -14,13 +14,10 @@
   "current_ability": 95,
   "potential_ability": 118,
   "value": 34000000,
-  "contract": {    "expiration": "2028-06-30",
+  "contract": {
+    "expiration": "2028-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
-  },
-  "loan": {
-    "to_club_id": 1710,
-    "expiration": "2027-06-30",    "wage_contribution_pct": 100
   },
   "ids": {
     "transfermarkt.com": "948273"
