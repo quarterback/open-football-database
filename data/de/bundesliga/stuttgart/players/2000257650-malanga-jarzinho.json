@@ -19,8 +19,8 @@
       "level": 20
     }
   ],
-  "current_ability": 100,
-  "potential_ability": 125,
+  "current_ability": 110,
+  "potential_ability": -75,
   "value": 1000000,
   "contract": {
     "salary": 520000,

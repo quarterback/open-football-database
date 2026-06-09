@@ -15,8 +15,8 @@
       "level": 16
     }
   ],
-  "current_ability": 96,
-  "potential_ability": 136,
+  "current_ability": 86,
+  "potential_ability": 125,
   "value": 2000000,
   "contract": {    "expiration": "2038-06-30",
     "started": "2025-07-01",
