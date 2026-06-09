@@ -7,18 +7,22 @@
   "club_id": 3800256,
   "positions": [
     {
-      "code": "MR",
+      "code": "MC",
       "level": 20
     },
     {
-      "code": "MC",
+      "code": "MR",
       "level": 20
     }
   ],
-  "current_ability": 91,
-  "potential_ability": 129,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 140,
   "value": 2000000,
-  "contract": {    "expiration": "2034-06-30",
+  "contract": {    "expiration": "2028-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

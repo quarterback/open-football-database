@@ -11,10 +11,18 @@
       "level": 20
     },
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMC",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 100,
+    "right": 75
+  },
   "current_ability": 116,
   "potential_ability": 128,
   "value": 801000,
