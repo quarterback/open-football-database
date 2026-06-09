@@ -7,16 +7,20 @@
   "club_id": 950376,
   "positions": [
     {
-      "code": "DC",
+      "code": "ST",
       "level": 20
     }
   ],
-  "current_ability": 76,
-  "potential_ability": 132,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 56,
+  "potential_ability": -65,
   "value": 416000,
   "contract": {
     "salary": 104000,
-    "expiration": "2028-06-30",
+    "expiration": "2026-06-30",
     "started": "2024-07-01"
   }
 }

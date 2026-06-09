@@ -11,7 +11,11 @@
       "level": 20
     },
     {
-      "code": "AML",
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
       "level": 20
     },
     {
@@ -19,6 +23,10 @@
       "level": 20
     }
   ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
   "current_ability": 148,
   "potential_ability": 164,
   "value": 49000000,

@@ -12,9 +12,13 @@
     },
     {
       "code": "WBR",
-      "level": 16
+      "level": 20
     }
   ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
   "current_ability": 132,
   "potential_ability": 154,
   "value": 6000000,

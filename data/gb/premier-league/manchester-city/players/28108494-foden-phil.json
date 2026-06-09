@@ -7,6 +7,10 @@
   "club_id": 679,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -19,6 +23,10 @@
       "level": 20
     }
   ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
   "current_ability": 170,
   "potential_ability": 180,
   "value": 108000000,

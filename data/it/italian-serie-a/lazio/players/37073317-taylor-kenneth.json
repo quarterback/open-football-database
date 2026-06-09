@@ -11,6 +11,14 @@
       "level": 20
     },
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
       "code": "AML",
       "level": 20
     },
@@ -19,8 +27,12 @@
       "level": 20
     }
   ],
-  "current_ability": 118,
-  "potential_ability": 132,
+  "foots": {
+    "left": 100,
+    "right": 70
+  },
+  "current_ability": 142,
+  "potential_ability": 156,
   "contract": {
     "salary": 2392000,
     "expiration": "2030-06-30",

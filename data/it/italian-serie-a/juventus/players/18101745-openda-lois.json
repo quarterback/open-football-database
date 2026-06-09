@@ -15,10 +15,14 @@
       "level": 20
     },
     {
-      "code": "FC",
+      "code": "ST",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
   "current_ability": 148,
   "potential_ability": 154,
   "value": 36000000,

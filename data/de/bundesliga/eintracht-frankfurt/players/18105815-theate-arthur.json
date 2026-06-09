@@ -15,6 +15,10 @@
       "level": 20
     }
   ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
   "current_ability": 148,
   "potential_ability": 156,
   "value": 32000000,

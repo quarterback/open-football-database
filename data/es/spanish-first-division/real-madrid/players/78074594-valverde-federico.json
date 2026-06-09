@@ -11,14 +11,22 @@
       "level": 20
     },
     {
-      "code": "AMR",
+      "code": "MC",
       "level": 20
     },
     {
-      "code": "AMC",
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
   "current_ability": 176,
   "potential_ability": 176,
   "value": 83000000,

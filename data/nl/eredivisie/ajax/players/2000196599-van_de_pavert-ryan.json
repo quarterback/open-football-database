@@ -17,10 +17,18 @@
     {
       "code": "DM",
       "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
     }
   ],
-  "current_ability": 108,
-  "potential_ability": 131,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -65,
   "value": 536000,
   "contract": {
     "salary": 156000,

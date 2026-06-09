@@ -12,10 +12,10 @@
     },
     {
       "code": "WBR",
-      "level": 16
+      "level": 20
     },
     {
-      "code": "AMR",
+      "code": "MR",
       "level": 20
     },
     {
@@ -23,6 +23,10 @@
       "level": 20
     }
   ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
   "current_ability": 84,
   "potential_ability": -65,
   "value": 506000,

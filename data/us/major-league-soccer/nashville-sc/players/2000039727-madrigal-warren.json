@@ -7,6 +7,10 @@
   "club_id": 20046403,
   "positions": [
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -19,8 +23,12 @@
       "level": 20
     }
   ],
-  "current_ability": 100,
-  "potential_ability": 130,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 84,
+  "potential_ability": -7,
   "value": 1000000,
   "contract": {
     "salary": 52000,

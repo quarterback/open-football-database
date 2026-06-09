@@ -9,13 +9,21 @@
     {
       "code": "DM",
       "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
     }
   ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
   "current_ability": 114,
   "potential_ability": 130,
   "value": 794000,
   "contract": {
-    "expiration": "2027-06-30",
+    "expiration": "2026-06-30",
     "salary": 156000,
     "started": "2025-07-01",
     "contract_type": "FullTime"

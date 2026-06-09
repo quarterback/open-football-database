@@ -12,9 +12,13 @@
     },
     {
       "code": "WBL",
-      "level": 16
+      "level": 20
     }
   ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
   "current_ability": 142,
   "potential_ability": 154,
   "value": 29000000,

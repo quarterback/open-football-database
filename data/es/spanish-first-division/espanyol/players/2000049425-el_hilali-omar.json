@@ -13,10 +13,18 @@
     {
       "code": "DC",
       "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
     }
   ],
-  "current_ability": 108,
-  "potential_ability": 131,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 142,
+  "potential_ability": 166,
   "value": 13000000,
   "contract": {
     "salary": 416000,

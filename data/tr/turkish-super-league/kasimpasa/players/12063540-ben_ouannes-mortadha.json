@@ -12,7 +12,15 @@
     },
     {
       "code": "WBL",
-      "level": 16
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
     },
     {
       "code": "AMR",
@@ -23,6 +31,10 @@
       "level": 20
     }
   ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
   "current_ability": 120,
   "potential_ability": 136,
   "contract": {    "expiration": "2027-06-30",

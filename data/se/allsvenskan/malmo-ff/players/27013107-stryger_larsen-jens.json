@@ -17,13 +17,21 @@
     {
       "code": "DC",
       "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
     }
   ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
   "current_ability": 126,
   "potential_ability": 136,
   "contract": {
     "salary": 208000,
-    "expiration": "2028-12-31",
+    "expiration": "2026-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

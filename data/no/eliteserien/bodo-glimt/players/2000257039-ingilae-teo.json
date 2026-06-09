@@ -7,20 +7,24 @@
   "club_id": 1293,
   "positions": [
     {
-      "code": "AML",
+      "code": "MC",
       "level": 20
     },
     {
-      "code": "AMC",
+      "code": "AML",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
   "current_ability": 72,
   "potential_ability": -65,
   "value": 6000,
   "contract": {
     "salary": 22568,
-    "expiration": "2028-07-30",
+    "expiration": "2026-07-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

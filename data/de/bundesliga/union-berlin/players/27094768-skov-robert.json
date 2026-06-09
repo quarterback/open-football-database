@@ -7,26 +7,30 @@
   "club_id": 121182,
   "positions": [
     {
-      "code": "DR",
-      "level": 20
-    },
-    {
       "code": "DL",
       "level": 20
     },
     {
       "code": "WBR",
-      "level": 16
+      "level": 20
     },
     {
       "code": "WBL",
-      "level": 16
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
     },
     {
       "code": "AMR",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
   "current_ability": 134,
   "potential_ability": 138,
   "value": 3000000,

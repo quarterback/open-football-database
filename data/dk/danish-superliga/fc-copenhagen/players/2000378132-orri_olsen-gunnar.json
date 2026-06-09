@@ -7,20 +7,24 @@
   "club_id": 505,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "MR",
       "level": 20
     },
     {
       "code": "ML",
       "level": 20
-    },
-    {
-      "code": "MC",
-      "level": 20
     }
   ],
-  "current_ability": 79,
-  "potential_ability": 131,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -7,
   "value": 805000,
   "contract": {    "expiration": "2029-06-30",
     "started": "2025-07-01",

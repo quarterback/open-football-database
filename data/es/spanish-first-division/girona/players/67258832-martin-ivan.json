@@ -11,16 +11,24 @@
       "level": 20
     },
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMC",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
   "current_ability": 144,
   "potential_ability": 150,
   "value": 17000000,
   "contract": {
     "salary": 1456000,
-    "expiration": "2028-06-30",
+    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

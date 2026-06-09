@@ -11,10 +11,14 @@
       "level": 20
     },
     {
-      "code": "FC",
-      "level": 16
+      "code": "ST",
+      "level": 20
     }
   ],
+  "foots": {
+    "left": 80,
+    "right": 100
+  },
   "current_ability": 188,
   "potential_ability": 190,
   "contract": {

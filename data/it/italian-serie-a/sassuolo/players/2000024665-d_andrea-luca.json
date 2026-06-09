@@ -7,10 +7,18 @@
   "club_id": 3800256,
   "positions": [
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
   "current_ability": 108,
   "potential_ability": 136,
   "value": 2000000,
