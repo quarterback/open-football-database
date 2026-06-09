@@ -11,6 +11,10 @@
       "level": 20
     },
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -23,8 +27,12 @@
       "level": 20
     }
   ],
-  "current_ability": 90,
-  "potential_ability": 106,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 126,
   "contract": {
     "salary": 156000,
     "expiration": "2027-12-31",

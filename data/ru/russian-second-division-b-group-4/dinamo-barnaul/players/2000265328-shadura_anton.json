@@ -7,16 +7,28 @@
   "club_id": 477174,
   "positions": [
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
     {
       "code": "AML",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 68,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 78,
   "value": 28000,
   "contract": {
     "expiration": "2027-06-30",

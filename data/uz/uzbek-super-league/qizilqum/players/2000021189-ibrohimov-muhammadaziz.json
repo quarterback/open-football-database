@@ -7,26 +7,30 @@
   "club_id": 485457,
   "positions": [
     {
+      "code": "DM",
+      "level": 20
+    },
+    {
       "code": "WBL",
       "level": 20
     },
     {
-      "code": "DM",
+      "code": "MC",
       "level": 20
     },
     {
       "code": "AML",
       "level": 20
-    },
-    {
-      "code": "AMC",
-      "level": 20
     }
   ],
-  "current_ability": 66,
-  "potential_ability": 81,
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 86,
+  "potential_ability": 100,
   "value": 55000,
-  "contract": {    "expiration": "2028-12-31",
+  "contract": {    "expiration": "2026-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

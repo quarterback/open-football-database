@@ -7,11 +7,19 @@
   "club_id": 2000199402,
   "positions": [
     {
+      "code": "DM",
+      "level": 20
+    },
+    {
       "code": "WBL",
       "level": 20
     },
     {
-      "code": "DM",
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
       "level": 20
     },
     {
@@ -23,12 +31,16 @@
       "level": 20
     }
   ],
-  "current_ability": 52,
-  "potential_ability": 70,
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 78,
+  "potential_ability": -55,
   "value": 14000,
   "contract": {
     "salary": 884,
-    "expiration": "2028-01-27",
+    "expiration": "2026-01-27",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

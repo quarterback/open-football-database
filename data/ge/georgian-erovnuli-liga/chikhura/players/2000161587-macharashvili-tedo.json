@@ -7,14 +7,18 @@
   "club_id": 59001434,
   "positions": [
     {
-      "code": "AMR",
+      "code": "DC",
       "level": 20
     }
   ],
-  "current_ability": 80,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 30,
   "potential_ability": 80,
   "value": 6000,
-  "contract": {    "expiration": "2034-06-30",
+  "contract": {    "expiration": "2025-12-31",
     "started": "2025-07-01"
   }
 }

@@ -7,20 +7,24 @@
   "club_id": 5410010,
   "positions": [
     {
-      "code": "WBR",
+      "code": "DM",
       "level": 20
     },
     {
-      "code": "AMR",
-      "level": 16
+      "code": "MC",
+      "level": 20
     }
   ],
-  "current_ability": 75,
-  "potential_ability": 75,
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 40,
+  "potential_ability": 92,
   "value": 0,
   "contract": {
     "salary": 832,
-    "expiration": "2028-12-31",
+    "expiration": "2026-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

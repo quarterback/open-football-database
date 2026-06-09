@@ -7,6 +7,10 @@
   "club_id": 130548,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -15,14 +19,18 @@
       "level": 20
     },
     {
-      "code": "FC",
+      "code": "ST",
       "level": 20
     }
   ],
-  "current_ability": 61,
-  "potential_ability": 64,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 104,
   "value": 240000,
-  "contract": {    "expiration": "2028-06-10",
+  "contract": {    "expiration": "2026-06-10",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

@@ -11,16 +11,12 @@
       "level": 20
     },
     {
-      "code": "DL",
+      "code": "WBR",
       "level": 20
     },
     {
-      "code": "WBR",
-      "level": 16
-    },
-    {
       "code": "WBL",
-      "level": 16
+      "level": 20
     },
     {
       "code": "MR",
@@ -31,8 +27,12 @@
       "level": 20
     }
   ],
-  "current_ability": 85,
-  "potential_ability": 100,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 124,
   "value": 713000,
   "contract": {
     "salary": 156000,

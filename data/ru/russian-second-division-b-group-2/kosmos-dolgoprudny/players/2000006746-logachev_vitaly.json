@@ -7,12 +7,20 @@
   "club_id": 8068066,
   "positions": [
     {
+      "code": "ML",
+      "level": 20
+    },
+    {
       "code": "AML",
       "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 72,
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 64,
+  "potential_ability": 86,
   "value": 10000,
   "contract": {
     "expiration": "2027-06-30",

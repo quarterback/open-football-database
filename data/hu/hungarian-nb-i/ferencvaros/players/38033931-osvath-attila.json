@@ -11,20 +11,20 @@
       "level": 20
     },
     {
-      "code": "DL",
+      "code": "WBR",
       "level": 20
     },
     {
-      "code": "WBR",
-      "level": 16
-    },
-    {
       "code": "WBL",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 91,
-  "potential_ability": 93,
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 106,
   "value": 205000,
   "contract": {    "expiration": "2028-06-30",
     "started": "2025-07-01",

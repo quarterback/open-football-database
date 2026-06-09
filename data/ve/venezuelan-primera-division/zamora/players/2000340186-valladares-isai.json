@@ -16,25 +16,37 @@
     },
     {
       "code": "WBR",
-      "level": 16
+      "level": 20
     },
     {
       "code": "WBL",
-      "level": 16
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
     },
     {
       "code": "AMR",
-      "level": 16
+      "level": 20
     },
     {
       "code": "AML",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 79,
-  "potential_ability": 104,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120,
   "value": 79000,
-  "contract": {    "expiration": "2027-12-31",
+  "contract": {    "expiration": "2025-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

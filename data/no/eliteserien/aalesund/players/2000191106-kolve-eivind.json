@@ -7,16 +7,20 @@
   "club_id": 1289,
   "positions": [
     {
-      "code": "MR",
+      "code": "MC",
       "level": 20
     },
     {
-      "code": "MC",
+      "code": "MR",
       "level": 20
     }
   ],
-  "current_ability": 76,
-  "potential_ability": 105,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": 116,
   "value": 386000,
   "contract": {
     "salary": 18772,

@@ -7,16 +7,20 @@
   "club_id": 136156,
   "positions": [
     {
-      "code": "WBL",
+      "code": "DL",
       "level": 20
     }
   ],
-  "current_ability": 66,
-  "potential_ability": 88,
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 64,
+  "potential_ability": -5,
   "value": 71000,
   "contract": {
     "salary": 9152,
-    "expiration": "2027-06-30",
+    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

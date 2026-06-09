@@ -7,14 +7,22 @@
   "club_id": 59001434,
   "positions": [
     {
-      "code": "ST",
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
       "level": 20
     }
   ],
-  "current_ability": 58,
-  "potential_ability": 58,
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 50,
+  "potential_ability": 56,
   "value": 12000,
-  "contract": {    "expiration": "2033-06-30",
+  "contract": {    "expiration": "2025-12-31",
     "started": "2025-07-01"
   }
 }

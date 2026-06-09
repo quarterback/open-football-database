@@ -7,6 +7,10 @@
   "club_id": 714209,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -19,8 +23,12 @@
       "level": 20
     }
   ],
-  "current_ability": 82,
-  "potential_ability": 87,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 118,
   "contract": {
     "salary": 156000,
     "expiration": "2027-05-31",

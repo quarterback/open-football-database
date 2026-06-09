@@ -7,16 +7,16 @@
   "club_id": 7004292,
   "positions": [
     {
-      "code": "WBR",
+      "code": "DC",
       "level": 20
-    },
-    {
-      "code": "AMR",
-      "level": 16
     }
   ],
-  "current_ability": 68,
-  "potential_ability": 83,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 86,
   "value": 80000,
   "contract": {
     "salary": 260000,

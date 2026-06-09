@@ -7,20 +7,24 @@
   "club_id": 994,
   "positions": [
     {
-      "code": "DR",
-      "level": 20
-    },
-    {
       "code": "DL",
       "level": 20
     },
     {
       "code": "WBR",
-      "level": 16
+      "level": 20
     },
     {
       "code": "WBL",
-      "level": 16
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
     },
     {
       "code": "AMR",
@@ -31,8 +35,12 @@
       "level": 20
     }
   ],
-  "current_ability": 78,
-  "potential_ability": 107,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -65,
   "value": 315000,
   "contract": {
     "salary": 104000,

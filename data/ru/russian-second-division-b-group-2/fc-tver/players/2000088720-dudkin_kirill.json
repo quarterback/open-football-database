@@ -12,11 +12,15 @@
     },
     {
       "code": "MR",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 74,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": 100,
   "value": 88000,
   "contract": {
     "expiration": "2027-06-30",

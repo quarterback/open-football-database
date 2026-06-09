@@ -19,12 +19,16 @@
       "level": 20
     },
     {
-      "code": "FC",
+      "code": "ST",
       "level": 20
     }
   ],
-  "current_ability": 72,
-  "potential_ability": 92,
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 128,
   "contract": {
     "salary": 44928,
     "expiration": "2027-06-30",

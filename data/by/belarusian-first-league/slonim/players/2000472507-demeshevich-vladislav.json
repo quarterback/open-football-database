@@ -7,16 +7,24 @@
   "club_id": 17026902,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMC",
       "level": 20
     }
   ],
-  "current_ability": 47,
-  "potential_ability": 67,
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 46,
+  "potential_ability": -4,
   "value": 5000,
   "contract": {
     "salary": 1092,
-    "expiration": "2027-12-31",
+    "expiration": "2028-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

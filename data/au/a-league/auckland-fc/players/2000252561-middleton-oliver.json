@@ -7,20 +7,24 @@
   "club_id": 2000317186,
   "positions": [
     {
-      "code": "MR",
+      "code": "MC",
       "level": 20
     },
     {
-      "code": "MC",
+      "code": "MR",
       "level": 20
     }
   ],
-  "current_ability": 58,
-  "potential_ability": 89,
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": -6,
   "value": 379000,
   "contract": {
     "salary": 4992,
-    "expiration": "2028-06-30",
+    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

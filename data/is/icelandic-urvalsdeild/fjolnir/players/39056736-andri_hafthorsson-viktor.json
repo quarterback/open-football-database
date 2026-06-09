@@ -11,6 +11,14 @@
       "level": 20
     },
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -19,8 +27,12 @@
       "level": 20
     }
   ],
-  "current_ability": 53,
-  "potential_ability": 74,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 100,
   "value": 32000,
   "contract": {    "expiration": "2027-11-16",
     "started": "2025-07-01",

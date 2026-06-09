@@ -11,6 +11,10 @@
       "level": 20
     },
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -19,10 +23,14 @@
       "level": 20
     }
   ],
-  "current_ability": 75,
-  "potential_ability": 77,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 102,
   "value": 61000,
-  "contract": {    "expiration": "2028-07-01",
+  "contract": {    "expiration": "2026-07-01",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

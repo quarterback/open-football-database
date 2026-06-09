@@ -7,12 +7,20 @@
   "club_id": 5340080,
   "positions": [
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     }
   ],
-  "current_ability": 82,
-  "potential_ability": 92,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 106,
   "value": 19000,
   "contract": {    "expiration": "2027-06-30",
     "started": "2025-07-01",

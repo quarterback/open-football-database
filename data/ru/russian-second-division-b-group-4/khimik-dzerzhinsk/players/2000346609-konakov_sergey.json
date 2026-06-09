@@ -12,11 +12,15 @@
     },
     {
       "code": "DL",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 80,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -55,
   "value": 37000,
   "contract": {
     "expiration": "2027-06-30",

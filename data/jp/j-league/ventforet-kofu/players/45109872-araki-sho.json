@@ -7,23 +7,19 @@
   "club_id": 107314,
   "positions": [
     {
-      "code": "DR",
-      "level": 20
-    },
-    {
       "code": "DL",
       "level": 20
     },
     {
+      "code": "DM",
+      "level": 20
+    },
+    {
       "code": "WBR",
-      "level": 16
+      "level": 20
     },
     {
       "code": "WBL",
-      "level": 16
-    },
-    {
-      "code": "DM",
       "level": 20
     },
     {
@@ -31,10 +27,14 @@
       "level": 20
     }
   ],
-  "current_ability": 78,
-  "potential_ability": 80,
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 114,
+  "potential_ability": 116,
   "value": 361000,
-  "contract": {    "expiration": "2027-06-30",
+  "contract": {    "expiration": "2026-01-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

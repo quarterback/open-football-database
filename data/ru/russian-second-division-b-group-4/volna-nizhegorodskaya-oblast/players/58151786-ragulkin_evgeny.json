@@ -12,11 +12,15 @@
     },
     {
       "code": "ST",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 54,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 72,
   "value": 16000,
   "contract": {
     "expiration": "2027-06-30",

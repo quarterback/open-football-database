@@ -11,20 +11,24 @@
       "level": 20
     },
     {
-      "code": "WBR",
-      "level": 16
+      "code": "DM",
+      "level": 20
     },
     {
-      "code": "DM",
+      "code": "WBR",
       "level": 20
     }
   ],
-  "current_ability": 48,
-  "potential_ability": 53,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -4,
   "value": 2000,
   "contract": {
     "salary": 2236,
-    "expiration": "2027-12-30",
+    "expiration": "2025-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

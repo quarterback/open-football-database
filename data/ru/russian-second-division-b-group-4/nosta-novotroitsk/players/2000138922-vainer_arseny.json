@@ -7,24 +7,32 @@
   "club_id": 130508,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
     {
-      "code": "AML",
-      "level": 16
-    },
-    {
-      "code": "AMC",
-      "level": 16
-    },
-    {
       "code": "ST",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 59,
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 76,
+  "potential_ability": 86,
   "value": 21000,
   "contract": {
     "expiration": "2027-06-30",

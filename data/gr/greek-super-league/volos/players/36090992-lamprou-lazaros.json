@@ -7,6 +7,14 @@
   "club_id": 36136195,
   "positions": [
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -19,8 +27,12 @@
       "level": 20
     }
   ],
-  "current_ability": 79,
-  "potential_ability": 93,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 120,
   "value": 2000000,
   "contract": {    "expiration": "2027-06-30",
     "started": "2025-07-01",

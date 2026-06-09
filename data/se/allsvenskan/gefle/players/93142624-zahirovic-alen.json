@@ -7,6 +7,14 @@
   "club_id": 1792,
   "positions": [
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -15,12 +23,16 @@
       "level": 20
     }
   ],
-  "current_ability": 59,
-  "potential_ability": 95,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 106,
   "value": 55000,
   "contract": {
     "salary": 14092,
-    "expiration": "2028-11-30",
+    "expiration": "2026-11-30",
     "started": "2025-07-01",
     "contract_type": "PartTime"
   }

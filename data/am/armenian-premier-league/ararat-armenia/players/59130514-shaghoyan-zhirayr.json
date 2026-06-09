@@ -15,10 +15,14 @@
       "level": 20
     }
   ],
-  "current_ability": 76,
-  "potential_ability": 86,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 118,
   "value": 514000,
-  "contract": {    "expiration": "2031-06-30",
+  "contract": {    "expiration": "2027-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

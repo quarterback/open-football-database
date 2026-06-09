@@ -15,8 +15,12 @@
       "level": 20
     }
   ],
-  "current_ability": 78,
-  "potential_ability": 102,
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 92,
+  "potential_ability": -65,
   "value": 323000,
   "contract": {    "expiration": "2030-06-30",
     "started": "2025-07-01",

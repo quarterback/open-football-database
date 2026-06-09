@@ -7,14 +7,18 @@
   "club_id": 1300518,
   "positions": [
     {
-      "code": "DM",
+      "code": "MR",
       "level": 20
     }
   ],
-  "current_ability": 53,
-  "potential_ability": 70,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 58,
+  "potential_ability": -45,
   "value": 6000,
-  "contract": {    "expiration": "2029-06-30",
+  "contract": {    "expiration": "2025-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

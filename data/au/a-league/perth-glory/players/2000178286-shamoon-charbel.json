@@ -12,7 +12,7 @@
     },
     {
       "code": "WBR",
-      "level": 16
+      "level": 20
     },
     {
       "code": "MR",
@@ -23,8 +23,12 @@
       "level": 20
     }
   ],
-  "current_ability": 73,
-  "potential_ability": 91,
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 106,
   "value": 394000,
   "contract": {    "expiration": "2027-06-30",
     "started": "2025-07-01",

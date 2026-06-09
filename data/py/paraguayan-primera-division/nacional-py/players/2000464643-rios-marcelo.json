@@ -7,18 +7,18 @@
   "club_id": 5280337,
   "positions": [
     {
-      "code": "AMR",
-      "level": 20
-    },
-    {
-      "code": "AMC",
+      "code": "MC",
       "level": 20
     }
   ],
-  "current_ability": 78,
-  "potential_ability": 83,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": -5,
   "value": 315000,
-  "contract": {    "expiration": "2034-06-30",
+  "contract": {    "expiration": "2026-12-31",
     "started": "2025-07-01"
   }
 }

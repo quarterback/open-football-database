@@ -7,18 +7,18 @@
   "club_id": 130061,
   "positions": [
     {
-      "code": "DL",
+      "code": "DC",
       "level": 20
-    },
-    {
-      "code": "WBL",
-      "level": 16
     }
   ],
-  "current_ability": 48,
-  "potential_ability": 48,
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 46,
+  "potential_ability": -3,
   "value": 0,
-  "contract": {    "expiration": "2033-06-30",
+  "contract": {    "expiration": "2026-12-31",
     "started": "2025-07-01",
     "contract_type": "PartTime"
   }

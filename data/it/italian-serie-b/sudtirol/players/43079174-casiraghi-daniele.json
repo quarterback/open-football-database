@@ -7,12 +7,20 @@
   "club_id": 829172,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMC",
       "level": 20
     }
   ],
-  "current_ability": 72,
-  "potential_ability": 84,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 128,
   "contract": {
     "salary": 1144000,
     "expiration": "2027-06-30",

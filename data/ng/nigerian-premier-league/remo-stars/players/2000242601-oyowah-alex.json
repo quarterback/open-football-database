@@ -7,7 +7,11 @@
   "club_id": 13190761,
   "positions": [
     {
-      "code": "AML",
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
       "level": 20
     },
     {
@@ -15,12 +19,16 @@
       "level": 20
     }
   ],
-  "current_ability": 70,
-  "potential_ability": 102,
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 122,
   "value": 254000,
   "contract": {
     "salary": 2340,
-    "expiration": "2028-07-31",
+    "expiration": "2026-07-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

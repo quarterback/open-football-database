@@ -7,18 +7,18 @@
   "club_id": 351,
   "positions": [
     {
-      "code": "DC",
-      "level": 20
-    },
-    {
-      "code": "DM",
+      "code": "MR",
       "level": 20
     }
   ],
-  "current_ability": 64,
-  "potential_ability": 109,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -6,
   "value": 72000,
-  "contract": {    "expiration": "2038-06-30",
+  "contract": {    "expiration": "2028-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

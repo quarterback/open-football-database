@@ -13,10 +13,18 @@
     {
       "code": "DC",
       "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
     }
   ],
-  "current_ability": 78,
-  "potential_ability": 86,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 120,
   "value": 576000,
   "contract": {    "expiration": "2027-06-30",
     "started": "2025-07-01",

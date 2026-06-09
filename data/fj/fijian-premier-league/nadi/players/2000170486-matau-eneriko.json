@@ -7,14 +7,22 @@
   "club_id": 130058,
   "positions": [
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     }
   ],
-  "current_ability": 48,
-  "potential_ability": 49,
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 54,
+  "potential_ability": -35,
   "value": 0,
-  "contract": {    "expiration": "2034-06-30",
+  "contract": {    "expiration": "2026-12-31",
     "started": "2025-07-01",
     "contract_type": "PartTime"
   }

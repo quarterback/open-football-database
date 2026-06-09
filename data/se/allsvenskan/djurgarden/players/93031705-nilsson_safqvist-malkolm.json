@@ -11,8 +11,12 @@
       "level": 20
     }
   ],
-  "current_ability": 88,
-  "potential_ability": 91,
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 116,
   "contract": {
     "salary": 52000,
     "expiration": "2027-12-31",

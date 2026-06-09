@@ -15,10 +15,14 @@
       "level": 20
     }
   ],
-  "current_ability": 49,
-  "potential_ability": 59,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": 80,
   "value": 44000,
-  "contract": {    "expiration": "2027-06-30",
+  "contract": {    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "PartTime"
   }

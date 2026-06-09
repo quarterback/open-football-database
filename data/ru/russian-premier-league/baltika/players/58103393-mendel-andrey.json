@@ -9,10 +9,18 @@
     {
       "code": "DM",
       "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
     }
   ],
-  "current_ability": 79,
-  "potential_ability": 81,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 104,
   "value": 66000,
   "contract": {    "expiration": "2027-06-10",
     "started": "2025-07-01",

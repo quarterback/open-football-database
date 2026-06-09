@@ -7,7 +7,11 @@
   "club_id": 1190,
   "positions": [
     {
-      "code": "AMR",
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
       "level": 20
     },
     {
@@ -19,14 +23,18 @@
       "level": 20
     },
     {
-      "code": "FC",
+      "code": "ST",
       "level": 20
     }
   ],
-  "current_ability": 100,
-  "potential_ability": 101,
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 128,
   "value": 2000000,
-  "contract": {    "expiration": "2027-06-30",
+  "contract": {    "expiration": "2026-01-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

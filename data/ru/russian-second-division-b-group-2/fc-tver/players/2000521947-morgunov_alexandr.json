@@ -7,12 +7,16 @@
   "club_id": 2000013955,
   "positions": [
     {
-      "code": "AML",
+      "code": "AMC",
       "level": 20
     }
   ],
-  "current_ability": 30,
-  "potential_ability": 70,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 36,
+  "potential_ability": -45,
   "value": 10000,
   "contract": {
     "expiration": "2027-06-30",

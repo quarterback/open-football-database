@@ -7,16 +7,24 @@
   "club_id": 476489,
   "positions": [
     {
-      "code": "AML",
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
       "level": 20
     },
     {
       "code": "AMC",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 86,
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 70,
+  "potential_ability": -6,
   "value": 66000,
   "contract": {
     "expiration": "2027-06-30",

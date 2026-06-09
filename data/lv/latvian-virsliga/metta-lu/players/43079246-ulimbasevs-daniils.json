@@ -7,17 +7,21 @@
   "club_id": 8403700,
   "positions": [
     {
-      "code": "ML",
+      "code": "MC",
       "level": 20
     },
     {
-      "code": "MC",
+      "code": "ML",
       "level": 20
     }
   ],
-  "current_ability": 63,
-  "potential_ability": 68,
-  "contract": {    "expiration": "2027-06-30",
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 80,
+  "potential_ability": 86,
+  "contract": {    "expiration": "2026-11-30",
     "started": "2025-07-01",
     "contract_type": "PartTime"
   }

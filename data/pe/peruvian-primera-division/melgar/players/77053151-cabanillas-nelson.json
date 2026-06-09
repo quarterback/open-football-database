@@ -12,7 +12,11 @@
     },
     {
       "code": "WBL",
-      "level": 16
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
     },
     {
       "code": "AML",
@@ -23,8 +27,12 @@
       "level": 20
     }
   ],
-  "current_ability": 82,
-  "potential_ability": 85,
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 108,
+  "potential_ability": 112,
   "value": 149000,
   "contract": {    "expiration": "2027-12-31",
     "started": "2025-07-01",

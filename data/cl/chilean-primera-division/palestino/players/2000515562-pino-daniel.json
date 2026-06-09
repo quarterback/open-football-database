@@ -7,14 +7,18 @@
   "club_id": 130780,
   "positions": [
     {
-      "code": "DL",
+      "code": "WBL",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
   "current_ability": 66,
-  "potential_ability": 96,
+  "potential_ability": -55,
   "value": 0,
-  "contract": {    "expiration": "2035-06-30",
+  "contract": {    "expiration": "2025-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

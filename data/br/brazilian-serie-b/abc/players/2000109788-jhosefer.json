@@ -11,11 +11,19 @@
       "level": 20
     },
     {
-      "code": "AMR",
+      "code": "MC",
       "level": 20
     },
     {
-      "code": "AML",
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
       "level": 20
     },
     {
@@ -23,10 +31,14 @@
       "level": 20
     }
   ],
-  "current_ability": 75,
-  "potential_ability": 96,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": -7,
   "value": 393000,
-  "contract": {    "expiration": "2034-06-30",
+  "contract": {    "expiration": "2026-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

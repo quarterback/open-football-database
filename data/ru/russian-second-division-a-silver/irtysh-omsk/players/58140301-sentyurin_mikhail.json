@@ -12,22 +12,34 @@
     },
     {
       "code": "DM",
-      "level": 16
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
     },
     {
       "code": "AML",
-      "level": 16
+      "level": 20
     },
     {
       "code": "AMC",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 63,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 72,
+  "potential_ability": 86,
   "value": 12000,
   "contract": {
-    "expiration": "2027-06-30",
+    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

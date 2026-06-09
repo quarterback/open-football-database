@@ -15,8 +15,12 @@
       "level": 20
     }
   ],
-  "current_ability": 81,
-  "potential_ability": 102,
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 84,
+  "potential_ability": 106,
   "value": 127000,
   "contract": {
     "salary": 31408,

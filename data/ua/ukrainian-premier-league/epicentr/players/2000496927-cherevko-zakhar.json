@@ -7,12 +7,16 @@
   "club_id": 71017165,
   "positions": [
     {
-      "code": "DM",
+      "code": "MR",
       "level": 20
     }
   ],
-  "current_ability": 61,
-  "potential_ability": 96,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 50,
+  "potential_ability": -5,
   "value": 18000,
   "contract": {    "expiration": "2028-06-30",
     "started": "2025-07-01",

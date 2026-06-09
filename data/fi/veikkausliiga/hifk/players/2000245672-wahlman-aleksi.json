@@ -7,14 +7,22 @@
   "club_id": 129129,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMC",
       "level": 20
     }
   ],
-  "current_ability": 61,
-  "potential_ability": 73,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 68,
+  "potential_ability": 80,
   "value": 18000,
-  "contract": {    "expiration": "2028-11-15",
+  "contract": {    "expiration": "2026-11-15",
     "started": "2025-07-01",
     "contract_type": "PartTime"
   }

@@ -7,12 +7,20 @@
   "club_id": 130508,
   "positions": [
     {
+      "code": "DL",
+      "level": 20
+    },
+    {
       "code": "WBL",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
   "current_ability": 30,
-  "potential_ability": 75,
+  "potential_ability": -45,
   "value": 7000,
   "contract": {
     "expiration": "2027-06-30",

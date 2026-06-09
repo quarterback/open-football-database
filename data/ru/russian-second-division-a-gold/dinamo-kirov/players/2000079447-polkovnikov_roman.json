@@ -11,16 +11,24 @@
       "level": 20
     },
     {
-      "code": "AMC",
-      "level": 16
+      "code": "MC",
+      "level": 20
     },
     {
-      "code": "FC",
-      "level": 16
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 71,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": 86,
   "value": 41000,
   "contract": {
     "expiration": "2027-06-30",

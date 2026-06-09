@@ -12,11 +12,15 @@
     },
     {
       "code": "AML",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 60,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": 70,
   "value": 12000,
   "contract": {
     "expiration": "2027-06-30",

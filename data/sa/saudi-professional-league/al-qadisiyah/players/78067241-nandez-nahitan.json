@@ -7,24 +7,28 @@
   "club_id": 1104149,
   "positions": [
     {
-      "code": "WBR",
-      "level": 20
-    },
-    {
       "code": "DM",
       "level": 20
     },
     {
-      "code": "MR",
+      "code": "WBR",
       "level": 20
     },
     {
       "code": "MC",
       "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
     }
   ],
-  "current_ability": 95,
-  "potential_ability": 100,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 140,
+  "potential_ability": 146,
   "value": 41000000,
   "contract": {
     "salary": 4316000,

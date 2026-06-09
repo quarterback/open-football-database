@@ -12,7 +12,7 @@
     },
     {
       "code": "WBR",
-      "level": 16
+      "level": 20
     },
     {
       "code": "AMR",
@@ -27,10 +27,14 @@
       "level": 20
     }
   ],
-  "current_ability": 79,
-  "potential_ability": 93,
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 126,
   "value": 55000,
-  "contract": {    "expiration": "2028-07-01",
+  "contract": {    "expiration": "2026-07-01",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

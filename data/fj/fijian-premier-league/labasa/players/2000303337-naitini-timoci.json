@@ -7,14 +7,22 @@
   "club_id": 130056,
   "positions": [
     {
+      "code": "DM",
+      "level": 20
+    },
+    {
       "code": "MC",
       "level": 20
     }
   ],
-  "current_ability": 49,
-  "potential_ability": 63,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 42,
+  "potential_ability": -35,
   "value": 0,
-  "contract": {    "expiration": "2034-06-30",
+  "contract": {    "expiration": "2026-12-31",
     "started": "2025-07-01",
     "contract_type": "PartTime"
   }

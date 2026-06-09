@@ -7,12 +7,20 @@
   "club_id": 1004,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMC",
       "level": 20
     }
   ],
-  "current_ability": 79,
-  "potential_ability": 109,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 86,
+  "potential_ability": -65,
   "value": 743000,
   "contract": {    "expiration": "2027-06-30",
     "started": "2025-07-01",

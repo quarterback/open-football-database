@@ -7,20 +7,24 @@
   "club_id": 7481153,
   "positions": [
     {
-      "code": "AMR",
+      "code": "ML",
       "level": 20
     },
     {
-      "code": "AML",
+      "code": "AMR",
       "level": 20
     }
   ],
-  "current_ability": 47,
-  "potential_ability": 63,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 64,
+  "potential_ability": 80,
   "value": 2000,
   "contract": {
     "salary": 2652,
-    "expiration": "2027-12-30",
+    "expiration": "2025-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

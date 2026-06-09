@@ -7,22 +7,18 @@
   "club_id": 131270,
   "positions": [
     {
-      "code": "DR",
+      "code": "GK",
       "level": 20
-    },
-    {
-      "code": "WBR",
-      "level": 16
-    },
-    {
-      "code": "MR",
-      "level": 16
     }
   ],
-  "current_ability": 62,
-  "potential_ability": 97,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": 100,
   "value": 9000,
-  "contract": {    "expiration": "2034-06-30",
+  "contract": {    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

@@ -7,6 +7,18 @@
   "club_id": 1074,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -19,10 +31,14 @@
       "level": 20
     }
   ],
-  "current_ability": 54,
-  "potential_ability": 64,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 78,
+  "potential_ability": 82,
   "value": 1000,
-  "contract": {    "expiration": "2027-11-16",
+  "contract": {    "expiration": "2025-11-16",
     "started": "2025-07-01",
     "contract_type": "PartTime"
   }

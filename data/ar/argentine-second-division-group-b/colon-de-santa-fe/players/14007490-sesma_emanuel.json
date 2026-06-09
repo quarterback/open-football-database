@@ -7,12 +7,20 @@
   "club_id": 102462,
   "positions": [
     {
-      "code": "MC",
-      "level": 14
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
     }
   ],
-  "current_ability": 30,
-  "potential_ability": 30,
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96,
   "value": 31,
   "contract": {
     "expiration": "2027-06-30",

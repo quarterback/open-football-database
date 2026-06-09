@@ -9,12 +9,20 @@
     {
       "code": "AMR",
       "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
     }
   ],
-  "current_ability": 55,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 56,
   "potential_ability": 80,
   "value": 3000,
-  "contract": {    "expiration": "2034-06-30",
+  "contract": {    "expiration": "2025-12-31",
     "started": "2025-07-01"
   }
 }

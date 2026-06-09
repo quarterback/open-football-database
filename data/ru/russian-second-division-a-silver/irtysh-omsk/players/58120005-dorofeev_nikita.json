@@ -7,16 +7,24 @@
   "club_id": 130556,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMC",
       "level": 20
     },
     {
-      "code": "FC",
-      "level": 16
+      "code": "ST",
+      "level": 20
     }
   ],
-  "current_ability": 65,
-  "potential_ability": 69,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 82,
+  "potential_ability": 86,
   "value": 46000,
   "contract": {
     "expiration": "2027-06-30",

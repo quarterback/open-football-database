@@ -7,18 +7,38 @@
   "club_id": 483003,
   "positions": [
     {
-      "code": "DL",
+      "code": "DR",
       "level": 20
     },
     {
-      "code": "WBL",
-      "level": 16
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
     }
   ],
-  "current_ability": 86,
-  "potential_ability": 86,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 28,
+  "potential_ability": 54,
   "value": 0,
-  "contract": {    "expiration": "2037-06-30",
+  "contract": {    "expiration": "2026-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

@@ -19,12 +19,16 @@
       "level": 20
     },
     {
-      "code": "FC",
+      "code": "ST",
       "level": 20
     }
   ],
-  "current_ability": 90,
-  "potential_ability": 106,
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 118,
+  "potential_ability": 134,
   "value": 985000,
   "contract": {
     "salary": 104000,

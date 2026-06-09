@@ -7,18 +7,26 @@
   "club_id": 120936,
   "positions": [
     {
-      "code": "AMR",
+      "code": "DC",
       "level": 20
     },
     {
-      "code": "ST",
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
       "level": 20
     }
   ],
-  "current_ability": 66,
-  "potential_ability": 106,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 76,
+  "potential_ability": -65,
   "value": 222000,
-  "contract": {    "expiration": "2027-12-31",
+  "contract": {    "expiration": "2028-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

@@ -12,19 +12,23 @@
     },
     {
       "code": "WBL",
-      "level": 16
+      "level": 20
     },
     {
       "code": "ML",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 85,
-  "potential_ability": 100,
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 116,
+  "potential_ability": 126,
   "value": 620000,
   "contract": {
     "salary": 208000,
-    "expiration": "2028-06-30",
+    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

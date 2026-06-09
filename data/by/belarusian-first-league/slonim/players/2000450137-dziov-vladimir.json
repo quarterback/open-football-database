@@ -15,12 +15,16 @@
       "level": 20
     }
   ],
-  "current_ability": 47,
-  "potential_ability": 72,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": 90,
   "value": 7000,
   "contract": {
     "salary": 2236,
-    "expiration": "2034-06-30",
+    "expiration": "2026-12-31",
     "started": "2025-07-01"
   }
 }

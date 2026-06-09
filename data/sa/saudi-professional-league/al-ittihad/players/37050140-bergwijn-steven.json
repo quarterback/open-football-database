@@ -7,6 +7,14 @@
   "club_id": 106063,
   "positions": [
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -19,12 +27,16 @@
       "level": 20
     },
     {
-      "code": "FC",
+      "code": "ST",
       "level": 20
     }
   ],
-  "current_ability": 98,
-  "potential_ability": 103,
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 146,
+  "potential_ability": 150,
   "value": 55000000,
   "contract": {
     "salary": 7748000,

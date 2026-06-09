@@ -7,16 +7,20 @@
   "club_id": 476489,
   "positions": [
     {
-      "code": "WBL",
+      "code": "DM",
       "level": 20
     },
     {
-      "code": "DM",
-      "level": 16
+      "code": "WBL",
+      "level": 20
     }
   ],
-  "current_ability": 50,
-  "potential_ability": 75,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -55,
   "value": 65000,
   "contract": {
     "expiration": "2027-06-30",

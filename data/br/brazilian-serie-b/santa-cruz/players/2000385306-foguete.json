@@ -7,14 +7,18 @@
   "club_id": 107232,
   "positions": [
     {
-      "code": "ST",
+      "code": "DC",
       "level": 20
     }
   ],
-  "current_ability": 65,
-  "potential_ability": 95,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 66,
+  "potential_ability": -55,
   "value": 0,
-  "contract": {    "expiration": "2036-06-30",
+  "contract": {    "expiration": "2026-12-31",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

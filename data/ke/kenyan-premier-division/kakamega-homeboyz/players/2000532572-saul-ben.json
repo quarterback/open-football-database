@@ -7,18 +7,18 @@
   "club_id": 13137121,
   "positions": [
     {
-      "code": "DC",
-      "level": 20
-    },
-    {
       "code": "ST",
       "level": 20
     }
   ],
-  "current_ability": 54,
-  "potential_ability": 84,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 56,
+  "potential_ability": -5,
   "value": 35000,
-  "contract": {    "expiration": "2034-06-30",
+  "contract": {    "expiration": "2026-06-30",
     "started": "2025-07-01"
   }
 }

@@ -7,20 +7,16 @@
   "club_id": 130879,
   "positions": [
     {
-      "code": "DR",
-      "level": 20
-    },
-    {
       "code": "DL",
       "level": 20
     },
     {
       "code": "WBR",
-      "level": 16
+      "level": 20
     },
     {
-      "code": "WBL",
-      "level": 16
+      "code": "MR",
+      "level": 20
     },
     {
       "code": "AMR",
@@ -35,12 +31,16 @@
       "level": 20
     }
   ],
-  "current_ability": 67,
-  "potential_ability": 67,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 90,
   "value": 36000,
   "contract": {
     "salary": 15392,
-    "expiration": "2028-12-01",
+    "expiration": "2026-12-01",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

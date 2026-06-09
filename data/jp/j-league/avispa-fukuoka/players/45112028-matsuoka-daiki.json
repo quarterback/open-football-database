@@ -9,10 +9,18 @@
     {
       "code": "DM",
       "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
     }
   ],
-  "current_ability": 95,
-  "potential_ability": 99,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 132,
+  "potential_ability": 136,
   "value": 4000000,
   "contract": {
     "salary": 156000,

@@ -19,18 +19,22 @@
       "level": 20
     },
     {
-      "code": "MR",
+      "code": "MC",
       "level": 20
     },
     {
-      "code": "MC",
+      "code": "MR",
       "level": 20
     }
   ],
-  "current_ability": 52,
-  "potential_ability": 63,
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 74,
+  "potential_ability": 86,
   "value": 0,
-  "contract": {    "expiration": "2027-11-16",
+  "contract": {    "expiration": "2025-11-16",
     "started": "2025-07-01"
   }
 }
