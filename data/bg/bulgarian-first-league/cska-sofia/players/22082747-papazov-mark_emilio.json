@@ -19,12 +19,16 @@
       "level": 20
     }
   ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
   "current_ability": 88,
   "potential_ability": 118,
   "value": 430000,
   "contract": {
     "salary": 15496,
-    "expiration": "2028-06-30",
+    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

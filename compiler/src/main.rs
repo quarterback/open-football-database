@@ -40,9 +40,9 @@ use flate2::Compression;
 use flate2::write::GzEncoder;
 use serde_json::{Map, Value};
 
-const OUTPUT_VERSION: &str = "0.01";
+const OUTPUT_VERSION: &str = "1.0";
 const DEFAULT_DATA_DIR: &str = "../data";
-const DEFAULT_OUT_FILE: &str = r"F:\Rust\open-football\src\database\src\data\database.db";
+const DEFAULT_OUT_FILE: &str = r"D:\Projects\open-football\src\database\src\data\database.db";
 
 struct Args {
     data_dir: PathBuf,
@@ -56,14 +56,10 @@ fn parse_args() -> Args {
     while let Some(arg) = it.next() {
         match arg.as_str() {
             "--data-dir" => {
-                data_dir = Some(PathBuf::from(
-                    it.next().expect("--data-dir needs a value"),
-                ));
+                data_dir = Some(PathBuf::from(it.next().expect("--data-dir needs a value")));
             }
             "--out" => {
-                out_file = Some(PathBuf::from(
-                    it.next().expect("--out needs a value"),
-                ));
+                out_file = Some(PathBuf::from(it.next().expect("--out needs a value")));
             }
             "-h" | "--help" => {
                 print_help();
@@ -113,8 +109,7 @@ fn main() -> Result<()> {
     // Top-level static tables, each expected to be a JSON array.
     let continents = read_top_level_array(&args.data_dir, "continents.json")?;
     let countries = read_top_level_array(&args.data_dir, "countries.json")?;
-    let national_competitions =
-        read_top_level_array(&args.data_dir, "national_competitions.json")?;
+    let national_competitions = read_top_level_array(&args.data_dir, "national_competitions.json")?;
     // Domestic club cups (FA Cup, Copa del Rey, ...). Optional: when the
     // file is absent the runtime generator falls back to a "{Country} Cup"
     // for every active country, so an older data tree still compiles.
@@ -327,14 +322,18 @@ fn main() -> Result<()> {
 
     let out_tmp = args.out_file.with_extension("db.tmp");
     {
-        let file = File::create(&out_tmp)
-            .with_context(|| format!("create {}", out_tmp.display()))?;
+        let file =
+            File::create(&out_tmp).with_context(|| format!("create {}", out_tmp.display()))?;
         let mut enc = GzEncoder::new(BufWriter::new(file), Compression::default());
         enc.write_all(&uncompressed).context("gzip write")?;
         enc.finish().context("gzip finish")?.flush().ok();
     }
     fs::rename(&out_tmp, &args.out_file).with_context(|| {
-        format!("rename {} -> {}", out_tmp.display(), args.out_file.display())
+        format!(
+            "rename {} -> {}",
+            out_tmp.display(),
+            args.out_file.display()
+        )
     })?;
 
     let compressed_size = fs::metadata(&args.out_file)?.len();
@@ -419,13 +418,13 @@ fn validate_player_history(v: &Value, path: &Path) -> Result<()> {
     let Some(history) = v.get("history") else {
         return Ok(());
     };
-    let arr = history.as_array().with_context(|| {
-        format!("history in {} must be an array", path.display())
-    })?;
+    let arr = history
+        .as_array()
+        .with_context(|| format!("history in {} must be an array", path.display()))?;
     for (i, item) in arr.iter().enumerate() {
-        let obj = item.as_object().with_context(|| {
-            format!("history[{i}] in {} must be an object", path.display())
-        })?;
+        let obj = item
+            .as_object()
+            .with_context(|| format!("history[{i}] in {} must be an object", path.display()))?;
         obj.get("s").and_then(|v| v.as_u64()).with_context(|| {
             format!(
                 "history[{i}].s (season) in {} must be an unsigned integer",
@@ -532,9 +531,8 @@ fn apply_satellites(
             .get("teams")
             .and_then(|v| v.as_array())
             .and_then(|arr| {
-                arr.iter().find(|t| {
-                    t.get("team_type").and_then(|v| v.as_str()) == Some("Main")
-                })
+                arr.iter()
+                    .find(|t| t.get("team_type").and_then(|v| v.as_str()) == Some("Main"))
             })
             .cloned()
             .with_context(|| {
@@ -567,9 +565,9 @@ fn apply_satellites(
         // club.json), keep that as canonical and skip the auto-append. Players
         // still get folded in below via team_type_hint.
         // Otherwise, append the satellite Main as a new sub-team.
-        let existing_idx = parent_teams.iter().position(|t| {
-            t.get("team_type").and_then(|v| v.as_str()) == Some(team_type.as_str())
-        });
+        let existing_idx = parent_teams
+            .iter()
+            .position(|t| t.get("team_type").and_then(|v| v.as_str()) == Some(team_type.as_str()));
         if existing_idx.is_none() {
             // Reject id collisions: if some other slot on the parent already
             // uses this id, the fold would create two teams in the same league
@@ -579,9 +577,10 @@ fn apply_satellites(
             // under a different team_type than the satellite's parent_club.
             let satellite_team_id = sub_team.get("id").and_then(|v| v.as_u64());
             if let Some(sid) = satellite_team_id {
-                if let Some(conflict) = parent_teams.iter().find(|t| {
-                    t.get("id").and_then(|v| v.as_u64()) == Some(sid)
-                }) {
+                if let Some(conflict) = parent_teams
+                    .iter()
+                    .find(|t| t.get("id").and_then(|v| v.as_u64()) == Some(sid))
+                {
                     let other_type = conflict
                         .get("team_type")
                         .and_then(|v| v.as_str())
@@ -614,10 +613,7 @@ fn apply_satellites(
         for mut player in sat_players {
             if let Some(obj) = player.as_object_mut() {
                 obj.insert("club_id".into(), Value::from(parent_id));
-                obj.insert(
-                    "team_type_hint".into(),
-                    Value::String(team_type.clone()),
-                );
+                obj.insert("team_type_hint".into(), Value::String(team_type.clone()));
             }
             players.push(player);
         }

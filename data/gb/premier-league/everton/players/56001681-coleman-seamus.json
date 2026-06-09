@@ -12,19 +12,23 @@
     },
     {
       "code": "WBR",
-      "level": 16
+      "level": 20
     },
     {
       "code": "MR",
-      "level": 16
+      "level": 20
     }
   ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
   "current_ability": 130,
   "potential_ability": 154,
   "value": 740000,
   "contract": {
     "salary": 1820000,
-    "expiration": "2028-06-30",
+    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

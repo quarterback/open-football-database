@@ -7,10 +7,18 @@
   "club_id": 618,
   "positions": [
     {
+      "code": "ML",
+      "level": 20
+    },
+    {
       "code": "AML",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
   "current_ability": 156,
   "potential_ability": 160,
   "value": 65000000,

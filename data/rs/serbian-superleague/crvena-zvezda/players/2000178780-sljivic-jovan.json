@@ -7,10 +7,18 @@
   "club_id": 1955,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMC",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
   "current_ability": 102,
   "potential_ability": -7,
   "value": 1000000,

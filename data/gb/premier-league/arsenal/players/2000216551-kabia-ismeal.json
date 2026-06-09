@@ -7,6 +7,10 @@
   "club_id": 602,
   "positions": [
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -15,12 +19,16 @@
       "level": 20
     }
   ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
   "current_ability": 96,
-  "potential_ability": 125,
+  "potential_ability": -7,
   "value": 259000,
   "contract": {
     "salary": 104000,
-    "expiration": "2028-06-30",
+    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

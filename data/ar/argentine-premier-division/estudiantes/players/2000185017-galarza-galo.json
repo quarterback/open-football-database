@@ -11,16 +11,20 @@
       "level": 20
     },
     {
-      "code": "MR",
+      "code": "MC",
       "level": 20
     },
     {
-      "code": "MC",
+      "code": "MR",
       "level": 20
     }
   ],
-  "current_ability": 97,
-  "potential_ability": 114,
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": -65,
   "value": 397000,
   "contract": {
     "salary": 11544,

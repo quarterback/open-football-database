@@ -12,11 +12,15 @@
     },
     {
       "code": "WBR",
-      "level": 16
+      "level": 20
     }
   ],
-  "current_ability": 113,
-  "potential_ability": 113,
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 140,
+  "potential_ability": 140,
   "contract": {
     "salary": 1716000,
     "expiration": "2027-06-30",

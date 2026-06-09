@@ -17,10 +17,18 @@
     {
       "code": "DC",
       "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
     }
   ],
-  "current_ability": 94,
-  "potential_ability": 111,
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 122,
   "value": 251000,
   "contract": {
     "salary": 156000,

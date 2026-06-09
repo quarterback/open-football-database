@@ -7,18 +7,18 @@
   "club_id": 135424,
   "positions": [
     {
-      "code": "DR",
+      "code": "WBL",
       "level": 20
-    },
-    {
-      "code": "WBR",
-      "level": 16
     }
   ],
-  "current_ability": 68,
-  "potential_ability": 113,
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 60,
+  "potential_ability": -6,
   "value": 193000,
-  "contract": {    "expiration": "2037-06-30",
+  "contract": {    "expiration": "2027-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

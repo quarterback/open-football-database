@@ -9,8 +9,16 @@
     {
       "code": "DM",
       "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
     }
   ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
   "current_ability": 118,
   "potential_ability": 158,
   "value": 11000000,

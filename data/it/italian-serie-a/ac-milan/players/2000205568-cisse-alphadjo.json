@@ -7,6 +7,10 @@
   "club_id": 1099,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AML",
       "level": 20
     },
@@ -15,10 +19,14 @@
       "level": 20
     }
   ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
   "current_ability": 118,
-  "potential_ability": 145,
+  "potential_ability": -8,
   "value": 3000000,
-  "contract": {    "expiration": "2036-06-30",
+  "contract": {    "expiration": "2027-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   },

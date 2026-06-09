@@ -11,11 +11,11 @@
       "level": 20
     },
     {
-      "code": "AML",
+      "code": "MC",
       "level": 20
     },
     {
-      "code": "AMC",
+      "code": "AML",
       "level": 20
     },
     {
@@ -23,12 +23,16 @@
       "level": 20
     }
   ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
   "current_ability": 86,
   "potential_ability": 116,
   "value": 7000,
   "contract": {
     "salary": 52000,
-    "expiration": "2028-09-01",
+    "expiration": "2026-09-01",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

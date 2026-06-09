@@ -11,18 +11,22 @@
       "level": 20
     },
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "MR",
       "level": 20
     },
     {
       "code": "ML",
       "level": 20
-    },
-    {
-      "code": "MC",
-      "level": 20
     }
   ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
   "current_ability": 92,
   "potential_ability": 118,
   "value": 3000,

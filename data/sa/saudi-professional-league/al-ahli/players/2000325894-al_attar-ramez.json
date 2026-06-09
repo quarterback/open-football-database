@@ -11,12 +11,20 @@
       "level": 20
     },
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMC",
       "level": 20
     }
   ],
-  "current_ability": 69,
-  "potential_ability": 114,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 70,
+  "potential_ability": -65,
   "value": 193000,
   "contract": {    "expiration": "2029-06-30",
     "started": "2025-07-01",

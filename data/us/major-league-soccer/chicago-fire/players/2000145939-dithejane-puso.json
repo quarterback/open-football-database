@@ -11,6 +11,10 @@
       "level": 20
     },
     {
+      "code": "MR",
+      "level": 20
+    },
+    {
       "code": "AMR",
       "level": 20
     },
@@ -23,8 +27,12 @@
       "level": 20
     }
   ],
-  "current_ability": 85,
-  "potential_ability": 113,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 136,
   "value": 2000000,
   "contract": {
     "salary": 364000,

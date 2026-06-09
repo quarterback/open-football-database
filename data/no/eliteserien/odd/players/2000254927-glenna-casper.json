@@ -11,16 +11,20 @@
       "level": 20
     },
     {
-      "code": "DL",
+      "code": "WBR",
       "level": 20
     },
     {
-      "code": "WBR",
-      "level": 16
+      "code": "WBL",
+      "level": 20
     },
     {
-      "code": "WBL",
-      "level": 16
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
     },
     {
       "code": "AMR",
@@ -31,12 +35,16 @@
       "level": 20
     }
   ],
-  "current_ability": 78,
-  "potential_ability": 110,
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": -7,
   "value": 1000000,
   "contract": {
     "salary": 22568,
-    "expiration": "2028-06-30",
+    "expiration": "2026-06-30",
     "started": "2025-07-01",
     "contract_type": "FullTime"
   }

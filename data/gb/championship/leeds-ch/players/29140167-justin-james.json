@@ -17,8 +17,20 @@
     {
       "code": "DC",
       "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
     }
   ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
   "current_ability": 134,
   "potential_ability": 146,
   "value": 20000000,

@@ -11,12 +11,20 @@
       "level": 20
     },
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AMC",
       "level": 20
     }
   ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
   "current_ability": 64,
-  "potential_ability": 115,
+  "potential_ability": -65,
   "value": 219000,
   "contract": {
     "salary": 52000,

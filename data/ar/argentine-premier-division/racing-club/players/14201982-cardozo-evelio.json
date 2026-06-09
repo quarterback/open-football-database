@@ -7,6 +7,10 @@
   "club_id": 93,
   "positions": [
     {
+      "code": "MC",
+      "level": 20
+    },
+    {
       "code": "AML",
       "level": 20
     },
@@ -15,8 +19,12 @@
       "level": 20
     }
   ],
-  "current_ability": 99,
-  "potential_ability": 114,
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 116,
   "value": 80000,
   "contract": {
     "salary": 35204,
