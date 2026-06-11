@@ -1,0 +1,19 @@
+{
+  "id": 51016256,
+  "first_name": "Luis",
+  "last_name": "Alberto Lozoya",
+  "birth_date": "1993-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 88,
+  "potential_ability": 102
+}

@@ -1,0 +1,27 @@
+{
+  "id": 18096573,
+  "first_name": "Niels",
+  "last_name": "Verburgh",
+  "birth_date": "1998-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 92
+}

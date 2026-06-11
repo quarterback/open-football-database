@@ -1,0 +1,39 @@
+{
+  "id": 34001556,
+  "first_name": "Florin",
+  "last_name": "Berenguer-Bohrer",
+  "birth_date": "1989-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 114
+}

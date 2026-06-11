@@ -1,0 +1,19 @@
+{
+  "id": 86040728,
+  "first_name": "Rosmel",
+  "last_name": "Villaneuva",
+  "birth_date": "1992-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 106
+}

@@ -1,0 +1,19 @@
+{
+  "id": 79012353,
+  "first_name": "Claudio",
+  "last_name": "Correa",
+  "birth_date": "1991-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 94,
+  "potential_ability": 114
+}

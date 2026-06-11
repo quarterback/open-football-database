@@ -1,0 +1,23 @@
+{
+  "id": 13108062,
+  "first_name": "Fantamady",
+  "last_name": "Diarra",
+  "birth_date": "1992-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 116
+}

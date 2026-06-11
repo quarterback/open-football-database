@@ -1,0 +1,23 @@
+{
+  "id": 65010132,
+  "first_name": "Ntsikelelo",
+  "last_name": "Nyauza",
+  "birth_date": "1990-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120
+}

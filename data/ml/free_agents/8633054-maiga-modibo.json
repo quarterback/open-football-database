@@ -1,0 +1,23 @@
+{
+  "id": 8633054,
+  "first_name": "Modibo",
+  "last_name": "Maïga",
+  "birth_date": "1987-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 110,
+  "potential_ability": 136
+}

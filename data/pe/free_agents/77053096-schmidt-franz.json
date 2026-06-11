@@ -1,0 +1,19 @@
+{
+  "id": 77053096,
+  "first_name": "Franz",
+  "last_name": "Schmidt",
+  "birth_date": "2000-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 104
+}

@@ -1,0 +1,19 @@
+{
+  "id": 35015538,
+  "first_name": "Richard",
+  "last_name": "Sukuta-Pasu",
+  "birth_date": "1990-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 116
+}

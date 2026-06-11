@@ -1,0 +1,23 @@
+{
+  "id": 37078917,
+  "first_name": "Mohammed",
+  "last_name": "Tahiri",
+  "birth_date": "2001-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 108
+}

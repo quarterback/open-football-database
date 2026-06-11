@@ -1,0 +1,19 @@
+{
+  "id": 76023011,
+  "first_name": "Óscar",
+  "last_name": "Cabezas",
+  "birth_date": "1997-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 100,
+  "potential_ability": 112
+}

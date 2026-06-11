@@ -1,0 +1,19 @@
+{
+  "id": 55067661,
+  "first_name": "Pedro",
+  "last_name": "Santos",
+  "birth_date": "1996-01-01",
+  "country_id": 788,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 98
+}

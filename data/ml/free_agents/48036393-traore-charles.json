@@ -1,0 +1,19 @@
+{
+  "id": 48036393,
+  "first_name": "Charles",
+  "last_name": "Traoré",
+  "birth_date": "1992-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 106,
+  "potential_ability": 132
+}

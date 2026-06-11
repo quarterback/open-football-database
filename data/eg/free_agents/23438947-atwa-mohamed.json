@@ -1,0 +1,19 @@
+{
+  "id": 23438947,
+  "first_name": "Mohamed",
+  "last_name": "Atwa",
+  "birth_date": "1990-01-01",
+  "country_id": 16,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 108
+}

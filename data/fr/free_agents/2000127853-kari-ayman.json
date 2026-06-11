@@ -1,0 +1,19 @@
+{
+  "id": 2000127853,
+  "first_name": "Ayman",
+  "last_name": "Kari",
+  "birth_date": "2004-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": -75
+}

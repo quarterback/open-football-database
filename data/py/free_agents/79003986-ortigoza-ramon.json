@@ -1,0 +1,19 @@
+{
+  "id": 79003986,
+  "first_name": "Ramón",
+  "last_name": "Ortigoza",
+  "birth_date": "1987-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 110
+}

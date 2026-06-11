@@ -1,0 +1,19 @@
+{
+  "id": 5688651,
+  "first_name": "Itumeleng",
+  "last_name": "Khune",
+  "birth_date": "1987-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 150
+}

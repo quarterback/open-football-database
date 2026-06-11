@@ -1,0 +1,27 @@
+{
+  "id": 55023030,
+  "first_name": "Zé",
+  "last_name": "Lopes",
+  "birth_date": "1991-01-01",
+  "country_id": 788,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96
+}

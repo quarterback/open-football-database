@@ -1,0 +1,23 @@
+{
+  "id": 62013033,
+  "first_name": "Nemanja",
+  "last_name": "Milić",
+  "birth_date": "1990-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 104
+}

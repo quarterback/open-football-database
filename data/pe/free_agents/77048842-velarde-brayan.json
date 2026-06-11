@@ -1,0 +1,19 @@
+{
+  "id": 77048842,
+  "first_name": "Brayan",
+  "last_name": "Velarde",
+  "birth_date": "1999-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 114
+}

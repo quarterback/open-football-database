@@ -1,0 +1,19 @@
+{
+  "id": 2000180227,
+  "first_name": "Nathaniel",
+  "last_name": "Nwosu",
+  "birth_date": "2006-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -65
+}

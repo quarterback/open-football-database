@@ -1,0 +1,27 @@
+{
+  "id": 91196230,
+  "first_name": "Philipp",
+  "last_name": "Schuck",
+  "birth_date": "1999-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 88,
+  "potential_ability": 102
+}

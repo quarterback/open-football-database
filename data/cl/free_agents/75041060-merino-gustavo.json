@@ -1,0 +1,19 @@
+{
+  "id": 75041060,
+  "first_name": "Gustavo",
+  "last_name": "Merino",
+  "birth_date": "1996-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 106
+}

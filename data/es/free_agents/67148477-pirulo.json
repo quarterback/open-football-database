@@ -1,0 +1,27 @@
+{
+  "id": 67148477,
+  "first_name": "Pirulo",
+  "last_name": "",
+  "birth_date": "1992-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 98,
+  "potential_ability": 116
+}

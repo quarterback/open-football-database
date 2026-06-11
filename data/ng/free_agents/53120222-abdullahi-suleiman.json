@@ -1,0 +1,23 @@
+{
+  "id": 53120222,
+  "first_name": "Suleiman",
+  "last_name": "Abdullahi",
+  "birth_date": "1997-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 124
+}

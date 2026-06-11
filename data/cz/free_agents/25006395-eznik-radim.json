@@ -1,0 +1,23 @@
+{
+  "id": 25006395,
+  "first_name": "Radim",
+  "last_name": "Řezník",
+  "birth_date": "1989-01-01",
+  "country_id": 763,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 130
+}

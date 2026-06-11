@@ -1,0 +1,23 @@
+{
+  "id": 65002852,
+  "first_name": "Kamohelo",
+  "last_name": "Mokotjo",
+  "birth_date": "1991-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 128
+}

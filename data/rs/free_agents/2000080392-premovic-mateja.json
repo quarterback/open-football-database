@@ -1,0 +1,19 @@
+{
+  "id": 2000080392,
+  "first_name": "Mateja",
+  "last_name": "Premović",
+  "birth_date": "2004-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

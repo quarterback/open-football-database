@@ -1,0 +1,19 @@
+{
+  "id": 2000281189,
+  "first_name": "Alex",
+  "last_name": "Martínez",
+  "birth_date": "2001-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 106
+}

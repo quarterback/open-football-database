@@ -1,0 +1,19 @@
+{
+  "id": 75041735,
+  "first_name": "Celso",
+  "last_name": "Castillo",
+  "birth_date": "1998-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 88
+}

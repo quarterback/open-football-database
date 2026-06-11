@@ -1,0 +1,23 @@
+{
+  "id": 43044387,
+  "first_name": "Roberto",
+  "last_name": "Soriano",
+  "birth_date": "1991-01-01",
+  "country_id": 776,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 150
+}

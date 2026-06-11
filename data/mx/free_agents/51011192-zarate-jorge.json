@@ -1,0 +1,23 @@
+{
+  "id": 51011192,
+  "first_name": "Jorge",
+  "last_name": "Zárate",
+  "birth_date": "1992-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 88,
+  "potential_ability": 126
+}

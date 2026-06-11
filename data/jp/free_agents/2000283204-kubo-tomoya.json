@@ -1,0 +1,19 @@
+{
+  "id": 2000283204,
+  "first_name": "Tomoya",
+  "last_name": "Kubo",
+  "birth_date": "2005-01-01",
+  "country_id": 116,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -45
+}

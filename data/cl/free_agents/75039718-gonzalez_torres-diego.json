@@ -1,0 +1,19 @@
+{
+  "id": 75039718,
+  "first_name": "Diego",
+  "last_name": "González Torres",
+  "birth_date": "1998-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120
+}

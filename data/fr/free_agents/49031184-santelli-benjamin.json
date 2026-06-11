@@ -1,0 +1,31 @@
+{
+  "id": 49031184,
+  "first_name": "Benjamin",
+  "last_name": "Santelli",
+  "birth_date": "1991-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 108,
+  "potential_ability": 112
+}

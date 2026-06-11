@@ -1,0 +1,23 @@
+{
+  "id": 75051442,
+  "first_name": "Matías",
+  "last_name": "Ávila",
+  "birth_date": "1997-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 102
+}

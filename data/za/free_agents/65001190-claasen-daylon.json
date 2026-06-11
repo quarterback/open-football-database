@@ -1,0 +1,31 @@
+{
+  "id": 65001190,
+  "first_name": "Daylon",
+  "last_name": "Claasen",
+  "birth_date": "1990-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 120
+}

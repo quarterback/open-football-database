@@ -1,0 +1,23 @@
+{
+  "id": 92018032,
+  "first_name": "Onur",
+  "last_name": "Ayık",
+  "birth_date": "1989-01-01",
+  "country_id": 799,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 100,
+  "potential_ability": 116
+}

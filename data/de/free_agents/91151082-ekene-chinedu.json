@@ -1,0 +1,35 @@
+{
+  "id": 91151082,
+  "first_name": "Chinedu",
+  "last_name": "Ekene",
+  "birth_date": "1999-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 108
+}

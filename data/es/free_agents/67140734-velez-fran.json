@@ -1,0 +1,23 @@
+{
+  "id": 67140734,
+  "first_name": "Fran",
+  "last_name": "Vélez",
+  "birth_date": "1991-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 116
+}

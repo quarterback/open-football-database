@@ -1,0 +1,19 @@
+{
+  "id": 67245670,
+  "first_name": "Julen",
+  "last_name": "Azkue",
+  "birth_date": "1995-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 98
+}

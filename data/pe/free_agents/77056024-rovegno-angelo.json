@@ -1,0 +1,19 @@
+{
+  "id": 77056024,
+  "first_name": "Angelo",
+  "last_name": "Rovegno",
+  "birth_date": "1999-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 104
+}

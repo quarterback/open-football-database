@@ -1,0 +1,23 @@
+{
+  "id": 51013596,
+  "first_name": "Miguel",
+  "last_name": "Velázquez",
+  "birth_date": "1990-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 112
+}

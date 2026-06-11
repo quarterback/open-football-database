@@ -1,0 +1,23 @@
+{
+  "id": 76014682,
+  "first_name": "Carlos",
+  "last_name": "Robles",
+  "birth_date": "1992-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 126
+}

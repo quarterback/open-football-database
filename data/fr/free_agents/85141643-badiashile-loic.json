@@ -1,0 +1,19 @@
+{
+  "id": 85141643,
+  "first_name": "Loïc",
+  "last_name": "Badiashile",
+  "birth_date": "1998-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 116
+}

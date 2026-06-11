@@ -1,0 +1,19 @@
+{
+  "id": 86050497,
+  "first_name": "Miguel",
+  "last_name": "Celis",
+  "birth_date": "1995-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 100
+}

@@ -1,0 +1,27 @@
+{
+  "id": 76054797,
+  "first_name": "Daniel",
+  "last_name": "Valdelamar",
+  "birth_date": "1997-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 94,
+  "potential_ability": 118
+}

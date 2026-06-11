@@ -1,0 +1,23 @@
+{
+  "id": 62203607,
+  "first_name": "Davor",
+  "last_name": "Nedeljković",
+  "birth_date": "1996-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

@@ -1,0 +1,23 @@
+{
+  "id": 13224506,
+  "first_name": "Akinkunmi",
+  "last_name": "Amoo",
+  "birth_date": "2002-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 114,
+  "potential_ability": 132
+}

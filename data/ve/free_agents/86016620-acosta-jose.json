@@ -1,0 +1,19 @@
+{
+  "id": 86016620,
+  "first_name": "José",
+  "last_name": "Acosta",
+  "birth_date": "1989-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 90
+}

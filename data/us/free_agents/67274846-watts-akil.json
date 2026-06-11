@@ -1,0 +1,27 @@
+{
+  "id": 67274846,
+  "first_name": "Akil",
+  "last_name": "Watts",
+  "birth_date": "2000-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 116
+}

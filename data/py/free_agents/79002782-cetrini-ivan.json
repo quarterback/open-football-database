@@ -1,0 +1,19 @@
+{
+  "id": 79002782,
+  "first_name": "Iván",
+  "last_name": "Cetrini",
+  "birth_date": "1991-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 98
+}

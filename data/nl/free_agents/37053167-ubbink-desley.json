@@ -1,0 +1,27 @@
+{
+  "id": 37053167,
+  "first_name": "Desley",
+  "last_name": "Ubbink",
+  "birth_date": "1993-01-01",
+  "country_id": 784,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 110
+}

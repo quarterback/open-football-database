@@ -1,0 +1,23 @@
+{
+  "id": 2000073247,
+  "first_name": "Kevin",
+  "last_name": "Díaz",
+  "birth_date": "2002-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 75
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

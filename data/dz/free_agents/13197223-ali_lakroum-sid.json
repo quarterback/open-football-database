@@ -1,0 +1,23 @@
+{
+  "id": 13197223,
+  "first_name": "Sid",
+  "last_name": "Ali Lakroum",
+  "birth_date": "1987-01-01",
+  "country_id": 5,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

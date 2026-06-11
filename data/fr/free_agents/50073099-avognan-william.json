@@ -1,0 +1,19 @@
+{
+  "id": 50073099,
+  "first_name": "William",
+  "last_name": "Avognan",
+  "birth_date": "1995-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 96
+}

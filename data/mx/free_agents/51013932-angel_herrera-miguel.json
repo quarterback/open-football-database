@@ -1,0 +1,19 @@
+{
+  "id": 51013932,
+  "first_name": "Miguel",
+  "last_name": "Ángel Herrera",
+  "birth_date": "1989-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 138
+}

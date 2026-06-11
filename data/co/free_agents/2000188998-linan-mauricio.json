@@ -1,0 +1,27 @@
+{
+  "id": 2000188998,
+  "first_name": "Mauricio",
+  "last_name": "Liñán",
+  "birth_date": "2001-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 120
+}

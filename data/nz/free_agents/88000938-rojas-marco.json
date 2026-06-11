@@ -1,0 +1,31 @@
+{
+  "id": 88000938,
+  "first_name": "Marco",
+  "last_name": "Rojas",
+  "birth_date": "1991-01-01",
+  "country_id": 1438,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 116
+}

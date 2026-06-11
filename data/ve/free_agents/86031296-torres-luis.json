@@ -1,0 +1,27 @@
+{
+  "id": 86031296,
+  "first_name": "Luis",
+  "last_name": "Torres",
+  "birth_date": "1993-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 80,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 110
+}

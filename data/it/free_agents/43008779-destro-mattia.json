@@ -1,0 +1,19 @@
+{
+  "id": 43008779,
+  "first_name": "Mattia",
+  "last_name": "Destro",
+  "birth_date": "1991-01-01",
+  "country_id": 776,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 146
+}

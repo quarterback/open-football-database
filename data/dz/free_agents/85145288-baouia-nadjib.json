@@ -1,0 +1,19 @@
+{
+  "id": 85145288,
+  "first_name": "Nadjib",
+  "last_name": "Baouia",
+  "birth_date": "1992-01-01",
+  "country_id": 5,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 98
+}

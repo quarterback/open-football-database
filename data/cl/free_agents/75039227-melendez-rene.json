@@ -1,0 +1,23 @@
+{
+  "id": 75039227,
+  "first_name": "René",
+  "last_name": "Meléndez",
+  "birth_date": "1998-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 94,
+  "potential_ability": 120
+}

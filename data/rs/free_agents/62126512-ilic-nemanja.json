@@ -1,0 +1,23 @@
+{
+  "id": 62126512,
+  "first_name": "Nemanja",
+  "last_name": "Ilić",
+  "birth_date": "1992-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 106
+}

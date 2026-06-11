@@ -1,0 +1,19 @@
+{
+  "id": 2000155443,
+  "first_name": "Ahmed",
+  "last_name": "Longmire",
+  "birth_date": "1999-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 114
+}

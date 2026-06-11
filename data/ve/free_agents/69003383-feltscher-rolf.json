@@ -1,0 +1,31 @@
+{
+  "id": 69003383,
+  "first_name": "Rolf",
+  "last_name": "Feltscher",
+  "birth_date": "1990-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 116
+}

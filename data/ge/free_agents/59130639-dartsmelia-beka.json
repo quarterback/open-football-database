@@ -1,0 +1,23 @@
+{
+  "id": 59130639,
+  "first_name": "Beka",
+  "last_name": "Dartsmelia",
+  "birth_date": "2000-01-01",
+  "country_id": 770,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 100,
+  "potential_ability": 106
+}

@@ -1,0 +1,27 @@
+{
+  "id": 92064869,
+  "first_name": "Pascal",
+  "last_name": "Köpke",
+  "birth_date": "1995-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 120
+}

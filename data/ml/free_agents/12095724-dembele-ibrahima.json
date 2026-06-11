@@ -1,0 +1,19 @@
+{
+  "id": 12095724,
+  "first_name": "Ibrahima",
+  "last_name": "Dembélé",
+  "birth_date": "2003-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

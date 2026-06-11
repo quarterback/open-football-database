@@ -1,0 +1,19 @@
+{
+  "id": 77004615,
+  "first_name": "Erick",
+  "last_name": "Coavoy",
+  "birth_date": "1990-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 102
+}

@@ -1,0 +1,19 @@
+{
+  "id": 25009611,
+  "first_name": "Miroslav",
+  "last_name": "Marković",
+  "birth_date": "1989-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 116
+}

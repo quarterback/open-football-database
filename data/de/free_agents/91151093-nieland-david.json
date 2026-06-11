@@ -1,0 +1,27 @@
+{
+  "id": 91151093,
+  "first_name": "David",
+  "last_name": "Nieland",
+  "birth_date": "1999-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 108
+}

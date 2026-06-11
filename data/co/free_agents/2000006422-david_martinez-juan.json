@@ -1,0 +1,23 @@
+{
+  "id": 2000006422,
+  "first_name": "Juan",
+  "last_name": "David Martínez",
+  "birth_date": "2002-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 114
+}

@@ -1,0 +1,23 @@
+{
+  "id": 76049860,
+  "first_name": "José",
+  "last_name": "Pérez",
+  "birth_date": "1997-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 100
+}

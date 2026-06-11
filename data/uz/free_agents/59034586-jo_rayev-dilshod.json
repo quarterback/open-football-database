@@ -1,0 +1,23 @@
+{
+  "id": 59034586,
+  "first_name": "Dilshod",
+  "last_name": "Jo'rayev",
+  "birth_date": "1992-01-01",
+  "country_id": 144,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

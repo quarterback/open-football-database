@@ -1,0 +1,19 @@
+{
+  "id": 2000170301,
+  "first_name": "Patrick",
+  "last_name": "Touray",
+  "birth_date": "2003-01-01",
+  "country_id": 755,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

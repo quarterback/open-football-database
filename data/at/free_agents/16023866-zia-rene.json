@@ -1,0 +1,27 @@
+{
+  "id": 16023866,
+  "first_name": "René",
+  "last_name": "Zia",
+  "birth_date": "1991-01-01",
+  "country_id": 755,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 94
+}

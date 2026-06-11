@@ -1,0 +1,19 @@
+{
+  "id": 1650089,
+  "first_name": "Kakha",
+  "last_name": "Makharadze",
+  "birth_date": "1987-01-01",
+  "country_id": 770,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 118
+}

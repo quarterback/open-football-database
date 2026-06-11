@@ -1,0 +1,23 @@
+{
+  "id": 67275941,
+  "first_name": "Mario",
+  "last_name": "",
+  "birth_date": "1999-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 126
+}

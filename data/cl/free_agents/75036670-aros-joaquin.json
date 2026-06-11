@@ -1,0 +1,23 @@
+{
+  "id": 75036670,
+  "first_name": "Joaquín",
+  "last_name": "Aros",
+  "birth_date": "1996-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 116
+}

@@ -1,0 +1,23 @@
+{
+  "id": 91199489,
+  "first_name": "Noah",
+  "last_name": "Salau",
+  "birth_date": "1996-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 96
+}

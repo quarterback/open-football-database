@@ -1,0 +1,19 @@
+{
+  "id": 2000431054,
+  "first_name": "Brayan",
+  "last_name": "Aragón",
+  "birth_date": "2001-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 112
+}

@@ -1,0 +1,23 @@
+{
+  "id": 18106062,
+  "first_name": "Loïc",
+  "last_name": "Masscho",
+  "birth_date": "2001-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 96
+}

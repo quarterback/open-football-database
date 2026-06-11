@@ -1,0 +1,27 @@
+{
+  "id": 98039050,
+  "first_name": "Lorenzo",
+  "last_name": "González",
+  "birth_date": "2000-01-01",
+  "country_id": 798,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 96
+}

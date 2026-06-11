@@ -1,0 +1,19 @@
+{
+  "id": 8486022,
+  "first_name": "Davut",
+  "last_name": "Babur",
+  "birth_date": "1987-01-01",
+  "country_id": 799,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

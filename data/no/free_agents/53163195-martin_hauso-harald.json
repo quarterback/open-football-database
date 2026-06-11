@@ -1,0 +1,31 @@
+{
+  "id": 53163195,
+  "first_name": "Harald",
+  "last_name": "Martin Hauso",
+  "birth_date": "2000-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -6
+}

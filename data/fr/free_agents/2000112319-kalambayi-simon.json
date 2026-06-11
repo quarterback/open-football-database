@@ -1,0 +1,19 @@
+{
+  "id": 2000112319,
+  "first_name": "Simon",
+  "last_name": "Kalambayi",
+  "birth_date": "2005-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": -65
+}

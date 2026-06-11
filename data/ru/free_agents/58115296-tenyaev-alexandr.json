@@ -1,0 +1,19 @@
+{
+  "id": 58115296,
+  "first_name": "Alexandr",
+  "last_name": "Tenyaev",
+  "birth_date": "1996-01-01",
+  "country_id": 791,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 94
+}

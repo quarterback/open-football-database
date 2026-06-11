@@ -1,0 +1,27 @@
+{
+  "id": 23118224,
+  "first_name": "Younes",
+  "last_name": "Shakeri",
+  "birth_date": "1990-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 116
+}

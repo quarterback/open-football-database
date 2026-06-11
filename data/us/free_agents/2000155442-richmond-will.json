@@ -1,0 +1,31 @@
+{
+  "id": 2000155442,
+  "first_name": "Will",
+  "last_name": "Richmond",
+  "birth_date": "2000-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 110
+}

@@ -1,0 +1,19 @@
+{
+  "id": 91105637,
+  "first_name": "Christoph",
+  "last_name": "Zimmermann",
+  "birth_date": "1992-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 138
+}

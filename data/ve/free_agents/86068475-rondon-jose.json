@@ -1,0 +1,23 @@
+{
+  "id": 86068475,
+  "first_name": "José",
+  "last_name": "Rondón",
+  "birth_date": "1999-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 116
+}

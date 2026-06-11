@@ -1,0 +1,27 @@
+{
+  "id": 72026323,
+  "first_name": "Daniel",
+  "last_name": "Steres",
+  "birth_date": "1990-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 112
+}

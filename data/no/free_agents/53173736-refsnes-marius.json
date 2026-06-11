@@ -1,0 +1,23 @@
+{
+  "id": 53173736,
+  "first_name": "Marius",
+  "last_name": "Refsnes",
+  "birth_date": "2000-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 96
+}

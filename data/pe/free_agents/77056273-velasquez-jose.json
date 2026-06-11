@@ -1,0 +1,23 @@
+{
+  "id": 77056273,
+  "first_name": "José",
+  "last_name": "Velásquez",
+  "birth_date": "1998-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 108
+}

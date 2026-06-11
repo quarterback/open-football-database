@@ -1,0 +1,19 @@
+{
+  "id": 72056141,
+  "first_name": "Elliot",
+  "last_name": "Panicco",
+  "birth_date": "1996-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 120
+}

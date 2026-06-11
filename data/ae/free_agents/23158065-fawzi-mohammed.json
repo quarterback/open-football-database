@@ -1,0 +1,23 @@
+{
+  "id": 23158065,
+  "first_name": "Mohammed",
+  "last_name": "Fawzi",
+  "birth_date": "1990-01-01",
+  "country_id": 143,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 110
+}

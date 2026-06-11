@@ -1,0 +1,19 @@
+{
+  "id": 67199233,
+  "first_name": "Antonio",
+  "last_name": "Navas",
+  "birth_date": "1995-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

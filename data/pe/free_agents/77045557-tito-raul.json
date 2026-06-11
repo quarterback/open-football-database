@@ -1,0 +1,23 @@
+{
+  "id": 77045557,
+  "first_name": "Raúl",
+  "last_name": "Tito",
+  "birth_date": "1997-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 92
+}

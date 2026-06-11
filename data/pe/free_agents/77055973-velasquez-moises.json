@@ -1,0 +1,23 @@
+{
+  "id": 77055973,
+  "first_name": "Moisés",
+  "last_name": "Velásquez",
+  "birth_date": "1999-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 108
+}

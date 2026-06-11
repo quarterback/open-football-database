@@ -1,0 +1,35 @@
+{
+  "id": 67038648,
+  "first_name": "Rubén",
+  "last_name": "Rochina",
+  "birth_date": "1991-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 106,
+  "potential_ability": 142
+}

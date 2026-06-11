@@ -1,0 +1,23 @@
+{
+  "id": 67142680,
+  "first_name": "Jean",
+  "last_name": "Marie Dongou",
+  "birth_date": "1995-01-01",
+  "country_id": 11,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 120
+}

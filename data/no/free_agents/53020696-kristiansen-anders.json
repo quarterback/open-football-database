@@ -1,0 +1,19 @@
+{
+  "id": 53020696,
+  "first_name": "Anders",
+  "last_name": "Kristiansen",
+  "birth_date": "1989-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 120
+}

@@ -1,0 +1,19 @@
+{
+  "id": 59028274,
+  "first_name": "Elguja",
+  "last_name": "Grigalashvili",
+  "birth_date": "1990-01-01",
+  "country_id": 770,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 106
+}

@@ -1,0 +1,31 @@
+{
+  "id": 20046567,
+  "first_name": "Dylan",
+  "last_name": "Teves",
+  "birth_date": "2000-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 106
+}

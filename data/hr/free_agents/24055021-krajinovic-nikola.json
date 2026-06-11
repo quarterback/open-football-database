@@ -1,0 +1,23 @@
+{
+  "id": 24055021,
+  "first_name": "Nikola",
+  "last_name": "Krajinović",
+  "birth_date": "1999-01-01",
+  "country_id": 761,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 100
+}

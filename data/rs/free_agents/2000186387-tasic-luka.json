@@ -1,0 +1,19 @@
+{
+  "id": 2000186387,
+  "first_name": "Luka",
+  "last_name": "Tasić",
+  "birth_date": "2003-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 128
+}

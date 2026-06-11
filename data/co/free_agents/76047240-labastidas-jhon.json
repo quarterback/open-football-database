@@ -1,0 +1,31 @@
+{
+  "id": 76047240,
+  "first_name": "Jhon",
+  "last_name": "Labastidas",
+  "birth_date": "1998-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 114
+}

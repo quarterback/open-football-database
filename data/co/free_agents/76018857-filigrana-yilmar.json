@@ -1,0 +1,19 @@
+{
+  "id": 76018857,
+  "first_name": "Yilmar",
+  "last_name": "Filigrana",
+  "birth_date": "1990-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 128
+}

@@ -1,0 +1,19 @@
+{
+  "id": 23486447,
+  "first_name": "Amir",
+  "last_name": "Mehdi Janmaleki",
+  "birth_date": "1999-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 112
+}

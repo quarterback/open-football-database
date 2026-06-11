@@ -1,0 +1,31 @@
+{
+  "id": 13129747,
+  "first_name": "Richmond",
+  "last_name": "Lamptey",
+  "birth_date": "1997-01-01",
+  "country_id": 21,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

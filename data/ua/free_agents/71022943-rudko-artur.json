@@ -1,0 +1,19 @@
+{
+  "id": 71022943,
+  "first_name": "Artur",
+  "last_name": "Rudko",
+  "birth_date": "1992-01-01",
+  "country_id": 800,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 120
+}

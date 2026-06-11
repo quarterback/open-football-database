@@ -1,0 +1,23 @@
+{
+  "id": 65045539,
+  "first_name": "Cameron",
+  "last_name": "Carnell",
+  "birth_date": "2000-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 120
+}

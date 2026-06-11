@@ -1,0 +1,19 @@
+{
+  "id": 16116639,
+  "first_name": "Martin",
+  "last_name": "Fraisl",
+  "birth_date": "1993-01-01",
+  "country_id": 755,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 126
+}

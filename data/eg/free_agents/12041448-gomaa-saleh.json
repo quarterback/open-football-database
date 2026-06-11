@@ -1,0 +1,23 @@
+{
+  "id": 12041448,
+  "first_name": "Saleh",
+  "last_name": "Gomaa",
+  "birth_date": "1993-01-01",
+  "country_id": 16,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 126
+}

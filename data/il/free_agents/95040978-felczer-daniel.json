@@ -1,0 +1,19 @@
+{
+  "id": 95040978,
+  "first_name": "Daniel",
+  "last_name": "Felczer",
+  "birth_date": "1997-01-01",
+  "country_id": 775,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 120
+}

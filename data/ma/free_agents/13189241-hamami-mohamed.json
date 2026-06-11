@@ -1,0 +1,23 @@
+{
+  "id": 13189241,
+  "first_name": "Mohamed",
+  "last_name": "Hamami",
+  "birth_date": "1992-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

@@ -1,0 +1,19 @@
+{
+  "id": 85082408,
+  "first_name": "Jérémy",
+  "last_name": "Vachoux",
+  "birth_date": "1994-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 110
+}

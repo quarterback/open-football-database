@@ -1,0 +1,23 @@
+{
+  "id": 86042539,
+  "first_name": "Samuel",
+  "last_name": "Giménez",
+  "birth_date": "1991-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 92,
+  "potential_ability": 106
+}

@@ -1,0 +1,31 @@
+{
+  "id": 86080247,
+  "first_name": "Cristian",
+  "last_name": "Cruz",
+  "birth_date": "2002-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 110
+}

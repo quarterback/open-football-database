@@ -1,0 +1,23 @@
+{
+  "id": 25022606,
+  "first_name": "Tomáš",
+  "last_name": "Kučera",
+  "birth_date": "1991-01-01",
+  "country_id": 763,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 112
+}

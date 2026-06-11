@@ -1,0 +1,19 @@
+{
+  "id": 33020373,
+  "first_name": "Jere",
+  "last_name": "Koponen",
+  "birth_date": "1992-01-01",
+  "country_id": 768,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

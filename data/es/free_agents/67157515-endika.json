@@ -1,0 +1,19 @@
+{
+  "id": 67157515,
+  "first_name": "Endika",
+  "last_name": "",
+  "birth_date": "1994-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

@@ -1,0 +1,23 @@
+{
+  "id": 8169425,
+  "first_name": "Dries",
+  "last_name": "Mertens",
+  "birth_date": "1987-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 130,
+  "potential_ability": 166
+}

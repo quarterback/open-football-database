@@ -1,0 +1,19 @@
+{
+  "id": 2000195232,
+  "first_name": "Allan",
+  "last_name": "Rodríguez",
+  "birth_date": "2004-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 108
+}

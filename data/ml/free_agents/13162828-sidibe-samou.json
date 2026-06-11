@@ -1,0 +1,31 @@
+{
+  "id": 13162828,
+  "first_name": "Samou",
+  "last_name": "Sidibé",
+  "birth_date": "1994-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 98,
+  "potential_ability": 104
+}

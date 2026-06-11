@@ -1,0 +1,23 @@
+{
+  "id": 76001404,
+  "first_name": "Francisco",
+  "last_name": "Rodríguez",
+  "birth_date": "1987-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 120
+}

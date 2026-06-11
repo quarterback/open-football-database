@@ -1,0 +1,27 @@
+{
+  "id": 57002589,
+  "first_name": "Constantin",
+  "last_name": "Budescu",
+  "birth_date": "1989-01-01",
+  "country_id": 790,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 128
+}

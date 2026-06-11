@@ -1,0 +1,19 @@
+{
+  "id": 2000006058,
+  "first_name": "Luis",
+  "last_name": "Carbajal",
+  "birth_date": "1987-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96
+}

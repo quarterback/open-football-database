@@ -1,0 +1,23 @@
+{
+  "id": 62058837,
+  "first_name": "Dajan",
+  "last_name": "Ponjević",
+  "birth_date": "1989-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 88,
+  "potential_ability": 102
+}

@@ -1,0 +1,23 @@
+{
+  "id": 37039832,
+  "first_name": "Queensy",
+  "last_name": "Menig",
+  "birth_date": "1995-01-01",
+  "country_id": 784,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 122
+}

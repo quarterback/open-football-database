@@ -1,0 +1,23 @@
+{
+  "id": 35026092,
+  "first_name": "Marvin",
+  "last_name": "Knoll",
+  "birth_date": "1990-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 102,
+  "potential_ability": 122
+}

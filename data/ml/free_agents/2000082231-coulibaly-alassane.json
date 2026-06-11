@@ -1,0 +1,19 @@
+{
+  "id": 2000082231,
+  "first_name": "Alassane",
+  "last_name": "Coulibaly",
+  "birth_date": "2000-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 104
+}

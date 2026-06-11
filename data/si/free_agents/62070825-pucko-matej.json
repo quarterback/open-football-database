@@ -1,0 +1,27 @@
+{
+  "id": 62070825,
+  "first_name": "Matej",
+  "last_name": "Pučko",
+  "birth_date": "1993-01-01",
+  "country_id": 795,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 116
+}

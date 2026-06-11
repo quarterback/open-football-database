@@ -1,0 +1,19 @@
+{
+  "id": 76022277,
+  "first_name": "Wilson",
+  "last_name": "Palacios",
+  "birth_date": "1992-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 106
+}

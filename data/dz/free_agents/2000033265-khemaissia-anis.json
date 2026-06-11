@@ -1,0 +1,23 @@
+{
+  "id": 2000033265,
+  "first_name": "Anis",
+  "last_name": "Khemaissia",
+  "birth_date": "1999-01-01",
+  "country_id": 5,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

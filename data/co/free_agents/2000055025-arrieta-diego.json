@@ -1,0 +1,19 @@
+{
+  "id": 2000055025,
+  "first_name": "Diego",
+  "last_name": "Arrieta",
+  "birth_date": "2003-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 65
+  },
+  "current_ability": 88,
+  "potential_ability": -6
+}

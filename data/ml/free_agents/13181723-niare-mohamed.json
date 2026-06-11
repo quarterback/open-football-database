@@ -1,0 +1,19 @@
+{
+  "id": 13181723,
+  "first_name": "Mohamed",
+  "last_name": "Niaré",
+  "birth_date": "1995-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 96
+}

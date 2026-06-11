@@ -1,0 +1,23 @@
+{
+  "id": 51055316,
+  "first_name": "Paolo",
+  "last_name": "Yrizar",
+  "birth_date": "1997-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120
+}

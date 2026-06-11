@@ -1,0 +1,27 @@
+{
+  "id": 13109157,
+  "first_name": "Osas",
+  "last_name": "Okoro",
+  "birth_date": "1990-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 118
+}

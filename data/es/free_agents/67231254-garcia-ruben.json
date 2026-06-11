@@ -1,0 +1,23 @@
+{
+  "id": 67231254,
+  "first_name": "Rubén",
+  "last_name": "García",
+  "birth_date": "1995-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

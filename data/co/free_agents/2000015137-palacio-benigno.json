@@ -1,0 +1,23 @@
+{
+  "id": 2000015137,
+  "first_name": "Benigno",
+  "last_name": "Palacio",
+  "birth_date": "2001-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 88,
+  "potential_ability": 112
+}

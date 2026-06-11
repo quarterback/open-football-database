@@ -1,0 +1,27 @@
+{
+  "id": 2000179144,
+  "first_name": "Philipp",
+  "last_name": "Sonn",
+  "birth_date": "2004-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 88,
+  "potential_ability": -65
+}

@@ -1,0 +1,23 @@
+{
+  "id": 51012753,
+  "first_name": "Marvin",
+  "last_name": "Piñón",
+  "birth_date": "1991-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 114
+}

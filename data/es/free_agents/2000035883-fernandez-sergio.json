@@ -1,0 +1,31 @@
+{
+  "id": 2000035883,
+  "first_name": "Sergio",
+  "last_name": "Fernández",
+  "birth_date": "2001-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 118
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2000165949,
+  "first_name": "Jacob",
+  "last_name": "Labovitz",
+  "birth_date": "1998-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

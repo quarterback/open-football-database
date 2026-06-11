@@ -1,0 +1,23 @@
+{
+  "id": 79002984,
+  "first_name": "Juan",
+  "last_name": "Aguilar",
+  "birth_date": "1989-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 118
+}

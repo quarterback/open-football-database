@@ -1,0 +1,19 @@
+{
+  "id": 76039366,
+  "first_name": "Jhonny",
+  "last_name": "Mena",
+  "birth_date": "1994-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 110
+}

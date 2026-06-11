@@ -1,0 +1,19 @@
+{
+  "id": 2000038677,
+  "first_name": "Jean",
+  "last_name": "Paul Arce",
+  "birth_date": "2002-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 88,
+  "potential_ability": 112
+}

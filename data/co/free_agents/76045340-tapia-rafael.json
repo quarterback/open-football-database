@@ -1,0 +1,23 @@
+{
+  "id": 76045340,
+  "first_name": "Rafael",
+  "last_name": "Tapia",
+  "birth_date": "2000-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 88,
+  "potential_ability": 112
+}

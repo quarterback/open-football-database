@@ -1,0 +1,19 @@
+{
+  "id": 1045901,
+  "first_name": "Abdullah",
+  "last_name": "Al-Muaiouf",
+  "birth_date": "1987-01-01",
+  "country_id": 133,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 120
+}

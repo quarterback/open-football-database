@@ -1,0 +1,19 @@
+{
+  "id": 75004651,
+  "first_name": "José",
+  "last_name": "Luis Gamonal",
+  "birth_date": "1989-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 126
+}

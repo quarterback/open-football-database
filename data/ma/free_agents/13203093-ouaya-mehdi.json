@@ -1,0 +1,19 @@
+{
+  "id": 13203093,
+  "first_name": "Mehdi",
+  "last_name": "Ouaya",
+  "birth_date": "1991-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

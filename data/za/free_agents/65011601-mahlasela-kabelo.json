@@ -1,0 +1,19 @@
+{
+  "id": 65011601,
+  "first_name": "Kabelo",
+  "last_name": "Mahlasela",
+  "birth_date": "1991-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 110
+}

@@ -1,0 +1,19 @@
+{
+  "id": 51044745,
+  "first_name": "Jonathan",
+  "last_name": "Valdivia",
+  "birth_date": "1993-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 88,
+  "potential_ability": 106
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2000439152,
+  "first_name": "Alesandro",
+  "last_name": "Comita",
+  "birth_date": "2004-01-01",
+  "country_id": 776,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 120
+}

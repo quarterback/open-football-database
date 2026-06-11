@@ -1,0 +1,19 @@
+{
+  "id": 70047954,
+  "first_name": "Ali",
+  "last_name": "Şaşal Vural",
+  "birth_date": "1990-01-01",
+  "country_id": 799,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 130
+}

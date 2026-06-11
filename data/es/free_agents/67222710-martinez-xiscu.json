@@ -1,0 +1,27 @@
+{
+  "id": 67222710,
+  "first_name": "Xiscu",
+  "last_name": "Martínez",
+  "birth_date": "1995-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

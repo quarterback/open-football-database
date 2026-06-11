@@ -1,0 +1,27 @@
+{
+  "id": 62039564,
+  "first_name": "Filip",
+  "last_name": "Malbašić",
+  "birth_date": "1992-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 136
+}

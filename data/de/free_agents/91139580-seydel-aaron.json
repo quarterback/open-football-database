@@ -1,0 +1,19 @@
+{
+  "id": 91139580,
+  "first_name": "Aaron",
+  "last_name": "Seydel",
+  "birth_date": "1996-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 100,
+  "potential_ability": 120
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5662558,
+  "first_name": "Hugo",
+  "last_name": "Rodríguez",
+  "birth_date": "1990-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 132
+}

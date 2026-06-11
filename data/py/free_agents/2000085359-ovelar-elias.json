@@ -1,0 +1,19 @@
+{
+  "id": 2000085359,
+  "first_name": "Elías",
+  "last_name": "Ovelar",
+  "birth_date": "2001-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -6
+}

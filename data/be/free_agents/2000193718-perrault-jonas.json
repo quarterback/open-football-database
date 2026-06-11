@@ -1,0 +1,19 @@
+{
+  "id": 2000193718,
+  "first_name": "Jonas",
+  "last_name": "Perrault",
+  "birth_date": "1996-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 92
+}

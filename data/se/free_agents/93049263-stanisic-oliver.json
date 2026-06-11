@@ -1,0 +1,19 @@
+{
+  "id": 93049263,
+  "first_name": "Oliver",
+  "last_name": "Stanišić",
+  "birth_date": "1994-01-01",
+  "country_id": 797,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 120
+}

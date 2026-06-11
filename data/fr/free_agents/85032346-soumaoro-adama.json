@@ -1,0 +1,19 @@
+{
+  "id": 85032346,
+  "first_name": "Adama",
+  "last_name": "Soumaoro",
+  "birth_date": "1992-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 136
+}

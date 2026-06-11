@@ -1,0 +1,19 @@
+{
+  "id": 79035276,
+  "first_name": "Antonio",
+  "last_name": "González",
+  "birth_date": "2002-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

@@ -1,0 +1,19 @@
+{
+  "id": 57155651,
+  "first_name": "Ionuţ",
+  "last_name": "Panţîru",
+  "birth_date": "1996-01-01",
+  "country_id": 790,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

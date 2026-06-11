@@ -1,0 +1,19 @@
+{
+  "id": 67062684,
+  "first_name": "Cristian",
+  "last_name": "López",
+  "birth_date": "1988-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 122
+}

@@ -1,0 +1,19 @@
+{
+  "id": 59110691,
+  "first_name": "Älibek",
+  "last_name": "Qasym",
+  "birth_date": "1998-01-01",
+  "country_id": 119,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 126
+}

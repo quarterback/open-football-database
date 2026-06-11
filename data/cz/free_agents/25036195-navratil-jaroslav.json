@@ -1,0 +1,23 @@
+{
+  "id": 25036195,
+  "first_name": "Jaroslav",
+  "last_name": "Navrátil",
+  "birth_date": "1992-01-01",
+  "country_id": 763,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 116
+}

@@ -1,0 +1,19 @@
+{
+  "id": 79026255,
+  "first_name": "Jorge",
+  "last_name": "Pedrozo",
+  "birth_date": "1987-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 106
+}

@@ -1,0 +1,35 @@
+{
+  "id": 91100663,
+  "first_name": "Amin",
+  "last_name": "Younes",
+  "birth_date": "1993-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 140
+}

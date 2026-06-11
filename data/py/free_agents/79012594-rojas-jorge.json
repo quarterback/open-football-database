@@ -1,0 +1,23 @@
+{
+  "id": 79012594,
+  "first_name": "Jorge",
+  "last_name": "Rojas",
+  "birth_date": "1993-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 124
+}

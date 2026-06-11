@@ -1,0 +1,27 @@
+{
+  "id": 76039606,
+  "first_name": "Hansel",
+  "last_name": "Zapata",
+  "birth_date": "1995-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 116
+}

@@ -1,0 +1,27 @@
+{
+  "id": 85028008,
+  "first_name": "Axel",
+  "last_name": "Ngando",
+  "birth_date": "1993-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 114,
+  "potential_ability": 124
+}

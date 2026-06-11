@@ -1,0 +1,19 @@
+{
+  "id": 18083548,
+  "first_name": "Jordy",
+  "last_name": "Peffer",
+  "birth_date": "1996-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

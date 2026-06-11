@@ -1,0 +1,19 @@
+{
+  "id": 2000058406,
+  "first_name": "Carlos",
+  "last_name": "Gallego",
+  "birth_date": "2003-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -7
+}

@@ -1,0 +1,19 @@
+{
+  "id": 15006254,
+  "first_name": "Matthew",
+  "last_name": "Acton",
+  "birth_date": "1992-01-01",
+  "country_id": 1435,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

@@ -1,0 +1,19 @@
+{
+  "id": 92097949,
+  "first_name": "Leon",
+  "last_name": "Bätge",
+  "birth_date": "1997-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 98
+}

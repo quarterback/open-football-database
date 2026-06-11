@@ -1,0 +1,19 @@
+{
+  "id": 2000100999,
+  "first_name": "Guillermo",
+  "last_name": "Coronel",
+  "birth_date": "1999-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 92,
+  "potential_ability": 102
+}

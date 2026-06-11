@@ -1,0 +1,27 @@
+{
+  "id": 72038783,
+  "first_name": "Gyasi",
+  "last_name": "Zardes",
+  "birth_date": "1991-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 124
+}

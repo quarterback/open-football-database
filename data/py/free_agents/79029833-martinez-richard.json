@@ -1,0 +1,23 @@
+{
+  "id": 79029833,
+  "first_name": "Richard",
+  "last_name": "Martínez",
+  "birth_date": "1995-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 110
+}

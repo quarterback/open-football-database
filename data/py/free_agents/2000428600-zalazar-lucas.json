@@ -1,0 +1,23 @@
+{
+  "id": 2000428600,
+  "first_name": "Lucas",
+  "last_name": "Zalazar",
+  "birth_date": "1997-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 96
+}

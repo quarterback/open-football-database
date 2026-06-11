@@ -1,0 +1,19 @@
+{
+  "id": 13177248,
+  "first_name": "Dérrick",
+  "last_name": "Anye Fru",
+  "birth_date": "1995-01-01",
+  "country_id": 11,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 90
+}

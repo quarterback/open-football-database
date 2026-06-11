@@ -1,0 +1,19 @@
+{
+  "id": 2000008224,
+  "first_name": "Efraín",
+  "last_name": "Ustariz",
+  "birth_date": "2003-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

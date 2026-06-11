@@ -1,0 +1,19 @@
+{
+  "id": 30034114,
+  "first_name": "Oto",
+  "last_name": "John",
+  "birth_date": "1998-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 110
+}

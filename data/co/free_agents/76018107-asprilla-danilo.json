@@ -1,0 +1,27 @@
+{
+  "id": 76018107,
+  "first_name": "Danilo",
+  "last_name": "Asprilla",
+  "birth_date": "1989-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 136
+}

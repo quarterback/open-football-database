@@ -1,0 +1,23 @@
+{
+  "id": 2000015233,
+  "first_name": "Esteban",
+  "last_name": "Buitrago",
+  "birth_date": "2001-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 118
+}

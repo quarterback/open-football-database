@@ -1,0 +1,31 @@
+{
+  "id": 2000187218,
+  "first_name": "Santiago",
+  "last_name": "Gómez",
+  "birth_date": "1998-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 110
+}

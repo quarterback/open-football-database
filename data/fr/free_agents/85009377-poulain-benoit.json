@@ -1,0 +1,19 @@
+{
+  "id": 85009377,
+  "first_name": "Benoît",
+  "last_name": "Poulain",
+  "birth_date": "1987-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 124
+}

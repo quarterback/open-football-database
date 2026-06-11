@@ -1,0 +1,27 @@
+{
+  "id": 62231810,
+  "first_name": "Todor",
+  "last_name": "Glišović",
+  "birth_date": "2001-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 98
+}

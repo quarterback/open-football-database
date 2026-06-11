@@ -1,0 +1,23 @@
+{
+  "id": 77052276,
+  "first_name": "Gerson",
+  "last_name": "Iraola",
+  "birth_date": "1997-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 92
+}

@@ -1,0 +1,23 @@
+{
+  "id": 50034547,
+  "first_name": "Bakaye",
+  "last_name": "Dibassy",
+  "birth_date": "1989-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 106,
+  "potential_ability": 124
+}

@@ -1,0 +1,19 @@
+{
+  "id": 64039659,
+  "first_name": "Amir",
+  "last_name": "Hossein Nikpour",
+  "birth_date": "2002-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

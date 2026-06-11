@@ -1,0 +1,19 @@
+{
+  "id": 79032099,
+  "first_name": "Oscar",
+  "last_name": "Meza",
+  "birth_date": "1998-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 110
+}

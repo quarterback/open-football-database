@@ -1,0 +1,27 @@
+{
+  "id": 85072774,
+  "first_name": "Brian",
+  "last_name": "Babit",
+  "birth_date": "1993-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96
+}

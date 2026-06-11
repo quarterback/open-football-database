@@ -1,0 +1,19 @@
+{
+  "id": 76055473,
+  "first_name": "Sebastián",
+  "last_name": "Valenzuela",
+  "birth_date": "1999-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 120
+}

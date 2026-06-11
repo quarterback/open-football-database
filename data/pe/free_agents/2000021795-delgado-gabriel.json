@@ -1,0 +1,23 @@
+{
+  "id": 2000021795,
+  "first_name": "Gabriel",
+  "last_name": "Delgado",
+  "birth_date": "2002-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": -6
+}

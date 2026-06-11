@@ -1,0 +1,19 @@
+{
+  "id": 2000273708,
+  "first_name": "Adama",
+  "last_name": "Traoré",
+  "birth_date": "2003-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -55
+}

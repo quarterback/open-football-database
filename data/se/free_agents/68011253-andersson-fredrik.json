@@ -1,0 +1,19 @@
+{
+  "id": 68011253,
+  "first_name": "Fredrik",
+  "last_name": "Andersson",
+  "birth_date": "1988-01-01",
+  "country_id": 797,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 108
+}

@@ -1,0 +1,31 @@
+{
+  "id": 85028007,
+  "first_name": "Ferris",
+  "last_name": "N'Goma",
+  "birth_date": "1993-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 120
+}

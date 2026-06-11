@@ -1,0 +1,23 @@
+{
+  "id": 86016394,
+  "first_name": "Hermes",
+  "last_name": "Palomino",
+  "birth_date": "1987-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 122
+}

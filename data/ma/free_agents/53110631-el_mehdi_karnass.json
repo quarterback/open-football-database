@@ -1,0 +1,35 @@
+{
+  "id": 53110631,
+  "first_name": "",
+  "last_name": "El Mehdi Karnass",
+  "birth_date": "1990-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 122
+}

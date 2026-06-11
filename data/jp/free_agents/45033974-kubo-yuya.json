@@ -1,0 +1,23 @@
+{
+  "id": 45033974,
+  "first_name": "Yuya",
+  "last_name": "Kubo",
+  "birth_date": "1994-01-01",
+  "country_id": 116,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 134
+}

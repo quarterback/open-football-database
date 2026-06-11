@@ -1,0 +1,19 @@
+{
+  "id": 86016578,
+  "first_name": "Pedro",
+  "last_name": "Ramírez",
+  "birth_date": "1992-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 120
+}

@@ -1,0 +1,27 @@
+{
+  "id": 48048154,
+  "first_name": "Sofyan",
+  "last_name": "Chader",
+  "birth_date": "2000-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 128
+}

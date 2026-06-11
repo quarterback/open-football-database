@@ -1,0 +1,23 @@
+{
+  "id": 79011791,
+  "first_name": "Fulvio",
+  "last_name": "Duarte",
+  "birth_date": "1989-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 102
+}

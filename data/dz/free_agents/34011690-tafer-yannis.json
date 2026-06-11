@@ -1,0 +1,27 @@
+{
+  "id": 34011690,
+  "first_name": "Yannis",
+  "last_name": "Tafer",
+  "birth_date": "1991-01-01",
+  "country_id": 5,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 88,
+  "potential_ability": 118
+}

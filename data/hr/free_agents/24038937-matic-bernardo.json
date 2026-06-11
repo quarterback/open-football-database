@@ -1,0 +1,23 @@
+{
+  "id": 24038937,
+  "first_name": "Bernardo",
+  "last_name": "Matić",
+  "birth_date": "1994-01-01",
+  "country_id": 761,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 122
+}

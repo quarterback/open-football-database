@@ -1,0 +1,23 @@
+{
+  "id": 23127749,
+  "first_name": "Mehrdad",
+  "last_name": "Rezaei",
+  "birth_date": "1990-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 100,
+  "potential_ability": 106
+}

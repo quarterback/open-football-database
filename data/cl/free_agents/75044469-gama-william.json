@@ -1,0 +1,23 @@
+{
+  "id": 75044469,
+  "first_name": "William",
+  "last_name": "Gama",
+  "birth_date": "2000-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

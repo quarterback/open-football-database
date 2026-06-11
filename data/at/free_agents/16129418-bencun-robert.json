@@ -1,0 +1,27 @@
+{
+  "id": 16129418,
+  "first_name": "Robert",
+  "last_name": "Bencun",
+  "birth_date": "1992-01-01",
+  "country_id": 755,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 80,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 94
+}

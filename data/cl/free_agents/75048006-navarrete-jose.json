@@ -1,0 +1,27 @@
+{
+  "id": 75048006,
+  "first_name": "José",
+  "last_name": "Navarrete",
+  "birth_date": "1998-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

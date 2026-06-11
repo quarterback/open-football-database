@@ -1,0 +1,23 @@
+{
+  "id": 71048137,
+  "first_name": "Ruslan",
+  "last_name": "Stepaniuk",
+  "birth_date": "1992-01-01",
+  "country_id": 800,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 114
+}

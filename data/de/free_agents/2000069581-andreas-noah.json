@@ -1,0 +1,27 @@
+{
+  "id": 2000069581,
+  "first_name": "Noah",
+  "last_name": "Andreas",
+  "birth_date": "2003-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 122
+}

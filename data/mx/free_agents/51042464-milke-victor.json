@@ -1,0 +1,27 @@
+{
+  "id": 51042464,
+  "first_name": "Víctor",
+  "last_name": "Milke",
+  "birth_date": "1995-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 120
+}

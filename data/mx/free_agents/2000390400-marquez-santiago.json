@@ -1,0 +1,19 @@
+{
+  "id": 2000390400,
+  "first_name": "Santiago",
+  "last_name": "Márquez",
+  "birth_date": "2003-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

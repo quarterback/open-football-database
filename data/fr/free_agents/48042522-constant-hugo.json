@@ -1,0 +1,19 @@
+{
+  "id": 48042522,
+  "first_name": "Hugo",
+  "last_name": "Constant",
+  "birth_date": "1999-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

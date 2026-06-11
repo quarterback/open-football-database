@@ -1,0 +1,19 @@
+{
+  "id": 51043706,
+  "first_name": "Marco",
+  "last_name": "Granados",
+  "birth_date": "1996-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

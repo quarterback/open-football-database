@@ -1,0 +1,23 @@
+{
+  "id": 85077401,
+  "first_name": "Mathieu",
+  "last_name": "Deplagne",
+  "birth_date": "1991-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 124
+}

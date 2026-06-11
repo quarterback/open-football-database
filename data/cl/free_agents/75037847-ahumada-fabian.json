@@ -1,0 +1,27 @@
+{
+  "id": 75037847,
+  "first_name": "Fabián",
+  "last_name": "Ahumada",
+  "birth_date": "1996-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 112
+}

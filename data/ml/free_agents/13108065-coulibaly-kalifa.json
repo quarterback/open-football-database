@@ -1,0 +1,19 @@
+{
+  "id": 13108065,
+  "first_name": "Kalifa",
+  "last_name": "Coulibaly",
+  "birth_date": "1991-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 136
+}

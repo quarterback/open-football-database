@@ -1,0 +1,19 @@
+{
+  "id": 63023426,
+  "first_name": "Dobrivoj",
+  "last_name": "Rusov",
+  "birth_date": "1993-01-01",
+  "country_id": 794,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 114
+}

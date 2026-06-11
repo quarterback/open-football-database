@@ -1,0 +1,19 @@
+{
+  "id": 2000006004,
+  "first_name": "Edilson",
+  "last_name": "Pérez",
+  "birth_date": "2002-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 112
+}

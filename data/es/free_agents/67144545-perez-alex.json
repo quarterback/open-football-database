@@ -1,0 +1,19 @@
+{
+  "id": 67144545,
+  "first_name": "Álex",
+  "last_name": "Pérez",
+  "birth_date": "1991-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 120
+}

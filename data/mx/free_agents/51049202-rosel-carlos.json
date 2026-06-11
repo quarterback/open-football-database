@@ -1,0 +1,27 @@
+{
+  "id": 51049202,
+  "first_name": "Carlos",
+  "last_name": "Rosel",
+  "birth_date": "1995-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120
+}

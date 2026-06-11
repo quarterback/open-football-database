@@ -1,0 +1,23 @@
+{
+  "id": 48044826,
+  "first_name": "Louis",
+  "last_name": "Bury",
+  "birth_date": "1995-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 114
+}

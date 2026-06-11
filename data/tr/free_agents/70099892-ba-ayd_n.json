@@ -1,0 +1,19 @@
+{
+  "id": 70099892,
+  "first_name": "Aydın",
+  "last_name": "Bağ",
+  "birth_date": "1993-01-01",
+  "country_id": 799,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

@@ -1,0 +1,23 @@
+{
+  "id": 67066949,
+  "first_name": "Mario",
+  "last_name": "Gaspar",
+  "birth_date": "1990-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 154
+}

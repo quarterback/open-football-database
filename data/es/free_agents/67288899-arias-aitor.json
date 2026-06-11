@@ -1,0 +1,19 @@
+{
+  "id": 67288899,
+  "first_name": "Aitor",
+  "last_name": "Arias",
+  "birth_date": "1998-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 110
+}

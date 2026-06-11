@@ -1,0 +1,19 @@
+{
+  "id": 51013750,
+  "first_name": "Guillermo",
+  "last_name": "Pozos",
+  "birth_date": "1992-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 106
+}

@@ -1,0 +1,23 @@
+{
+  "id": 12093520,
+  "first_name": "Bourama",
+  "last_name": "Boiré",
+  "birth_date": "2000-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 102
+}

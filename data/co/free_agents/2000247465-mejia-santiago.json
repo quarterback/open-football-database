@@ -1,0 +1,19 @@
+{
+  "id": 2000247465,
+  "first_name": "Santiago",
+  "last_name": "Mejía",
+  "birth_date": "2001-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 116
+}

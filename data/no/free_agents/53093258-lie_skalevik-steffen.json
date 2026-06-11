@@ -1,0 +1,27 @@
+{
+  "id": 53093258,
+  "first_name": "Steffen",
+  "last_name": "Lie Skålevik",
+  "birth_date": "1993-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 122
+}

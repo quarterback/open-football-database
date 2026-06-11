@@ -1,0 +1,23 @@
+{
+  "id": 67143392,
+  "first_name": "Manuel",
+  "last_name": "Torres",
+  "birth_date": "1991-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 120
+}

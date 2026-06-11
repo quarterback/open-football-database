@@ -1,0 +1,31 @@
+{
+  "id": 76014488,
+  "first_name": "Michael",
+  "last_name": "Ortega",
+  "birth_date": "1991-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 122
+}

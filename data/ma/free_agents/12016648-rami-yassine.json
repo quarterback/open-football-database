@@ -1,0 +1,23 @@
+{
+  "id": 12016648,
+  "first_name": "Yassine",
+  "last_name": "Rami",
+  "birth_date": "1987-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 110
+}

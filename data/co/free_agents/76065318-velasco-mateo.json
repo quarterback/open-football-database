@@ -1,0 +1,23 @@
+{
+  "id": 76065318,
+  "first_name": "Mateo",
+  "last_name": "Velasco",
+  "birth_date": "2002-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 116
+}

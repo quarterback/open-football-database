@@ -1,0 +1,19 @@
+{
+  "id": 79036781,
+  "first_name": "Rodrigo",
+  "last_name": "Delvalle",
+  "birth_date": "2001-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 106,
+  "potential_ability": 120
+}

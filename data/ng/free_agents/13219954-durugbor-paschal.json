@@ -1,0 +1,23 @@
+{
+  "id": 13219954,
+  "first_name": "Paschal",
+  "last_name": "Durugbor",
+  "birth_date": "1999-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 104
+}

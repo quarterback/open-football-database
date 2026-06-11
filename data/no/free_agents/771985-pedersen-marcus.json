@@ -1,0 +1,19 @@
+{
+  "id": 771985,
+  "first_name": "Marcus",
+  "last_name": "Pedersen",
+  "birth_date": "1990-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 126
+}

@@ -1,0 +1,19 @@
+{
+  "id": 67087728,
+  "first_name": "Isaac",
+  "last_name": "Aketxe",
+  "birth_date": "1989-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 118
+}

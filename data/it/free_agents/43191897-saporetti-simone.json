@@ -1,0 +1,23 @@
+{
+  "id": 43191897,
+  "first_name": "Simone",
+  "last_name": "Saporetti",
+  "birth_date": "1998-01-01",
+  "country_id": 776,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 94,
+  "potential_ability": 96
+}

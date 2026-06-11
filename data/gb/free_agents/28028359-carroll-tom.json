@@ -1,0 +1,23 @@
+{
+  "id": 28028359,
+  "first_name": "Tom",
+  "last_name": "Carroll",
+  "birth_date": "1992-01-01",
+  "country_id": 765,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 88,
+  "potential_ability": 128
+}

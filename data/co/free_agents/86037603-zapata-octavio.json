@@ -1,0 +1,19 @@
+{
+  "id": 86037603,
+  "first_name": "Octavio",
+  "last_name": "Zapata",
+  "birth_date": "1989-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 104
+}

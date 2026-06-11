@@ -1,0 +1,19 @@
+{
+  "id": 75039714,
+  "first_name": "Luis",
+  "last_name": "Ureta",
+  "birth_date": "1999-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 106
+}

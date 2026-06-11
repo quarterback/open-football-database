@@ -1,0 +1,27 @@
+{
+  "id": 48036261,
+  "first_name": "Mehdi",
+  "last_name": "Chahiri",
+  "birth_date": "1996-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 132
+}

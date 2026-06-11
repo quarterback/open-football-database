@@ -1,0 +1,27 @@
+{
+  "id": 86056330,
+  "first_name": "Brando",
+  "last_name": "Castillo",
+  "birth_date": "1996-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 96
+}

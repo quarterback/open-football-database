@@ -1,0 +1,19 @@
+{
+  "id": 2000054757,
+  "first_name": "Felix",
+  "last_name": "Irorere",
+  "birth_date": "2002-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 128
+}

@@ -1,0 +1,23 @@
+{
+  "id": 85059779,
+  "first_name": "Fawzi",
+  "last_name": "Ouaamar",
+  "birth_date": "1993-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

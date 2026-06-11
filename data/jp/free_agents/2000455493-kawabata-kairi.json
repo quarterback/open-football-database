@@ -1,0 +1,19 @@
+{
+  "id": 2000455493,
+  "first_name": "Kairi",
+  "last_name": "Kawabata",
+  "birth_date": "2004-01-01",
+  "country_id": 116,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -65
+}

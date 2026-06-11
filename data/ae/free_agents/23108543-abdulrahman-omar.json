@@ -1,0 +1,23 @@
+{
+  "id": 23108543,
+  "first_name": "Omar",
+  "last_name": "Abdulrahman",
+  "birth_date": "1991-01-01",
+  "country_id": 143,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 110,
+  "potential_ability": 140
+}

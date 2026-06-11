@@ -1,0 +1,19 @@
+{
+  "id": 12029964,
+  "first_name": "Mahamadou",
+  "last_name": "N'Diaye",
+  "birth_date": "1990-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 108
+}

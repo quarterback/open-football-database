@@ -1,0 +1,23 @@
+{
+  "id": 69004241,
+  "first_name": "Fabio",
+  "last_name": "Daprelà",
+  "birth_date": "1991-01-01",
+  "country_id": 798,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 100,
+  "potential_ability": 122
+}

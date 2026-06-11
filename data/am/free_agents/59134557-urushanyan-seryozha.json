@@ -1,0 +1,31 @@
+{
+  "id": 59134557,
+  "first_name": "Seryozha",
+  "last_name": "Urushanyan",
+  "birth_date": "1997-01-01",
+  "country_id": 754,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 94
+}

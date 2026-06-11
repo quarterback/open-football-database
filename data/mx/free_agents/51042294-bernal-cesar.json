@@ -1,0 +1,19 @@
+{
+  "id": 51042294,
+  "first_name": "César",
+  "last_name": "Bernal",
+  "birth_date": "1995-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 110
+}

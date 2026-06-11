@@ -1,0 +1,31 @@
+{
+  "id": 92061150,
+  "first_name": "Paul",
+  "last_name": "Milde",
+  "birth_date": "1995-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 102
+}

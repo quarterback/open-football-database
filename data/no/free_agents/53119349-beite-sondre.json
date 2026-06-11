@@ -1,0 +1,27 @@
+{
+  "id": 53119349,
+  "first_name": "Sondre",
+  "last_name": "Beite",
+  "birth_date": "1996-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 90,
+  "potential_ability": 98
+}

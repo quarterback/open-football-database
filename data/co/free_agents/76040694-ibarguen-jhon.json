@@ -1,0 +1,19 @@
+{
+  "id": 76040694,
+  "first_name": "Jhon",
+  "last_name": "Ibargüen",
+  "birth_date": "1994-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 110
+}

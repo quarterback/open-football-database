@@ -1,0 +1,23 @@
+{
+  "id": 76047156,
+  "first_name": "Daniel",
+  "last_name": "Arcos",
+  "birth_date": "1997-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 126
+}

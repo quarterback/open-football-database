@@ -1,0 +1,19 @@
+{
+  "id": 62028850,
+  "first_name": "Jovan",
+  "last_name": "Krneta",
+  "birth_date": "1992-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 108
+}

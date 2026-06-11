@@ -1,0 +1,27 @@
+{
+  "id": 86033840,
+  "first_name": "Néstor",
+  "last_name": "Canelón",
+  "birth_date": "1991-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 114
+}

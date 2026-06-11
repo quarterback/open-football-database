@@ -1,0 +1,27 @@
+{
+  "id": 79025913,
+  "first_name": "Jeremías",
+  "last_name": "Bogado",
+  "birth_date": "1995-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 104
+}

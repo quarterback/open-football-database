@@ -1,0 +1,23 @@
+{
+  "id": 59136530,
+  "first_name": "Örken",
+  "last_name": "Makhan",
+  "birth_date": "1998-01-01",
+  "country_id": 119,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

@@ -1,0 +1,19 @@
+{
+  "id": 65038346,
+  "first_name": "Innocent",
+  "last_name": "Maphakisa",
+  "birth_date": "1995-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 106
+}

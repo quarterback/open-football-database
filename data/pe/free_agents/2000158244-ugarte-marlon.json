@@ -1,0 +1,19 @@
+{
+  "id": 2000158244,
+  "first_name": "Marlon",
+  "last_name": "Ugarte",
+  "birth_date": "1991-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 98
+}

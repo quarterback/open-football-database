@@ -1,0 +1,27 @@
+{
+  "id": 27041146,
+  "first_name": "Danny",
+  "last_name": "Amankwaa",
+  "birth_date": "1994-01-01",
+  "country_id": 764,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 130
+}

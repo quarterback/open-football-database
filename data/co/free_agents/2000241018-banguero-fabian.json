@@ -1,0 +1,27 @@
+{
+  "id": 2000241018,
+  "first_name": "Fabian",
+  "last_name": "Banguero",
+  "birth_date": "2003-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -6
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2000166897,
+  "first_name": "Denilson",
+  "last_name": "Mena",
+  "birth_date": "2003-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 88,
+  "potential_ability": 108
+}

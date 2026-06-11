@@ -1,0 +1,23 @@
+{
+  "id": 96067616,
+  "first_name": "Tsubasa",
+  "last_name": "Nishi",
+  "birth_date": "1990-01-01",
+  "country_id": 116,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

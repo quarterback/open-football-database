@@ -1,0 +1,19 @@
+{
+  "id": 2000296316,
+  "first_name": "Juan",
+  "last_name": "Felipe Quiñones",
+  "birth_date": "2000-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

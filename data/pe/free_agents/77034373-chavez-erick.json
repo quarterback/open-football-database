@@ -1,0 +1,27 @@
+{
+  "id": 77034373,
+  "first_name": "Erick",
+  "last_name": "Chávez",
+  "birth_date": "1988-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 25
+  },
+  "current_ability": 90,
+  "potential_ability": 94
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2000057326,
+  "first_name": "Hugo",
+  "last_name": "Oviedo",
+  "birth_date": "1993-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96
+}

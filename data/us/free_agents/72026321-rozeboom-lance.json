@@ -1,0 +1,27 @@
+{
+  "id": 72026321,
+  "first_name": "Lance",
+  "last_name": "Rozeboom",
+  "birth_date": "1989-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 94
+}

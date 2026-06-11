@@ -1,0 +1,19 @@
+{
+  "id": 79031055,
+  "first_name": "Víctor",
+  "last_name": "Villalba",
+  "birth_date": "1998-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 92,
+  "potential_ability": 110
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2000078462,
+  "first_name": "Berkay",
+  "last_name": "Vardar",
+  "birth_date": "2003-01-01",
+  "country_id": 799,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -6
+}

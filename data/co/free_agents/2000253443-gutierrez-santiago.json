@@ -1,0 +1,19 @@
+{
+  "id": 2000253443,
+  "first_name": "Santiago",
+  "last_name": "Gutiérrez",
+  "birth_date": "2005-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -6
+}

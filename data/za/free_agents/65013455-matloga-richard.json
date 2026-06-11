@@ -1,0 +1,27 @@
+{
+  "id": 65013455,
+  "first_name": "Richard",
+  "last_name": "Matloga",
+  "birth_date": "1991-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 110
+}

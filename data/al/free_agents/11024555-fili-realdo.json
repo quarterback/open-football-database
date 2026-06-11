@@ -1,0 +1,27 @@
+{
+  "id": 11024555,
+  "first_name": "Realdo",
+  "last_name": "Fili",
+  "birth_date": "1996-01-01",
+  "country_id": 752,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 116
+}

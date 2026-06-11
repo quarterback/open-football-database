@@ -1,0 +1,27 @@
+{
+  "id": 62218207,
+  "first_name": "Marko",
+  "last_name": "Maučec",
+  "birth_date": "1998-01-01",
+  "country_id": 795,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 94,
+  "potential_ability": 98
+}

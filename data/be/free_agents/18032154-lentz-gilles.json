@@ -1,0 +1,19 @@
+{
+  "id": 18032154,
+  "first_name": "Gilles",
+  "last_name": "Lentz",
+  "birth_date": "1992-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

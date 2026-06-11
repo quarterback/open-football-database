@@ -1,0 +1,27 @@
+{
+  "id": 51009956,
+  "first_name": "Joe",
+  "last_name": "Corona",
+  "birth_date": "1990-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 128
+}

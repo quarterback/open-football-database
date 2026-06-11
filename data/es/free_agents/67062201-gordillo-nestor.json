@@ -1,0 +1,23 @@
+{
+  "id": 67062201,
+  "first_name": "Néstor",
+  "last_name": "Gordillo",
+  "birth_date": "1989-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96
+}

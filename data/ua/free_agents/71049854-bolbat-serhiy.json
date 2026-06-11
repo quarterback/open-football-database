@@ -1,0 +1,31 @@
+{
+  "id": 71049854,
+  "first_name": "Serhiy",
+  "last_name": "Bolbat",
+  "birth_date": "1993-01-01",
+  "country_id": 800,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120
+}

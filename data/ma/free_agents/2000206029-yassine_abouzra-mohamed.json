@@ -1,0 +1,19 @@
+{
+  "id": 2000206029,
+  "first_name": "Mohamed",
+  "last_name": "Yassine Abouzra",
+  "birth_date": "1996-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

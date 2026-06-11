@@ -1,0 +1,31 @@
+{
+  "id": 67211077,
+  "first_name": "David",
+  "last_name": "Muñoz",
+  "birth_date": "1997-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 124
+}

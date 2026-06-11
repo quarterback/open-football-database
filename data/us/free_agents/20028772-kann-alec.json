@@ -1,0 +1,19 @@
+{
+  "id": 20028772,
+  "first_name": "Alec",
+  "last_name": "Kann",
+  "birth_date": "1990-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 104,
+  "potential_ability": 110
+}

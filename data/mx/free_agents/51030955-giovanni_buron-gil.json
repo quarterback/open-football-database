@@ -1,0 +1,23 @@
+{
+  "id": 51030955,
+  "first_name": "Gil",
+  "last_name": "Giovanni Burón",
+  "birth_date": "1994-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 136
+}

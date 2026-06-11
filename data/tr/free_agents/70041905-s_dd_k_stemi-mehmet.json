@@ -1,0 +1,23 @@
+{
+  "id": 70041905,
+  "first_name": "Mehmet",
+  "last_name": "Sıddık İstemi",
+  "birth_date": "1991-01-01",
+  "country_id": 799,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

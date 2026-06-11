@@ -1,0 +1,19 @@
+{
+  "id": 65038283,
+  "first_name": "Romario",
+  "last_name": "Dlamini",
+  "birth_date": "1995-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 100
+}

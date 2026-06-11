@@ -1,0 +1,19 @@
+{
+  "id": 2000431052,
+  "first_name": "Romario",
+  "last_name": "Murcia",
+  "birth_date": "1999-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 112
+}

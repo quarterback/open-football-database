@@ -1,0 +1,27 @@
+{
+  "id": 72023353,
+  "first_name": "C.J",
+  "last_name": "Sapong",
+  "birth_date": "1989-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 118
+}

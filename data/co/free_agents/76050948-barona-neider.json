@@ -1,0 +1,23 @@
+{
+  "id": 76050948,
+  "first_name": "Néider",
+  "last_name": "Barona",
+  "birth_date": "1997-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 108,
+  "potential_ability": 124
+}

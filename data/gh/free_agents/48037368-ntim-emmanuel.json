@@ -1,0 +1,27 @@
+{
+  "id": 48037368,
+  "first_name": "Emmanuel",
+  "last_name": "Ntim",
+  "birth_date": "1996-01-01",
+  "country_id": 21,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 120
+}

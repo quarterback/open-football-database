@@ -1,0 +1,19 @@
+{
+  "id": 76049715,
+  "first_name": "Alyair",
+  "last_name": "Mora",
+  "birth_date": "1997-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

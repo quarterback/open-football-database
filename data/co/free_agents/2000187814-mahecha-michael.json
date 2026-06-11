@@ -1,0 +1,27 @@
+{
+  "id": 2000187814,
+  "first_name": "Michael",
+  "last_name": "Mahecha",
+  "birth_date": "2002-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 118
+}

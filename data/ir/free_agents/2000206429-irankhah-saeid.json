@@ -1,0 +1,19 @@
+{
+  "id": 2000206429,
+  "first_name": "Saeid",
+  "last_name": "Irankhah",
+  "birth_date": "2001-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

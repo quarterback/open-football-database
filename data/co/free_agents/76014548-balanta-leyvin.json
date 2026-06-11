@@ -1,0 +1,23 @@
+{
+  "id": 76014548,
+  "first_name": "Leyvin",
+  "last_name": "Balanta",
+  "birth_date": "1990-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 124,
+  "potential_ability": 136
+}

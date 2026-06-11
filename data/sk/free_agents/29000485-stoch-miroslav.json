@@ -1,0 +1,31 @@
+{
+  "id": 29000485,
+  "first_name": "Miroslav",
+  "last_name": "Stoch",
+  "birth_date": "1989-01-01",
+  "country_id": 794,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 136
+}

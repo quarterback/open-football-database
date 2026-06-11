@@ -1,0 +1,23 @@
+{
+  "id": 37078365,
+  "first_name": "Olaf",
+  "last_name": "Kok",
+  "birth_date": "2002-01-01",
+  "country_id": 784,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

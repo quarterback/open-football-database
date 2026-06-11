@@ -1,0 +1,23 @@
+{
+  "id": 77051130,
+  "first_name": "Héctor",
+  "last_name": "Campos",
+  "birth_date": "1996-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 106,
+  "potential_ability": 114
+}

@@ -1,0 +1,23 @@
+{
+  "id": 12011955,
+  "first_name": "Chemseddine",
+  "last_name": "Nessakh",
+  "birth_date": "1988-01-01",
+  "country_id": 5,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 20
+  },
+  "current_ability": 88,
+  "potential_ability": 110
+}

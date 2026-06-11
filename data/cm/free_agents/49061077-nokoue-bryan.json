@@ -1,0 +1,19 @@
+{
+  "id": 49061077,
+  "first_name": "Bryan",
+  "last_name": "Nokoue",
+  "birth_date": "2002-01-01",
+  "country_id": 11,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 114
+}

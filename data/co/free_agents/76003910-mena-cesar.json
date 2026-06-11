@@ -1,0 +1,19 @@
+{
+  "id": 76003910,
+  "first_name": "César",
+  "last_name": "Mena",
+  "birth_date": "1988-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 116
+}

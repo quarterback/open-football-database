@@ -1,0 +1,27 @@
+{
+  "id": 92056732,
+  "first_name": "Quirin",
+  "last_name": "Moll",
+  "birth_date": "1990-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 116
+}

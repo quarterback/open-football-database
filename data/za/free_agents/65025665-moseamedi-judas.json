@@ -1,0 +1,19 @@
+{
+  "id": 65025665,
+  "first_name": "Judas",
+  "last_name": "Moseamedi",
+  "birth_date": "1994-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 110
+}

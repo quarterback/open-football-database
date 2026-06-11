@@ -1,0 +1,23 @@
+{
+  "id": 70132090,
+  "first_name": "Anthony",
+  "last_name": "Uzodimma",
+  "birth_date": "1999-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 116
+}

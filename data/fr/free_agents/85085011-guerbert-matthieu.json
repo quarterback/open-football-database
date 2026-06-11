@@ -1,0 +1,31 @@
+{
+  "id": 85085011,
+  "first_name": "Matthieu",
+  "last_name": "Guerbert",
+  "birth_date": "1991-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 96
+}

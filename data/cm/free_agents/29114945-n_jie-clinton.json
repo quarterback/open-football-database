@@ -1,0 +1,27 @@
+{
+  "id": 29114945,
+  "first_name": "Clinton",
+  "last_name": "N'jie",
+  "birth_date": "1993-01-01",
+  "country_id": 11,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 126
+}

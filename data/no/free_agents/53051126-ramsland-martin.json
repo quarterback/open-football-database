@@ -1,0 +1,19 @@
+{
+  "id": 53051126,
+  "first_name": "Martin",
+  "last_name": "Ramsland",
+  "birth_date": "1993-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 104
+}

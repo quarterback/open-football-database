@@ -1,0 +1,19 @@
+{
+  "id": 16057578,
+  "first_name": "Cican",
+  "last_name": "Stanković",
+  "birth_date": "1992-01-01",
+  "country_id": 755,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 130
+}

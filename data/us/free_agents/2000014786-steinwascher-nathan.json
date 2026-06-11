@@ -1,0 +1,19 @@
+{
+  "id": 2000014786,
+  "first_name": "Nathan",
+  "last_name": "Steinwascher",
+  "birth_date": "1993-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 88
+}

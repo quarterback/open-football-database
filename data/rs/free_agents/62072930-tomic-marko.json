@@ -1,0 +1,23 @@
+{
+  "id": 62072930,
+  "first_name": "Marko",
+  "last_name": "Tomić",
+  "birth_date": "1991-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 92,
+  "potential_ability": 110
+}

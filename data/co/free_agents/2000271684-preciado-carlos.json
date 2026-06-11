@@ -1,0 +1,23 @@
+{
+  "id": 2000271684,
+  "first_name": "Carlos",
+  "last_name": "Preciado",
+  "birth_date": "1996-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 90,
+  "potential_ability": 110
+}

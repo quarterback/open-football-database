@@ -1,0 +1,19 @@
+{
+  "id": 79027009,
+  "first_name": "Adilson",
+  "last_name": "Lezcano",
+  "birth_date": "1995-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 108
+}

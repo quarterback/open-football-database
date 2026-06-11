@@ -1,0 +1,27 @@
+{
+  "id": 86031361,
+  "first_name": "Jerry",
+  "last_name": "Orozco",
+  "birth_date": "1991-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 96
+}

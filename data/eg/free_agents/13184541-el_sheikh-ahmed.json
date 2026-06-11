@@ -1,0 +1,27 @@
+{
+  "id": 13184541,
+  "first_name": "Ahmed",
+  "last_name": "El Sheikh",
+  "birth_date": "1992-01-01",
+  "country_id": 16,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 100,
+  "potential_ability": 126
+}

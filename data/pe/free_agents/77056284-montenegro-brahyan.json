@@ -1,0 +1,23 @@
+{
+  "id": 77056284,
+  "first_name": "Brahyan",
+  "last_name": "Montenegro",
+  "birth_date": "1997-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

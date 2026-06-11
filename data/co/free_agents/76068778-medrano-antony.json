@@ -1,0 +1,19 @@
+{
+  "id": 76068778,
+  "first_name": "Antony",
+  "last_name": "Medrano",
+  "birth_date": "2002-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 120
+}

@@ -1,0 +1,19 @@
+{
+  "id": 37064748,
+  "first_name": "Stijn",
+  "last_name": "Keller",
+  "birth_date": "2000-01-01",
+  "country_id": 798,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 104
+}

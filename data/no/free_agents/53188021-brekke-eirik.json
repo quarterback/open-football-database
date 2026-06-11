@@ -1,0 +1,31 @@
+{
+  "id": 53188021,
+  "first_name": "Eirik",
+  "last_name": "Brekke",
+  "birth_date": "2002-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 108
+}

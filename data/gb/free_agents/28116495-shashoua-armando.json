@@ -1,0 +1,23 @@
+{
+  "id": 28116495,
+  "first_name": "Armando",
+  "last_name": "Shashoua",
+  "birth_date": "2000-01-01",
+  "country_id": 765,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 136
+}

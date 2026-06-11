@@ -1,0 +1,23 @@
+{
+  "id": 861891,
+  "first_name": "Kaj",
+  "last_name": "Ramsteijn",
+  "birth_date": "1990-01-01",
+  "country_id": 784,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 108
+}

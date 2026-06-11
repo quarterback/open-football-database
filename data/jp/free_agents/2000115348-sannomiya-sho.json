@@ -1,0 +1,23 @@
+{
+  "id": 2000115348,
+  "first_name": "Sho",
+  "last_name": "Sannomiya",
+  "birth_date": "1997-01-01",
+  "country_id": 116,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 100
+}

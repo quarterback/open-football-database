@@ -1,0 +1,23 @@
+{
+  "id": 51056716,
+  "first_name": "Ángel",
+  "last_name": "Tecpanécatl",
+  "birth_date": "1997-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 130
+}

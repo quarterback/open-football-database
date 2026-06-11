@@ -1,0 +1,23 @@
+{
+  "id": 2000322336,
+  "first_name": "Filip",
+  "last_name": "Mirkovic",
+  "birth_date": "2001-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 110
+}

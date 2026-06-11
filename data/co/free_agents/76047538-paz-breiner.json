@@ -1,0 +1,19 @@
+{
+  "id": 76047538,
+  "first_name": "Breiner",
+  "last_name": "Paz",
+  "birth_date": "1997-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 114
+}

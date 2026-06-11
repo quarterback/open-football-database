@@ -1,0 +1,19 @@
+{
+  "id": 18096997,
+  "first_name": "Mehdi",
+  "last_name": "Bounou",
+  "birth_date": "1997-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 92
+}

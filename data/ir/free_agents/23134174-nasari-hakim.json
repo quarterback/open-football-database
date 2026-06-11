@@ -1,0 +1,19 @@
+{
+  "id": 23134174,
+  "first_name": "Hakim",
+  "last_name": "Nasari",
+  "birth_date": "1987-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 90,
+  "potential_ability": 110
+}

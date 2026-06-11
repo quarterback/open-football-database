@@ -1,0 +1,23 @@
+{
+  "id": 8430695,
+  "first_name": "Tony",
+  "last_name": "Andreu",
+  "birth_date": "1988-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 118
+}

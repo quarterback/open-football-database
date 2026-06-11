@@ -1,0 +1,27 @@
+{
+  "id": 67179418,
+  "first_name": "Néstor",
+  "last_name": "Albiach",
+  "birth_date": "1992-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 126
+}

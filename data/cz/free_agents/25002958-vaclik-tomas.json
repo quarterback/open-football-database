@@ -1,0 +1,19 @@
+{
+  "id": 25002958,
+  "first_name": "Tomáš",
+  "last_name": "Vaclík",
+  "birth_date": "1989-01-01",
+  "country_id": 763,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 150
+}

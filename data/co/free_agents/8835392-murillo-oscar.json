@@ -1,0 +1,19 @@
+{
+  "id": 8835392,
+  "first_name": "Oscar",
+  "last_name": "Murillo",
+  "birth_date": "1987-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 116,
+  "potential_ability": 136
+}

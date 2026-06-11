@@ -1,0 +1,27 @@
+{
+  "id": 37085278,
+  "first_name": "Achraf",
+  "last_name": "Boumenjal",
+  "birth_date": "2003-01-01",
+  "country_id": 784,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 120
+}

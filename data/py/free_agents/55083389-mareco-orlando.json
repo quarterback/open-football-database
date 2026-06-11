@@ -1,0 +1,19 @@
+{
+  "id": 55083389,
+  "first_name": "Orlando",
+  "last_name": "Mareco",
+  "birth_date": "1991-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 100
+}

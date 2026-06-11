@@ -1,0 +1,19 @@
+{
+  "id": 59145014,
+  "first_name": "Shahzodbek",
+  "last_name": "Ubaydullayev",
+  "birth_date": "1998-01-01",
+  "country_id": 144,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 110
+}

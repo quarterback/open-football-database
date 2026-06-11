@@ -1,0 +1,19 @@
+{
+  "id": 57209570,
+  "first_name": "Ionuţ",
+  "last_name": "Ailenei",
+  "birth_date": "2001-01-01",
+  "country_id": 790,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 110
+}

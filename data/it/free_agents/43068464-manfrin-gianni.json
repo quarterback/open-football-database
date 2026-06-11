@@ -1,0 +1,23 @@
+{
+  "id": 43068464,
+  "first_name": "Gianni",
+  "last_name": "Manfrin",
+  "birth_date": "1993-01-01",
+  "country_id": 776,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 94,
+  "potential_ability": 108
+}

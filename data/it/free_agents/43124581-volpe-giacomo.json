@@ -1,0 +1,19 @@
+{
+  "id": 43124581,
+  "first_name": "Giacomo",
+  "last_name": "Volpe",
+  "birth_date": "1996-01-01",
+  "country_id": 776,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 20,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 102
+}

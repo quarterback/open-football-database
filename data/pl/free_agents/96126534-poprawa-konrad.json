@@ -1,0 +1,23 @@
+{
+  "id": 96126534,
+  "first_name": "Konrad",
+  "last_name": "Poprawa",
+  "birth_date": "1998-01-01",
+  "country_id": 787,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 120
+}

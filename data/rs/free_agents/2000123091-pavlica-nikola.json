@@ -1,0 +1,23 @@
+{
+  "id": 2000123091,
+  "first_name": "Nikola",
+  "last_name": "Pavlica",
+  "birth_date": "2003-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 114
+}

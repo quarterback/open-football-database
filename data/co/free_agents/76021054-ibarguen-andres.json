@@ -1,0 +1,27 @@
+{
+  "id": 76021054,
+  "first_name": "Andrés",
+  "last_name": "Ibargüen",
+  "birth_date": "1992-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 142
+}

@@ -1,0 +1,19 @@
+{
+  "id": 95073263,
+  "first_name": "Álex",
+  "last_name": "Sánchez",
+  "birth_date": "1992-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 92
+}

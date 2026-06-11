@@ -1,0 +1,19 @@
+{
+  "id": 75015733,
+  "first_name": "Nicolás",
+  "last_name": "Castillo",
+  "birth_date": "1993-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 144
+}

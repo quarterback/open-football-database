@@ -1,0 +1,27 @@
+{
+  "id": 76014665,
+  "first_name": "Roy",
+  "last_name": "Castillo",
+  "birth_date": "1991-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 106,
+  "potential_ability": 122
+}

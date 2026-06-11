@@ -1,0 +1,23 @@
+{
+  "id": 76020666,
+  "first_name": "César",
+  "last_name": "Taján",
+  "birth_date": "1991-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

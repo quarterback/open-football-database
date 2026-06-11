@@ -1,0 +1,31 @@
+{
+  "id": 85033191,
+  "first_name": "Yoric",
+  "last_name": "Ravet",
+  "birth_date": "1989-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 130
+}

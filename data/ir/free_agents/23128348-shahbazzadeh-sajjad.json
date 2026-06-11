@@ -1,0 +1,19 @@
+{
+  "id": 23128348,
+  "first_name": "Sajjad",
+  "last_name": "Shahbazzadeh",
+  "birth_date": "1990-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 110
+}

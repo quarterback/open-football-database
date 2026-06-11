@@ -1,0 +1,23 @@
+{
+  "id": 53020966,
+  "first_name": "Thomas",
+  "last_name": "Drage",
+  "birth_date": "1992-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 126
+}

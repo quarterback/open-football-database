@@ -1,0 +1,23 @@
+{
+  "id": 2000221062,
+  "first_name": "Shahriyor",
+  "last_name": "Jabborov",
+  "birth_date": "2003-01-01",
+  "country_id": 144,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

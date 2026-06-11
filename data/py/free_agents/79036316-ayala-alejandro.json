@@ -1,0 +1,19 @@
+{
+  "id": 79036316,
+  "first_name": "Alejandro",
+  "last_name": "Ayala",
+  "birth_date": "1992-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 80
+  },
+  "current_ability": 88,
+  "potential_ability": 98
+}

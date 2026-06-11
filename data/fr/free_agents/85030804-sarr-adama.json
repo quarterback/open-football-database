@@ -1,0 +1,19 @@
+{
+  "id": 85030804,
+  "first_name": "Adama",
+  "last_name": "Sarr",
+  "birth_date": "1991-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 106
+}

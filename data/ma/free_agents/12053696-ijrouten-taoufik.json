@@ -1,0 +1,27 @@
+{
+  "id": 12053696,
+  "first_name": "Taoufik",
+  "last_name": "Ijrouten",
+  "birth_date": "1990-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 106
+}

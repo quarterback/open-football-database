@@ -1,0 +1,19 @@
+{
+  "id": 65029934,
+  "first_name": "Denwin",
+  "last_name": "Farmer",
+  "birth_date": "1996-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 98,
+  "potential_ability": 126
+}

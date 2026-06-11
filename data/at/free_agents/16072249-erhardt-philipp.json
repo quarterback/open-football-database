@@ -1,0 +1,19 @@
+{
+  "id": 16072249,
+  "first_name": "Philipp",
+  "last_name": "Erhardt",
+  "birth_date": "1993-01-01",
+  "country_id": 755,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 112
+}

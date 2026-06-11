@@ -1,0 +1,23 @@
+{
+  "id": 79030217,
+  "first_name": "Ariel",
+  "last_name": "Schuartzman",
+  "birth_date": "1998-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 116
+}

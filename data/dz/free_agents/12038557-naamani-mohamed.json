@@ -1,0 +1,19 @@
+{
+  "id": 12038557,
+  "first_name": "Mohamed",
+  "last_name": "Naâmani",
+  "birth_date": "1990-01-01",
+  "country_id": 5,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 106
+}

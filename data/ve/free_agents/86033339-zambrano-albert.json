@@ -1,0 +1,27 @@
+{
+  "id": 86033339,
+  "first_name": "Albert",
+  "last_name": "Zambrano",
+  "birth_date": "1995-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 110
+}

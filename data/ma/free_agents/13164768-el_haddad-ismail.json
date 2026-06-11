@@ -1,0 +1,27 @@
+{
+  "id": 13164768,
+  "first_name": "Ismail",
+  "last_name": "El Haddad",
+  "birth_date": "1990-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 98,
+  "potential_ability": 130
+}

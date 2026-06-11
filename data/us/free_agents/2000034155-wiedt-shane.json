@@ -1,0 +1,23 @@
+{
+  "id": 2000034155,
+  "first_name": "Shane",
+  "last_name": "Wiedt",
+  "birth_date": "1995-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 94
+}

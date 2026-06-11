@@ -1,0 +1,23 @@
+{
+  "id": 51002480,
+  "first_name": "Víctor",
+  "last_name": "Mañón",
+  "birth_date": "1992-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 126
+}

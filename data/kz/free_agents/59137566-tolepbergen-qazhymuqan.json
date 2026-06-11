@@ -1,0 +1,19 @@
+{
+  "id": 59137566,
+  "first_name": "Qazhymūqan",
+  "last_name": "Tölepbergen",
+  "birth_date": "2000-01-01",
+  "country_id": 119,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 110
+}

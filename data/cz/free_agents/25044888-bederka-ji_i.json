@@ -1,0 +1,23 @@
+{
+  "id": 25044888,
+  "first_name": "Jiří",
+  "last_name": "Bederka",
+  "birth_date": "1995-01-01",
+  "country_id": 763,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 116
+}

@@ -1,0 +1,19 @@
+{
+  "id": 20046527,
+  "first_name": "Sebastian",
+  "last_name": "Soto",
+  "birth_date": "2000-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 104
+}

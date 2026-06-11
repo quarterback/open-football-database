@@ -1,0 +1,19 @@
+{
+  "id": 67191318,
+  "first_name": "Adán",
+  "last_name": "Gurdiel",
+  "birth_date": "1993-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 110
+}

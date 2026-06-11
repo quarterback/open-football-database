@@ -1,0 +1,23 @@
+{
+  "id": 85018475,
+  "first_name": "Nicolas",
+  "last_name": "De Préville",
+  "birth_date": "1991-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 136
+}

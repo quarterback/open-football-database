@@ -1,0 +1,19 @@
+{
+  "id": 86044921,
+  "first_name": "Luis",
+  "last_name": "Parra",
+  "birth_date": "1997-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 106
+}

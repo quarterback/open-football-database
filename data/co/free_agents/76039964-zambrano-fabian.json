@@ -1,0 +1,23 @@
+{
+  "id": 76039964,
+  "first_name": "Fabián",
+  "last_name": "Zambrano",
+  "birth_date": "1996-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 110
+}

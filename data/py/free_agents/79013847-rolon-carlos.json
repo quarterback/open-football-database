@@ -1,0 +1,19 @@
+{
+  "id": 79013847,
+  "first_name": "Carlos",
+  "last_name": "Rolón",
+  "birth_date": "1992-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 126
+}

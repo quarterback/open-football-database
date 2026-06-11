@@ -1,0 +1,19 @@
+{
+  "id": 2000184171,
+  "first_name": "Rudi",
+  "last_name": "Castro",
+  "birth_date": "1998-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 98
+}

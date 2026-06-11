@@ -1,0 +1,27 @@
+{
+  "id": 18075788,
+  "first_name": "Nabil",
+  "last_name": "Jaadi",
+  "birth_date": "1996-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 116
+}

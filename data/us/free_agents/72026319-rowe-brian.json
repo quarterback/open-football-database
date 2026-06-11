@@ -1,0 +1,19 @@
+{
+  "id": 72026319,
+  "first_name": "Brian",
+  "last_name": "Rowe",
+  "birth_date": "1988-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 110
+}

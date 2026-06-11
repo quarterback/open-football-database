@@ -1,0 +1,19 @@
+{
+  "id": 2000090873,
+  "first_name": "Juan",
+  "last_name": "Recalde",
+  "birth_date": "2000-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 110
+}

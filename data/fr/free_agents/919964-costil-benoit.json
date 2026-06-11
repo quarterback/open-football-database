@@ -1,0 +1,19 @@
+{
+  "id": 919964,
+  "first_name": "Benoît",
+  "last_name": "Costil",
+  "birth_date": "1987-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 144
+}

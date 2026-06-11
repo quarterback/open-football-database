@@ -1,0 +1,23 @@
+{
+  "id": 65037492,
+  "first_name": "Lebohang",
+  "last_name": "Lesako",
+  "birth_date": "1999-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 120
+}

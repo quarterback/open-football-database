@@ -1,0 +1,23 @@
+{
+  "id": 76015405,
+  "first_name": "Luis",
+  "last_name": "Mena",
+  "birth_date": "1994-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 122
+}

@@ -1,0 +1,23 @@
+{
+  "id": 51013769,
+  "first_name": "Víctor",
+  "last_name": "Guajardo",
+  "birth_date": "1990-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 114
+}

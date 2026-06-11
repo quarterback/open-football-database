@@ -1,0 +1,19 @@
+{
+  "id": 93059100,
+  "first_name": "Nick",
+  "last_name": "Scharkowski",
+  "birth_date": "1992-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96
+}

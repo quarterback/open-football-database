@@ -1,0 +1,23 @@
+{
+  "id": 13167220,
+  "first_name": "Okechukwu",
+  "last_name": "Azubuike",
+  "birth_date": "1997-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 126
+}

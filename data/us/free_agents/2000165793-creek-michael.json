@@ -1,0 +1,19 @@
+{
+  "id": 2000165793,
+  "first_name": "Michael",
+  "last_name": "Creek",
+  "birth_date": "1998-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 100
+}

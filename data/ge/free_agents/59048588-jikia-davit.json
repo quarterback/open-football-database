@@ -1,0 +1,23 @@
+{
+  "id": 59048588,
+  "first_name": "Davit",
+  "last_name": "Jikia",
+  "birth_date": "1995-01-01",
+  "country_id": 770,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 96
+}

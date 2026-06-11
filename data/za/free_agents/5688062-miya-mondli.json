@@ -1,0 +1,27 @@
+{
+  "id": 5688062,
+  "first_name": "Mondli",
+  "last_name": "Miya",
+  "birth_date": "1990-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 88,
+  "potential_ability": 96
+}

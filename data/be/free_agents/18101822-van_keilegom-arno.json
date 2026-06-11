@@ -1,0 +1,35 @@
+{
+  "id": 18101822,
+  "first_name": "Arno",
+  "last_name": "Van Keilegom",
+  "birth_date": "1999-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 108
+}

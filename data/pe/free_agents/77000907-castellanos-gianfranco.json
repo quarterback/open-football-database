@@ -1,0 +1,19 @@
+{
+  "id": 77000907,
+  "first_name": "Gianfranco",
+  "last_name": "Castellanos",
+  "birth_date": "1988-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 106
+}

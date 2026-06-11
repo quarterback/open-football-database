@@ -1,0 +1,19 @@
+{
+  "id": 62054923,
+  "first_name": "Dušan",
+  "last_name": "Puletić",
+  "birth_date": "1988-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

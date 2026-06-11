@@ -1,0 +1,19 @@
+{
+  "id": 2000334023,
+  "first_name": "Carlos",
+  "last_name": "Fernández",
+  "birth_date": "1995-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 108
+}

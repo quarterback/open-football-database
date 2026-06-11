@@ -1,0 +1,23 @@
+{
+  "id": 79011773,
+  "first_name": "Oscar",
+  "last_name": "Velázquez",
+  "birth_date": "1990-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 110
+}

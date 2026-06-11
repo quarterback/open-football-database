@@ -1,0 +1,19 @@
+{
+  "id": 14127141,
+  "first_name": "Jefferson",
+  "last_name": "Sánchez",
+  "birth_date": "1994-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 110
+}

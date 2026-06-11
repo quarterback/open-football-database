@@ -1,0 +1,27 @@
+{
+  "id": 85046572,
+  "first_name": "Ousmane",
+  "last_name": "Coulibaly",
+  "birth_date": "1989-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 126
+}

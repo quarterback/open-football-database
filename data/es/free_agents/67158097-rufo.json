@@ -1,0 +1,23 @@
+{
+  "id": 67158097,
+  "first_name": "Rufo",
+  "last_name": "",
+  "birth_date": "1993-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 94,
+  "potential_ability": 114
+}

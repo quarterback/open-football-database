@@ -1,0 +1,19 @@
+{
+  "id": 7990128,
+  "first_name": "Andrea",
+  "last_name": "Consigli",
+  "birth_date": "1987-01-01",
+  "country_id": 776,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 144
+}

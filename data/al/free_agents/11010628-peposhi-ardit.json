@@ -1,0 +1,19 @@
+{
+  "id": 11010628,
+  "first_name": "Ardit",
+  "last_name": "Peposhi",
+  "birth_date": "1993-01-01",
+  "country_id": 752,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 116
+}

@@ -1,0 +1,19 @@
+{
+  "id": 5607306,
+  "first_name": "Marco",
+  "last_name": "Knaller",
+  "birth_date": "1987-01-01",
+  "country_id": 755,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 126
+}

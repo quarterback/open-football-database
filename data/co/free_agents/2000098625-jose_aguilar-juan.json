@@ -1,0 +1,19 @@
+{
+  "id": 2000098625,
+  "first_name": "Juan",
+  "last_name": "José Aguilar",
+  "birth_date": "2000-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 114
+}

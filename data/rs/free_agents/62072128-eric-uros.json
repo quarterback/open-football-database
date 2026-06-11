@@ -1,0 +1,19 @@
+{
+  "id": 62072128,
+  "first_name": "Uroš",
+  "last_name": "Đerić",
+  "birth_date": "1992-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

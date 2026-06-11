@@ -1,0 +1,23 @@
+{
+  "id": 76065068,
+  "first_name": "Johan",
+  "last_name": "Restrepo",
+  "birth_date": "2000-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 106
+}

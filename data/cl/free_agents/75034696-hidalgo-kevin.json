@@ -1,0 +1,19 @@
+{
+  "id": 75034696,
+  "first_name": "Kevin",
+  "last_name": "Hidalgo",
+  "birth_date": "1995-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 106
+}

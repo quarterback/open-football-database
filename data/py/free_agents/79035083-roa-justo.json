@@ -1,0 +1,23 @@
+{
+  "id": 79035083,
+  "first_name": "Justo",
+  "last_name": "Roa",
+  "birth_date": "1996-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

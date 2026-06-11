@@ -1,0 +1,27 @@
+{
+  "id": 2000061378,
+  "first_name": "Meirambek",
+  "last_name": "Qalmyrza",
+  "birth_date": "2003-01-01",
+  "country_id": 119,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 108
+}

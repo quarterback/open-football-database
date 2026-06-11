@@ -1,0 +1,19 @@
+{
+  "id": 68004708,
+  "first_name": "Marcus",
+  "last_name": "Danielson",
+  "birth_date": "1989-01-01",
+  "country_id": 797,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 136
+}

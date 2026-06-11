@@ -1,0 +1,27 @@
+{
+  "id": 13162700,
+  "first_name": "Zaid",
+  "last_name": "Karouch",
+  "birth_date": "1991-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 110
+}

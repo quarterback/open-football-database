@@ -1,0 +1,19 @@
+{
+  "id": 91017878,
+  "first_name": "Christian",
+  "last_name": "Santos",
+  "birth_date": "1988-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 90,
+  "potential_ability": 124
+}

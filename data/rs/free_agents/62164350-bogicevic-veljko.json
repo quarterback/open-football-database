@@ -1,0 +1,19 @@
+{
+  "id": 62164350,
+  "first_name": "Veljko",
+  "last_name": "Bogićević",
+  "birth_date": "1999-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 92
+}

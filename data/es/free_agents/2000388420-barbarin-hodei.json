@@ -1,0 +1,27 @@
+{
+  "id": 2000388420,
+  "first_name": "Hodei",
+  "last_name": "Barbarín",
+  "birth_date": "2002-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

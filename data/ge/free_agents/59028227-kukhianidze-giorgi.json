@@ -1,0 +1,23 @@
+{
+  "id": 59028227,
+  "first_name": "Giorgi",
+  "last_name": "Kukhianidze",
+  "birth_date": "1992-01-01",
+  "country_id": 770,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 100
+}

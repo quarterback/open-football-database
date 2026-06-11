@@ -1,0 +1,23 @@
+{
+  "id": 79024947,
+  "first_name": "Jesús",
+  "last_name": "Araujo",
+  "birth_date": "1991-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 90,
+  "potential_ability": 102
+}

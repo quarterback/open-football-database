@@ -1,0 +1,19 @@
+{
+  "id": 24015988,
+  "first_name": "Niko",
+  "last_name": "Datković",
+  "birth_date": "1993-01-01",
+  "country_id": 761,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 136
+}

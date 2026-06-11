@@ -1,0 +1,19 @@
+{
+  "id": 25020532,
+  "first_name": "Daniel",
+  "last_name": "Krch",
+  "birth_date": "1992-01-01",
+  "country_id": 763,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

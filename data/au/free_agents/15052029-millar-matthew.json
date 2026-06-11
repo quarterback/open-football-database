@@ -1,0 +1,31 @@
+{
+  "id": 15052029,
+  "first_name": "Matthew",
+  "last_name": "Millar",
+  "birth_date": "1996-01-01",
+  "country_id": 1435,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 106
+}

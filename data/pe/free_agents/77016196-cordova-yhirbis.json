@@ -1,0 +1,23 @@
+{
+  "id": 77016196,
+  "first_name": "Yhirbis",
+  "last_name": "Córdova",
+  "birth_date": "1991-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 102
+}

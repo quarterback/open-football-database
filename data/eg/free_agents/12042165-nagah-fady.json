@@ -1,0 +1,19 @@
+{
+  "id": 12042165,
+  "first_name": "Fady",
+  "last_name": "Nagah",
+  "birth_date": "1990-01-01",
+  "country_id": 16,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 96
+}

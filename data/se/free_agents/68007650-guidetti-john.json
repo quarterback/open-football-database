@@ -1,0 +1,19 @@
+{
+  "id": 68007650,
+  "first_name": "John",
+  "last_name": "Guidetti",
+  "birth_date": "1992-01-01",
+  "country_id": 797,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 150
+}

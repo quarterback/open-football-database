@@ -1,0 +1,23 @@
+{
+  "id": 85015491,
+  "first_name": "Gaëtan",
+  "last_name": "Charbonnier",
+  "birth_date": "1989-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 128
+}

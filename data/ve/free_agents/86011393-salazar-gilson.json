@@ -1,0 +1,19 @@
+{
+  "id": 86011393,
+  "first_name": "Gilson",
+  "last_name": "Salazar",
+  "birth_date": "1989-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 88,
+  "potential_ability": 94
+}

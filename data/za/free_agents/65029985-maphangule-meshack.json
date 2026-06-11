@@ -1,0 +1,23 @@
+{
+  "id": 65029985,
+  "first_name": "Meshack",
+  "last_name": "Maphangule",
+  "birth_date": "1991-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 110
+}

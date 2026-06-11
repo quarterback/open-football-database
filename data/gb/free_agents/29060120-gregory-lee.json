@@ -1,0 +1,19 @@
+{
+  "id": 29060120,
+  "first_name": "Lee",
+  "last_name": "Gregory",
+  "birth_date": "1988-01-01",
+  "country_id": 765,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 130
+}

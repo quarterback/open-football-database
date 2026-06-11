@@ -1,0 +1,23 @@
+{
+  "id": 86016710,
+  "first_name": "Renzo",
+  "last_name": "Zambrano",
+  "birth_date": "1994-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 124
+}

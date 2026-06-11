@@ -1,0 +1,23 @@
+{
+  "id": 2000121060,
+  "first_name": "Nemanja",
+  "last_name": "Gavrić",
+  "birth_date": "2003-01-01",
+  "country_id": 795,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 120
+}

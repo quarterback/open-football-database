@@ -1,0 +1,19 @@
+{
+  "id": 8170917,
+  "first_name": "Benjamin",
+  "last_name": "Lambot",
+  "birth_date": "1987-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 112
+}

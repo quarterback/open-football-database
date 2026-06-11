@@ -1,0 +1,23 @@
+{
+  "id": 24052943,
+  "first_name": "Matej",
+  "last_name": "Jukić",
+  "birth_date": "1997-01-01",
+  "country_id": 761,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 98
+}

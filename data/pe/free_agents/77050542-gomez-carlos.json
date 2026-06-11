@@ -1,0 +1,19 @@
+{
+  "id": 77050542,
+  "first_name": "Carlos",
+  "last_name": "Gómez",
+  "birth_date": "1997-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 114
+}

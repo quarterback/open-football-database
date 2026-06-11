@@ -1,0 +1,19 @@
+{
+  "id": 38060309,
+  "first_name": "Zsombor",
+  "last_name": "Senkó",
+  "birth_date": "2003-01-01",
+  "country_id": 773,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

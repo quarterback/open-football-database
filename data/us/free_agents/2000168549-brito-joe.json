@@ -1,0 +1,19 @@
+{
+  "id": 2000168549,
+  "first_name": "Joe",
+  "last_name": "Brito",
+  "birth_date": "1999-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 106
+}

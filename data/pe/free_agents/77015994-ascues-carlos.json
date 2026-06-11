@@ -1,0 +1,31 @@
+{
+  "id": 77015994,
+  "first_name": "Carlos",
+  "last_name": "Ascues",
+  "birth_date": "1992-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 136
+}

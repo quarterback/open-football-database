@@ -1,0 +1,31 @@
+{
+  "id": 18096587,
+  "first_name": "Terry",
+  "last_name": "Osei-Berkoe",
+  "birth_date": "1998-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 92
+}

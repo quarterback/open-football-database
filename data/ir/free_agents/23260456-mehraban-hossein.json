@@ -1,0 +1,27 @@
+{
+  "id": 23260456,
+  "first_name": "Hossein",
+  "last_name": "Mehraban",
+  "birth_date": "1996-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

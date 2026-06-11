@@ -1,0 +1,27 @@
+{
+  "id": 85030798,
+  "first_name": "Mickaël",
+  "last_name": "Le Bihan",
+  "birth_date": "1990-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 126
+}

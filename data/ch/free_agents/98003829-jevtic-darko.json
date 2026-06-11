@@ -1,0 +1,23 @@
+{
+  "id": 98003829,
+  "first_name": "Darko",
+  "last_name": "Jevtić",
+  "birth_date": "1993-01-01",
+  "country_id": 798,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 100,
+  "potential_ability": 120
+}

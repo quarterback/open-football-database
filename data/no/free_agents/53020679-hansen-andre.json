@@ -1,0 +1,19 @@
+{
+  "id": 53020679,
+  "first_name": "André",
+  "last_name": "Hansen",
+  "birth_date": "1990-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 134
+}

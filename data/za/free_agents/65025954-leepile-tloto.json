@@ -1,0 +1,19 @@
+{
+  "id": 65025954,
+  "first_name": "Tloto",
+  "last_name": "Leepile",
+  "birth_date": "1995-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

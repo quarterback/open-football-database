@@ -1,0 +1,19 @@
+{
+  "id": 38036885,
+  "first_name": "Roland",
+  "last_name": "Paku",
+  "birth_date": "1993-01-01",
+  "country_id": 773,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 88,
+  "potential_ability": 90
+}

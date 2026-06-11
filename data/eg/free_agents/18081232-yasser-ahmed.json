@@ -1,0 +1,27 @@
+{
+  "id": 18081232,
+  "first_name": "Ahmed",
+  "last_name": "Yasser",
+  "birth_date": "1991-01-01",
+  "country_id": 16,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96
+}

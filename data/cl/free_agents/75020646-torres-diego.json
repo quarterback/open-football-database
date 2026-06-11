@@ -1,0 +1,31 @@
+{
+  "id": 75020646,
+  "first_name": "Diego",
+  "last_name": "Torres",
+  "birth_date": "1992-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 102,
+  "potential_ability": 120
+}

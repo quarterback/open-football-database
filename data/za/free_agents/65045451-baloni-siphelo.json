@@ -1,0 +1,27 @@
+{
+  "id": 65045451,
+  "first_name": "Siphelo",
+  "last_name": "Baloni",
+  "birth_date": "1999-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 98,
+  "potential_ability": 110
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2000011408,
+  "first_name": "Alain",
+  "last_name": "Zadi",
+  "birth_date": "2004-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 128
+}

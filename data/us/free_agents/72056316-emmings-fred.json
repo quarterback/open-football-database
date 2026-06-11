@@ -1,0 +1,19 @@
+{
+  "id": 72056316,
+  "first_name": "Fred",
+  "last_name": "Emmings",
+  "birth_date": "2004-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 94,
+  "potential_ability": -65
+}

@@ -1,0 +1,19 @@
+{
+  "id": 51013474,
+  "first_name": "Héctor",
+  "last_name": "Eduardo Acevedo",
+  "birth_date": "1992-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

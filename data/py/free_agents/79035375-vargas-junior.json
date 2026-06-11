@@ -1,0 +1,19 @@
+{
+  "id": 79035375,
+  "first_name": "Junior",
+  "last_name": "Vargas",
+  "birth_date": "1993-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 96
+}

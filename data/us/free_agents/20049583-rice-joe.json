@@ -1,0 +1,19 @@
+{
+  "id": 20049583,
+  "first_name": "Joe",
+  "last_name": "Rice",
+  "birth_date": "1996-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 102
+}

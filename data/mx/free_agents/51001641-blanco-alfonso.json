@@ -1,0 +1,19 @@
+{
+  "id": 51001641,
+  "first_name": "Alfonso",
+  "last_name": "Blanco",
+  "birth_date": "1987-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 118,
+  "potential_ability": 130
+}

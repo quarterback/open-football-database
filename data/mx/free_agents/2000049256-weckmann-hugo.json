@@ -1,0 +1,19 @@
+{
+  "id": 2000049256,
+  "first_name": "Hugo",
+  "last_name": "Weckmann",
+  "birth_date": "2004-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": -7
+}

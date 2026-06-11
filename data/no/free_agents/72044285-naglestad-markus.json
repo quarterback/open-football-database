@@ -1,0 +1,27 @@
+{
+  "id": 72044285,
+  "first_name": "Markus",
+  "last_name": "Naglestad",
+  "birth_date": "1991-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 106
+}

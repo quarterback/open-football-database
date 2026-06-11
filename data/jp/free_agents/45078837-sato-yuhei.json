@@ -1,0 +1,23 @@
+{
+  "id": 45078837,
+  "first_name": "Yuhei",
+  "last_name": "Sato",
+  "birth_date": "1990-01-01",
+  "country_id": 116,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 112
+}

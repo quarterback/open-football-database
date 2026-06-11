@@ -1,0 +1,23 @@
+{
+  "id": 93019439,
+  "first_name": "Majeed",
+  "last_name": "Waris",
+  "birth_date": "1991-01-01",
+  "country_id": 21,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 130
+}

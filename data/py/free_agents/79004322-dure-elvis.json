@@ -1,0 +1,19 @@
+{
+  "id": 79004322,
+  "first_name": "Elvis",
+  "last_name": "Duré",
+  "birth_date": "1987-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 90,
+  "potential_ability": 110
+}

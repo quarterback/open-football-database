@@ -1,0 +1,23 @@
+{
+  "id": 2000050334,
+  "first_name": "Raul",
+  "last_name": "Aguilera",
+  "birth_date": "1999-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 102
+}

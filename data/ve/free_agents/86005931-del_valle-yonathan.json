@@ -1,0 +1,23 @@
+{
+  "id": 86005931,
+  "first_name": "Yonathan",
+  "last_name": "del Valle",
+  "birth_date": "1990-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 126
+}

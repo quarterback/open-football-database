@@ -1,0 +1,35 @@
+{
+  "id": 84153422,
+  "first_name": "Filip",
+  "last_name": "Frei",
+  "birth_date": "2001-01-01",
+  "country_id": 798,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 104
+}

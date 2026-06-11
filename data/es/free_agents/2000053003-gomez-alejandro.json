@@ -1,0 +1,27 @@
+{
+  "id": 2000053003,
+  "first_name": "Alejandro",
+  "last_name": "Gómez",
+  "birth_date": "2003-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

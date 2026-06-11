@@ -1,0 +1,23 @@
+{
+  "id": 76003972,
+  "first_name": "Éder",
+  "last_name": "Munive",
+  "birth_date": "1989-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 110
+}

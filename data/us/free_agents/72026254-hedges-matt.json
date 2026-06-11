@@ -1,0 +1,19 @@
+{
+  "id": 72026254,
+  "first_name": "Matt",
+  "last_name": "Hedges",
+  "birth_date": "1989-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 116,
+  "potential_ability": 126
+}

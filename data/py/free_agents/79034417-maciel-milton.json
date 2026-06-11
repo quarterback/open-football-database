@@ -1,0 +1,23 @@
+{
+  "id": 79034417,
+  "first_name": "Milton",
+  "last_name": "Maciel",
+  "birth_date": "1999-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 106,
+  "potential_ability": 118
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000068169,
+  "first_name": "Amr",
+  "last_name": "Moussa",
+  "birth_date": "1988-01-01",
+  "country_id": 16,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

@@ -1,0 +1,19 @@
+{
+  "id": 67291647,
+  "first_name": "Toni",
+  "last_name": "Frau",
+  "birth_date": "1999-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 114
+}

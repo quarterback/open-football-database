@@ -1,0 +1,31 @@
+{
+  "id": 13229413,
+  "first_name": "Musa",
+  "last_name": "Wakili",
+  "birth_date": "1989-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

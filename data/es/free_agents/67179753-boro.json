@@ -1,0 +1,31 @@
+{
+  "id": 67179753,
+  "first_name": "Boro",
+  "last_name": "",
+  "birth_date": "1991-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 112
+}

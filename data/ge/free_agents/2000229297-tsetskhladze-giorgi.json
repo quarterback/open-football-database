@@ -1,0 +1,19 @@
+{
+  "id": 2000229297,
+  "first_name": "Giorgi",
+  "last_name": "Tsetskhladze",
+  "birth_date": "2002-01-01",
+  "country_id": 770,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

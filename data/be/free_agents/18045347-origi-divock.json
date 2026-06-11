@@ -1,0 +1,19 @@
+{
+  "id": 18045347,
+  "first_name": "Divock",
+  "last_name": "Origi",
+  "birth_date": "1995-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 65,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 154
+}

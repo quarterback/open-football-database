@@ -1,0 +1,23 @@
+{
+  "id": 62164873,
+  "first_name": "Robert",
+  "last_name": "Pušaver",
+  "birth_date": "1995-01-01",
+  "country_id": 795,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 106
+}

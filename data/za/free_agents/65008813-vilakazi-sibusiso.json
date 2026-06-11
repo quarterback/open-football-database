@@ -1,0 +1,23 @@
+{
+  "id": 65008813,
+  "first_name": "Sibusiso",
+  "last_name": "Vilakazi",
+  "birth_date": "1990-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 140
+}

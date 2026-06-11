@@ -1,0 +1,23 @@
+{
+  "id": 65043299,
+  "first_name": "Solly",
+  "last_name": "Khunyedi",
+  "birth_date": "2000-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 120
+}

@@ -1,0 +1,23 @@
+{
+  "id": 25058804,
+  "first_name": "Tomáš",
+  "last_name": "Wiesner",
+  "birth_date": "1997-01-01",
+  "country_id": 763,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 114,
+  "potential_ability": 120
+}

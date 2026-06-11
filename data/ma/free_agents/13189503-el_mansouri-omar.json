@@ -1,0 +1,27 @@
+{
+  "id": 13189503,
+  "first_name": "Omar",
+  "last_name": "El Mansouri",
+  "birth_date": "1991-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 108
+}

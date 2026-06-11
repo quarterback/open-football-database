@@ -1,0 +1,19 @@
+{
+  "id": 2000175885,
+  "first_name": "Alejandro",
+  "last_name": "Alcalá",
+  "birth_date": "2002-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 116
+}

@@ -1,0 +1,19 @@
+{
+  "id": 71005430,
+  "first_name": "Anton",
+  "last_name": "Kravchenko",
+  "birth_date": "1991-01-01",
+  "country_id": 800,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 122
+}

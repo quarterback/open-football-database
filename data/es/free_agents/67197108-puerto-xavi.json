@@ -1,0 +1,19 @@
+{
+  "id": 67197108,
+  "first_name": "Xavi",
+  "last_name": "Puerto",
+  "birth_date": "1991-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 102
+}

@@ -1,0 +1,23 @@
+{
+  "id": 62188552,
+  "first_name": "David",
+  "last_name": "Dunđerski",
+  "birth_date": "1999-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 106
+}

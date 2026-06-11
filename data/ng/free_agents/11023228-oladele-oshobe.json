@@ -1,0 +1,19 @@
+{
+  "id": 11023228,
+  "first_name": "Oshobe",
+  "last_name": "Oladele",
+  "birth_date": "1993-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 94
+}

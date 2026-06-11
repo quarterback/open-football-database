@@ -1,0 +1,23 @@
+{
+  "id": 86049536,
+  "first_name": "Jhon",
+  "last_name": "Chacón",
+  "birth_date": "1994-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 98
+}

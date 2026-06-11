@@ -1,0 +1,23 @@
+{
+  "id": 76033120,
+  "first_name": "Carlos",
+  "last_name": "Rivas",
+  "birth_date": "1991-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 110,
+  "potential_ability": 120
+}

@@ -1,0 +1,23 @@
+{
+  "id": 51074521,
+  "first_name": "Omar",
+  "last_name": "Mireles",
+  "birth_date": "1998-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 110
+}

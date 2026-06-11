@@ -1,0 +1,23 @@
+{
+  "id": 20045097,
+  "first_name": "Azriel",
+  "last_name": "Gonzalez",
+  "birth_date": "2001-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 88,
+  "potential_ability": 112
+}

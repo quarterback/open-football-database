@@ -1,0 +1,31 @@
+{
+  "id": 2000032270,
+  "first_name": "Angelo",
+  "last_name": "Nehme",
+  "birth_date": "2004-01-01",
+  "country_id": 764,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 110
+}

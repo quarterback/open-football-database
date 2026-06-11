@@ -1,0 +1,27 @@
+{
+  "id": 68015780,
+  "first_name": "Robin",
+  "last_name": "Book",
+  "birth_date": "1992-01-01",
+  "country_id": 797,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 116
+}

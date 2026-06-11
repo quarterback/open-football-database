@@ -1,0 +1,27 @@
+{
+  "id": 51031008,
+  "first_name": "Luis",
+  "last_name": "Genaro Castillo",
+  "birth_date": "1993-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 65
+  },
+  "current_ability": 88,
+  "potential_ability": 114
+}

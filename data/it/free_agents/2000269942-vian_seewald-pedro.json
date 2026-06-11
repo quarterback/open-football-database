@@ -1,0 +1,23 @@
+{
+  "id": 2000269942,
+  "first_name": "Pedro",
+  "last_name": "Vian Seewald",
+  "birth_date": "2006-01-01",
+  "country_id": 776,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 88,
+  "potential_ability": -6
+}

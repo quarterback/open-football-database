@@ -1,0 +1,31 @@
+{
+  "id": 77015055,
+  "first_name": "Jaime",
+  "last_name": "Vásquez",
+  "birth_date": "1991-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 104
+}

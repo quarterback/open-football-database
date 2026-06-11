@@ -1,0 +1,19 @@
+{
+  "id": 96010067,
+  "first_name": "Jakub",
+  "last_name": "Świerczok",
+  "birth_date": "1993-01-01",
+  "country_id": 787,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 122
+}

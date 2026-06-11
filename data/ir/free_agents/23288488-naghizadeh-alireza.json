@@ -1,0 +1,23 @@
+{
+  "id": 23288488,
+  "first_name": "Alireza",
+  "last_name": "Naghizadeh",
+  "birth_date": "1993-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 106
+}

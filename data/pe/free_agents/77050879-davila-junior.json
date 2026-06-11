@@ -1,0 +1,19 @@
+{
+  "id": 77050879,
+  "first_name": "Junior",
+  "last_name": "Dávila",
+  "birth_date": "1998-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 102
+}

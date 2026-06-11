@@ -1,0 +1,23 @@
+{
+  "id": 67179983,
+  "first_name": "Mohammed",
+  "last_name": "Fatau",
+  "birth_date": "1993-01-01",
+  "country_id": 21,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 92,
+  "potential_ability": 122
+}

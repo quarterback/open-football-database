@@ -1,0 +1,19 @@
+{
+  "id": 19102543,
+  "first_name": "Dyego",
+  "last_name": "Sousa",
+  "birth_date": "1989-01-01",
+  "country_id": 788,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 142
+}

@@ -1,0 +1,27 @@
+{
+  "id": 19047159,
+  "first_name": "Cicinho",
+  "last_name": "",
+  "birth_date": "1989-01-01",
+  "country_id": 760,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 136
+}

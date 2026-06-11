@@ -1,0 +1,23 @@
+{
+  "id": 18060295,
+  "first_name": "Dylan",
+  "last_name": "Ragolle",
+  "birth_date": "1994-01-01",
+  "country_id": 757,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 106
+}

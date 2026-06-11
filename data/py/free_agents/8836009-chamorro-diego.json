@@ -1,0 +1,23 @@
+{
+  "id": 8836009,
+  "first_name": "Diego",
+  "last_name": "Chamorro",
+  "birth_date": "1989-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 90,
+  "potential_ability": 112
+}

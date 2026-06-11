@@ -1,0 +1,19 @@
+{
+  "id": 2000243300,
+  "first_name": "Ben",
+  "last_name": "Martino",
+  "birth_date": "2002-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -6
+}

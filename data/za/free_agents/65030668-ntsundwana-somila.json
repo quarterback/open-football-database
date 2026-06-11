@@ -1,0 +1,23 @@
+{
+  "id": 65030668,
+  "first_name": "Somila",
+  "last_name": "Ntsundwana",
+  "birth_date": "1996-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 120
+}

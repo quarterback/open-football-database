@@ -1,0 +1,19 @@
+{
+  "id": 85015640,
+  "first_name": "Benjamin",
+  "last_name": "Jeannot",
+  "birth_date": "1992-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 126
+}

@@ -1,0 +1,23 @@
+{
+  "id": 47043989,
+  "first_name": "Krišs",
+  "last_name": "Kārkliņš",
+  "birth_date": "1996-01-01",
+  "country_id": 777,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

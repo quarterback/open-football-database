@@ -1,0 +1,23 @@
+{
+  "id": 12090059,
+  "first_name": "Newton",
+  "last_name": "Adebayo",
+  "birth_date": "1998-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 104
+}

@@ -1,0 +1,27 @@
+{
+  "id": 65030473,
+  "first_name": "Dumisani",
+  "last_name": "Zuma",
+  "birth_date": "1995-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 126
+}

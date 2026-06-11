@@ -1,0 +1,19 @@
+{
+  "id": 76021678,
+  "first_name": "Aldair",
+  "last_name": "Arnedo",
+  "birth_date": "1992-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 116
+}

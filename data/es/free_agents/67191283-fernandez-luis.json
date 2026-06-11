@@ -1,0 +1,23 @@
+{
+  "id": 67191283,
+  "first_name": "Luis",
+  "last_name": "Fernández",
+  "birth_date": "1993-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 120
+}

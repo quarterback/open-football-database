@@ -1,0 +1,19 @@
+{
+  "id": 85082410,
+  "first_name": "François-Joseph",
+  "last_name": "Sollacaro",
+  "birth_date": "1994-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 110
+}

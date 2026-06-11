@@ -1,0 +1,27 @@
+{
+  "id": 75036558,
+  "first_name": "Sergio",
+  "last_name": "Riffo",
+  "birth_date": "1997-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 108
+}

@@ -1,0 +1,19 @@
+{
+  "id": 75032826,
+  "first_name": "Jaime",
+  "last_name": "Carreño",
+  "birth_date": "1997-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 126
+}

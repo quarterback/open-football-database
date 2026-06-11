@@ -1,0 +1,31 @@
+{
+  "id": 76016479,
+  "first_name": "Carlos",
+  "last_name": "Mosquera",
+  "birth_date": "1991-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 118
+}

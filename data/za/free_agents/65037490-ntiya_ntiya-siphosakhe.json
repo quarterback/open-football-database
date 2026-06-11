@@ -1,0 +1,19 @@
+{
+  "id": 65037490,
+  "first_name": "Siphosakhe",
+  "last_name": "Ntiya-Ntiya",
+  "birth_date": "1996-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 100,
+  "potential_ability": 120
+}

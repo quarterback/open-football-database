@@ -1,0 +1,31 @@
+{
+  "id": 85051548,
+  "first_name": "Kamel",
+  "last_name": "Chergui",
+  "birth_date": "1993-01-01",
+  "country_id": 5,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 35
+  },
+  "current_ability": 94,
+  "potential_ability": 104
+}

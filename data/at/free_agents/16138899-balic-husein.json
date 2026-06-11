@@ -1,0 +1,35 @@
+{
+  "id": 16138899,
+  "first_name": "Husein",
+  "last_name": "Balić",
+  "birth_date": "1996-01-01",
+  "country_id": 755,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 100,
+  "potential_ability": 124
+}

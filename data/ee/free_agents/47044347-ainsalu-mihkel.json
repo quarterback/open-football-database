@@ -1,0 +1,23 @@
+{
+  "id": 47044347,
+  "first_name": "Mihkel",
+  "last_name": "Ainsalu",
+  "birth_date": "1996-01-01",
+  "country_id": 766,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 110
+}

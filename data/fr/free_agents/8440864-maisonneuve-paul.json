@@ -1,0 +1,19 @@
+{
+  "id": 8440864,
+  "first_name": "Paul",
+  "last_name": "Maisonneuve",
+  "birth_date": "1987-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 88,
+  "potential_ability": 102
+}

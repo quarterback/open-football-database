@@ -1,0 +1,23 @@
+{
+  "id": 72026253,
+  "first_name": "Ethan",
+  "last_name": "Finlay",
+  "birth_date": "1990-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 122
+}

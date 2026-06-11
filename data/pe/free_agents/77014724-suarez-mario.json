@@ -1,0 +1,19 @@
+{
+  "id": 77014724,
+  "first_name": "Mario",
+  "last_name": "Suárez",
+  "birth_date": "1994-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 102
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2000246380,
+  "first_name": "William",
+  "last_name": "Delgado",
+  "birth_date": "1999-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 118
+}

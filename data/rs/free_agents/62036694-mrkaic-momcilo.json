@@ -1,0 +1,19 @@
+{
+  "id": 62036694,
+  "first_name": "Momčilo",
+  "last_name": "Mrkaić",
+  "birth_date": "1990-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 114
+}

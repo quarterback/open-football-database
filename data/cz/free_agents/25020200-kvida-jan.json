@@ -1,0 +1,19 @@
+{
+  "id": 25020200,
+  "first_name": "Jan",
+  "last_name": "Kvída",
+  "birth_date": "1991-01-01",
+  "country_id": 763,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 96
+}

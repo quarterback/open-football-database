@@ -1,0 +1,19 @@
+{
+  "id": 2000055426,
+  "first_name": "Ivan",
+  "last_name": "Težački",
+  "birth_date": "2002-01-01",
+  "country_id": 761,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 108
+}

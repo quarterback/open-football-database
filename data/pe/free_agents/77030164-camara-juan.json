@@ -1,0 +1,23 @@
+{
+  "id": 77030164,
+  "first_name": "Juan",
+  "last_name": "Cámara",
+  "birth_date": "1993-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 92
+}

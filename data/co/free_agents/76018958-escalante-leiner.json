@@ -1,0 +1,27 @@
+{
+  "id": 76018958,
+  "first_name": "Léiner",
+  "last_name": "Escalante",
+  "birth_date": "1992-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 112,
+  "potential_ability": 118
+}

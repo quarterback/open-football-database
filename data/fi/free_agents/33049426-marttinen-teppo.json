@@ -1,0 +1,19 @@
+{
+  "id": 33049426,
+  "first_name": "Teppo",
+  "last_name": "Marttinen",
+  "birth_date": "1997-01-01",
+  "country_id": 768,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 96
+}

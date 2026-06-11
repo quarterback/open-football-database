@@ -1,0 +1,19 @@
+{
+  "id": 53176100,
+  "first_name": "Anthony",
+  "last_name": "Okachi",
+  "birth_date": "2000-01-01",
+  "country_id": 38,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 100
+}

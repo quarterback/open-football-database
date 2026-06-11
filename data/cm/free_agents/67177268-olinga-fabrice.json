@@ -1,0 +1,27 @@
+{
+  "id": 67177268,
+  "first_name": "Fabrice",
+  "last_name": "Olinga",
+  "birth_date": "1996-01-01",
+  "country_id": 11,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 120
+}

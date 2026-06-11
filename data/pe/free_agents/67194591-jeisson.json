@@ -1,0 +1,35 @@
+{
+  "id": 67194591,
+  "first_name": "Jeisson",
+  "last_name": "",
+  "birth_date": "1995-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 120
+}

@@ -1,0 +1,27 @@
+{
+  "id": 86016390,
+  "first_name": "Jesús",
+  "last_name": "Lugo",
+  "birth_date": "1991-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "ML",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 75
+  },
+  "current_ability": 104,
+  "potential_ability": 128
+}

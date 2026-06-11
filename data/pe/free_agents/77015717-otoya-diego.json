@@ -1,0 +1,23 @@
+{
+  "id": 77015717,
+  "first_name": "Diego",
+  "last_name": "Otoya",
+  "birth_date": "1991-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 96
+}

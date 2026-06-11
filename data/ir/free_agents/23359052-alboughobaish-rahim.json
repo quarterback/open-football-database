@@ -1,0 +1,23 @@
+{
+  "id": 23359052,
+  "first_name": "Rahim",
+  "last_name": "Alboughobaish",
+  "birth_date": "1993-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 92
+}

@@ -1,0 +1,27 @@
+{
+  "id": 51012266,
+  "first_name": "George",
+  "last_name": "Corral",
+  "birth_date": "1990-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 130
+}

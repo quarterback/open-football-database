@@ -1,0 +1,19 @@
+{
+  "id": 18113501,
+  "first_name": "Christopher",
+  "last_name": "Luhaka",
+  "birth_date": "1993-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 15,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 92
+}

@@ -1,0 +1,23 @@
+{
+  "id": 67245476,
+  "first_name": "Álvaro",
+  "last_name": "Aguado",
+  "birth_date": "1996-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 128,
+  "potential_ability": 138
+}

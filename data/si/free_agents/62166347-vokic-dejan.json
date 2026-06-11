@@ -1,0 +1,23 @@
+{
+  "id": 62166347,
+  "first_name": "Dejan",
+  "last_name": "Vokić",
+  "birth_date": "1996-01-01",
+  "country_id": 795,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 45
+  },
+  "current_ability": 98,
+  "potential_ability": 110
+}

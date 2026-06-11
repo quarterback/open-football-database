@@ -1,0 +1,23 @@
+{
+  "id": 2000144237,
+  "first_name": "Stefano",
+  "last_name": "Olaya",
+  "birth_date": "2003-01-01",
+  "country_id": 1656,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 110
+}

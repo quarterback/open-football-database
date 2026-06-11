@@ -1,0 +1,23 @@
+{
+  "id": 65039560,
+  "first_name": "Thabo",
+  "last_name": "Mile",
+  "birth_date": "1994-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

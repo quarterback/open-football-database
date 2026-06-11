@@ -1,0 +1,23 @@
+{
+  "id": 85104271,
+  "first_name": "Maxence",
+  "last_name": "Derrien",
+  "birth_date": "1993-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 106
+}

@@ -1,0 +1,19 @@
+{
+  "id": 23336810,
+  "first_name": "Abdollah",
+  "last_name": "Hosseini",
+  "birth_date": "1990-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

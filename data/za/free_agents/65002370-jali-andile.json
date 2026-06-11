@@ -1,0 +1,27 @@
+{
+  "id": 65002370,
+  "first_name": "Andile",
+  "last_name": "Jali",
+  "birth_date": "1990-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 126
+}

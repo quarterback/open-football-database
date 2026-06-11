@@ -1,0 +1,27 @@
+{
+  "id": 12016912,
+  "first_name": "",
+  "last_name": "El Mehdi El Bassil",
+  "birth_date": "1987-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 108
+}

@@ -1,0 +1,19 @@
+{
+  "id": 91138631,
+  "first_name": "Timo",
+  "last_name": "Königsmann",
+  "birth_date": "1997-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 108
+}

@@ -1,0 +1,19 @@
+{
+  "id": 79013608,
+  "first_name": "Julio",
+  "last_name": "César López",
+  "birth_date": "1987-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 90,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 106
+}

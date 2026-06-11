@@ -1,0 +1,23 @@
+{
+  "id": 13133913,
+  "first_name": "Malick",
+  "last_name": "Touré",
+  "birth_date": "1995-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 65
+  },
+  "current_ability": 94,
+  "potential_ability": 110
+}

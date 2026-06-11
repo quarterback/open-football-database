@@ -1,0 +1,35 @@
+{
+  "id": 37013174,
+  "first_name": "Nasser",
+  "last_name": "El Khayati",
+  "birth_date": "1989-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 128
+}

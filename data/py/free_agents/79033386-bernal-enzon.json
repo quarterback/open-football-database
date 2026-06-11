@@ -1,0 +1,27 @@
+{
+  "id": 79033386,
+  "first_name": "Enzon",
+  "last_name": "Bernal",
+  "birth_date": "1997-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

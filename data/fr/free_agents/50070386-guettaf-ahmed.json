@@ -1,0 +1,19 @@
+{
+  "id": 50070386,
+  "first_name": "Ahmed",
+  "last_name": "Guettaf",
+  "birth_date": "1999-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 106
+}

@@ -1,0 +1,23 @@
+{
+  "id": 18032414,
+  "first_name": "Kassim",
+  "last_name": "Doumbia",
+  "birth_date": "1990-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 20
+  },
+  "current_ability": 106,
+  "potential_ability": 110
+}

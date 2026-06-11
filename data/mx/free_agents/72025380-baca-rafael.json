@@ -1,0 +1,27 @@
+{
+  "id": 72025380,
+  "first_name": "Rafael",
+  "last_name": "Baca",
+  "birth_date": "1989-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 70,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 128
+}

@@ -1,0 +1,31 @@
+{
+  "id": 53156403,
+  "first_name": "Lars",
+  "last_name": "Markmanrud",
+  "birth_date": "2001-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120
+}

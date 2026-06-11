@@ -1,0 +1,19 @@
+{
+  "id": 47092607,
+  "first_name": "Sten",
+  "last_name": "Reinkort",
+  "birth_date": "1998-01-01",
+  "country_id": 766,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

@@ -1,0 +1,23 @@
+{
+  "id": 79034907,
+  "first_name": "Diego",
+  "last_name": "Rivero",
+  "birth_date": "1992-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 80,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 92
+}

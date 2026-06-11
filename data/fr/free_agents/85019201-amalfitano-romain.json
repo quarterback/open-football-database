@@ -1,0 +1,19 @@
+{
+  "id": 85019201,
+  "first_name": "Romain",
+  "last_name": "Amalfitano",
+  "birth_date": "1989-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 128
+}

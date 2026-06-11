@@ -1,0 +1,23 @@
+{
+  "id": 2000045881,
+  "first_name": "Faroukou",
+  "last_name": "Cissé",
+  "birth_date": "2003-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -6
+}

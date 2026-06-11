@@ -1,0 +1,19 @@
+{
+  "id": 2000447775,
+  "first_name": "Marko",
+  "last_name": "Radojević",
+  "birth_date": "2002-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 104
+}

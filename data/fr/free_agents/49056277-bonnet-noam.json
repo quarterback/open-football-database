@@ -1,0 +1,23 @@
+{
+  "id": 49056277,
+  "first_name": "Noam",
+  "last_name": "Bonnet",
+  "birth_date": "2002-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 124
+}

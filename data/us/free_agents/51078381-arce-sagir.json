@@ -1,0 +1,27 @@
+{
+  "id": 51078381,
+  "first_name": "Sagir",
+  "last_name": "Arce",
+  "birth_date": "2002-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 108
+}

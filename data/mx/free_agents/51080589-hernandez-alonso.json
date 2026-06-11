@@ -1,0 +1,19 @@
+{
+  "id": 51080589,
+  "first_name": "Alonso",
+  "last_name": "Hernández",
+  "birth_date": "1998-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 108
+}

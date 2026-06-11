@@ -1,0 +1,27 @@
+{
+  "id": 65037074,
+  "first_name": "Riyaaz",
+  "last_name": "Koopstadt",
+  "birth_date": "1999-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 65
+  },
+  "current_ability": 94,
+  "potential_ability": -7
+}

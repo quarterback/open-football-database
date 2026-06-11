@@ -1,0 +1,19 @@
+{
+  "id": 75045682,
+  "first_name": "Bastián",
+  "last_name": "Solano",
+  "birth_date": "1999-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 92
+}

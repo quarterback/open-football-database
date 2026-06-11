@@ -1,0 +1,27 @@
+{
+  "id": 60009189,
+  "first_name": "Cesar",
+  "last_name": "Meza Colli",
+  "birth_date": "1991-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 30
+  },
+  "current_ability": 100,
+  "potential_ability": 110
+}

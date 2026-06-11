@@ -1,0 +1,27 @@
+{
+  "id": 62175410,
+  "first_name": "Miloš",
+  "last_name": "Zličić",
+  "birth_date": "2000-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 98
+}

@@ -1,0 +1,23 @@
+{
+  "id": 59144984,
+  "first_name": "Davron",
+  "last_name": "Anvarov",
+  "birth_date": "2001-01-01",
+  "country_id": 144,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 110
+}

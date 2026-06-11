@@ -1,0 +1,23 @@
+{
+  "id": 79012632,
+  "first_name": "Sergio",
+  "last_name": "Vergara",
+  "birth_date": "1989-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 60
+  },
+  "current_ability": 94,
+  "potential_ability": 114
+}

@@ -1,0 +1,19 @@
+{
+  "id": 2000188997,
+  "first_name": "Ronaldo",
+  "last_name": "Mejía",
+  "birth_date": "2001-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 88,
+  "potential_ability": 112
+}

@@ -1,0 +1,23 @@
+{
+  "id": 2000230990,
+  "first_name": "Richard",
+  "last_name": "Iriarte",
+  "birth_date": "2003-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "DM",
+      "level": 20
+    },
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 112
+}

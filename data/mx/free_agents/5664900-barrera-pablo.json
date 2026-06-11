@@ -1,0 +1,23 @@
+{
+  "id": 5664900,
+  "first_name": "Pablo",
+  "last_name": "Barrera",
+  "birth_date": "1987-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 120,
+  "potential_ability": 136
+}

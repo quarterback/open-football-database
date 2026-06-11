@@ -1,0 +1,19 @@
+{
+  "id": 29114959,
+  "first_name": "Adama",
+  "last_name": "Niane",
+  "birth_date": "1993-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 106,
+  "potential_ability": 126
+}

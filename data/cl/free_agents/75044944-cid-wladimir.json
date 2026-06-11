@@ -1,0 +1,23 @@
+{
+  "id": 75044944,
+  "first_name": "Wladimir",
+  "last_name": "Cid",
+  "birth_date": "1997-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 102
+}

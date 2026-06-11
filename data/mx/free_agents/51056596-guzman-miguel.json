@@ -1,0 +1,19 @@
+{
+  "id": 51056596,
+  "first_name": "Miguel",
+  "last_name": "Guzmán",
+  "birth_date": "1996-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 104
+}

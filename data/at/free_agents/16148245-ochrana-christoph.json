@@ -1,0 +1,23 @@
+{
+  "id": 16148245,
+  "first_name": "Christoph",
+  "last_name": "Ochrana",
+  "birth_date": "1995-01-01",
+  "country_id": 755,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 88
+}

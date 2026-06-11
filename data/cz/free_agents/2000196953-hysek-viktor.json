@@ -1,0 +1,19 @@
+{
+  "id": 2000196953,
+  "first_name": "Viktor",
+  "last_name": "Hýsek",
+  "birth_date": "2003-01-01",
+  "country_id": 763,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -65
+}

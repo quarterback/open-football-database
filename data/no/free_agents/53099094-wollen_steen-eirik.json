@@ -1,0 +1,23 @@
+{
+  "id": 53099094,
+  "first_name": "Eirik",
+  "last_name": "Wollen Steen",
+  "birth_date": "1993-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 104
+}

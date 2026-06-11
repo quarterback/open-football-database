@@ -1,0 +1,23 @@
+{
+  "id": 2000520306,
+  "first_name": "Mamadi",
+  "last_name": "Jiana",
+  "birth_date": "2003-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 30,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 106
+}

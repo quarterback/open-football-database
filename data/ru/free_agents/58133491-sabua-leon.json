@@ -1,0 +1,23 @@
+{
+  "id": 58133491,
+  "first_name": "Leon",
+  "last_name": "Sabua",
+  "birth_date": "2000-01-01",
+  "country_id": 791,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 120
+}

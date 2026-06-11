@@ -1,0 +1,23 @@
+{
+  "id": 65030597,
+  "first_name": "Tshidiso",
+  "last_name": "Monamodi",
+  "birth_date": "1997-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

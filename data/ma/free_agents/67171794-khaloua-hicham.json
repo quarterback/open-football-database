@@ -1,0 +1,27 @@
+{
+  "id": 67171794,
+  "first_name": "Hicham",
+  "last_name": "Khaloua",
+  "birth_date": "1995-01-01",
+  "country_id": 34,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 112
+}

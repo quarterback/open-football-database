@@ -1,0 +1,27 @@
+{
+  "id": 59042447,
+  "first_name": "Bauyrzhan",
+  "last_name": "Islamkhan",
+  "birth_date": "1993-01-01",
+  "country_id": 119,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 116
+}

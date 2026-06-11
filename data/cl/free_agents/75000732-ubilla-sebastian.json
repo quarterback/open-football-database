@@ -1,0 +1,27 @@
+{
+  "id": 75000732,
+  "first_name": "Sebastián",
+  "last_name": "Ubilla",
+  "birth_date": "1990-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 140
+}

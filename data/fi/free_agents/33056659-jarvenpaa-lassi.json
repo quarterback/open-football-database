@@ -1,0 +1,27 @@
+{
+  "id": 33056659,
+  "first_name": "Lassi",
+  "last_name": "Järvenpää",
+  "birth_date": "1996-01-01",
+  "country_id": 768,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 55
+  },
+  "current_ability": 88,
+  "potential_ability": 100
+}

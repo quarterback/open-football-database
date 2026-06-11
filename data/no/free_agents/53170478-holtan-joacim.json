@@ -1,0 +1,19 @@
+{
+  "id": 53170478,
+  "first_name": "Joacim",
+  "last_name": "Holtan",
+  "birth_date": "1998-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 108
+}

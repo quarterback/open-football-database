@@ -1,0 +1,23 @@
+{
+  "id": 67155014,
+  "first_name": "Fali",
+  "last_name": "",
+  "birth_date": "1993-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 130
+}

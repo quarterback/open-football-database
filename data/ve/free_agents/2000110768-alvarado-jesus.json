@@ -1,0 +1,31 @@
+{
+  "id": 2000110768,
+  "first_name": "Jesús",
+  "last_name": "Alvarado",
+  "birth_date": "2002-01-01",
+  "country_id": 1658,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 106
+}

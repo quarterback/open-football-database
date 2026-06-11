@@ -1,0 +1,23 @@
+{
+  "id": 72026345,
+  "first_name": "Antoine",
+  "last_name": "Hoppenot",
+  "birth_date": "1990-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 98
+}

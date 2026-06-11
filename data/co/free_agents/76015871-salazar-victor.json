@@ -1,0 +1,19 @@
+{
+  "id": 76015871,
+  "first_name": "Víctor",
+  "last_name": "Salazar",
+  "birth_date": "1991-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 100,
+  "potential_ability": 110
+}

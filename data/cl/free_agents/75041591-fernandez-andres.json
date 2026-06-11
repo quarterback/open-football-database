@@ -1,0 +1,19 @@
+{
+  "id": 75041591,
+  "first_name": "Andrés",
+  "last_name": "Fernández",
+  "birth_date": "1998-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 114
+}

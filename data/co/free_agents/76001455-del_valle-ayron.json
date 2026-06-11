@@ -1,0 +1,27 @@
+{
+  "id": 76001455,
+  "first_name": "Ayron",
+  "last_name": "del Valle",
+  "birth_date": "1989-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 112,
+  "potential_ability": 146
+}

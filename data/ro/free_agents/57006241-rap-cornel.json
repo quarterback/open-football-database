@@ -1,0 +1,19 @@
+{
+  "id": 57006241,
+  "first_name": "Cornel",
+  "last_name": "Râpă",
+  "birth_date": "1990-01-01",
+  "country_id": 790,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 25,
+    "right": 100
+  },
+  "current_ability": 104,
+  "potential_ability": 110
+}

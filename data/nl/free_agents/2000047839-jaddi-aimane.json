@@ -1,0 +1,23 @@
+{
+  "id": 2000047839,
+  "first_name": "Aïmane",
+  "last_name": "Jaddi",
+  "birth_date": "2004-01-01",
+  "country_id": 784,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -6
+}

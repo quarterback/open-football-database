@@ -1,0 +1,19 @@
+{
+  "id": 33056095,
+  "first_name": "Juho",
+  "last_name": "Pirttijoki",
+  "birth_date": "1996-01-01",
+  "country_id": 768,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 100
+}

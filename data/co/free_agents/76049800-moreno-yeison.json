@@ -1,0 +1,19 @@
+{
+  "id": 76049800,
+  "first_name": "Yeison",
+  "last_name": "Moreno",
+  "birth_date": "1997-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 108,
+  "potential_ability": 118
+}

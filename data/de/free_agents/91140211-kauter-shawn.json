@@ -1,0 +1,23 @@
+{
+  "id": 91140211,
+  "first_name": "Shawn",
+  "last_name": "Kauter",
+  "birth_date": "1996-01-01",
+  "country_id": 771,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96
+}

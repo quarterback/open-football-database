@@ -1,0 +1,27 @@
+{
+  "id": 12075843,
+  "first_name": "Salim",
+  "last_name": "Bah",
+  "birth_date": "1996-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 106
+}

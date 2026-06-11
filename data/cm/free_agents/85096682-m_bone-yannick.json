@@ -1,0 +1,19 @@
+{
+  "id": 85096682,
+  "first_name": "Yannick",
+  "last_name": "M'Boné",
+  "birth_date": "1993-01-01",
+  "country_id": 11,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 40
+  },
+  "current_ability": 100,
+  "potential_ability": 112
+}

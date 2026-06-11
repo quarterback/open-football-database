@@ -1,0 +1,27 @@
+{
+  "id": 51010614,
+  "first_name": "Alfonso",
+  "last_name": "Luna",
+  "birth_date": "1990-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 104
+}

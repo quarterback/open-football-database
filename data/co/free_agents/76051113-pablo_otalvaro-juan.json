@@ -1,0 +1,19 @@
+{
+  "id": 76051113,
+  "first_name": "Juan",
+  "last_name": "Pablo Otálvaro",
+  "birth_date": "1998-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 96,
+  "potential_ability": 118
+}

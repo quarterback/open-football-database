@@ -1,0 +1,19 @@
+{
+  "id": 53138878,
+  "first_name": "Jens",
+  "last_name": "Aslaksrud",
+  "birth_date": "1998-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 92
+}

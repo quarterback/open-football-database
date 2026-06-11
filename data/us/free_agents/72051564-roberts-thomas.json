@@ -1,0 +1,23 @@
+{
+  "id": 72051564,
+  "first_name": "Thomas",
+  "last_name": "Roberts",
+  "birth_date": "2001-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 110
+}

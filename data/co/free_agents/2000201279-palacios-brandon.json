@@ -1,0 +1,19 @@
+{
+  "id": 2000201279,
+  "first_name": "Brandon",
+  "last_name": "Palacios",
+  "birth_date": "2003-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 118
+}

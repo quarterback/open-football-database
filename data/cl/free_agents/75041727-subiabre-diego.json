@@ -1,0 +1,23 @@
+{
+  "id": 75041727,
+  "first_name": "Diego",
+  "last_name": "Subiabre",
+  "birth_date": "1996-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 75,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 108
+}

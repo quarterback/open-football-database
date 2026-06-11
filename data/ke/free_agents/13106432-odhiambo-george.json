@@ -1,0 +1,27 @@
+{
+  "id": 13106432,
+  "first_name": "George",
+  "last_name": "Odhiambo",
+  "birth_date": "1992-01-01",
+  "country_id": 25,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 96
+}

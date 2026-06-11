@@ -1,0 +1,23 @@
+{
+  "id": 51010900,
+  "first_name": "Hiram",
+  "last_name": "Mier",
+  "birth_date": "1989-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 118,
+  "potential_ability": 134
+}

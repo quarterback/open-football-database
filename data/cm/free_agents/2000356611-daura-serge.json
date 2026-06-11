@@ -1,0 +1,23 @@
+{
+  "id": 2000356611,
+  "first_name": "Serge",
+  "last_name": "Daura",
+  "birth_date": "2006-01-01",
+  "country_id": 11,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": -7
+}

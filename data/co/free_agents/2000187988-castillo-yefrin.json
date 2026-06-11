@@ -1,0 +1,19 @@
+{
+  "id": 2000187988,
+  "first_name": "Yefrín",
+  "last_name": "Castillo",
+  "birth_date": "2004-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 110
+}

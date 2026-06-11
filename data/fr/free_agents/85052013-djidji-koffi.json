@@ -1,0 +1,19 @@
+{
+  "id": 85052013,
+  "first_name": "Koffi",
+  "last_name": "Djidji",
+  "birth_date": "1992-01-01",
+  "country_id": 769,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 130,
+  "potential_ability": 138
+}

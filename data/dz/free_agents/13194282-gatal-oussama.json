@@ -1,0 +1,23 @@
+{
+  "id": 13194282,
+  "first_name": "Oussama",
+  "last_name": "Gatal",
+  "birth_date": "1997-01-01",
+  "country_id": 5,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 100
+}

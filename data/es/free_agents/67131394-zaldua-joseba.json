@@ -1,0 +1,23 @@
+{
+  "id": 67131394,
+  "first_name": "Joseba",
+  "last_name": "Zaldua",
+  "birth_date": "1991-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 122,
+  "potential_ability": 146
+}

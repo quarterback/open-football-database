@@ -1,0 +1,23 @@
+{
+  "id": 12082293,
+  "first_name": "Mamaye",
+  "last_name": "Coulibaly",
+  "birth_date": "1999-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 110
+}

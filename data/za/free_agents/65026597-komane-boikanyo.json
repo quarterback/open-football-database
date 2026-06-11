@@ -1,0 +1,19 @@
+{
+  "id": 65026597,
+  "first_name": "Boikanyo",
+  "last_name": "Komane",
+  "birth_date": "1992-01-01",
+  "country_id": 45,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 98,
+  "potential_ability": 100
+}

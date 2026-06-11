@@ -1,0 +1,23 @@
+{
+  "id": 75031556,
+  "first_name": "José",
+  "last_name": "Cantillana",
+  "birth_date": "1993-01-01",
+  "country_id": 1652,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 98
+}

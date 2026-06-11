@@ -1,0 +1,27 @@
+{
+  "id": 23260529,
+  "first_name": "Mojtaba",
+  "last_name": "Moghtadaei",
+  "birth_date": "1996-01-01",
+  "country_id": 114,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 102,
+  "potential_ability": 106
+}

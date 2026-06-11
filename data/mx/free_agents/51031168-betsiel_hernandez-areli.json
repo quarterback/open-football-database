@@ -1,0 +1,19 @@
+{
+  "id": 51031168,
+  "first_name": "Areli",
+  "last_name": "Betsiel Hernández",
+  "birth_date": "1995-01-01",
+  "country_id": 379,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 100,
+    "right": 50
+  },
+  "current_ability": 88,
+  "potential_ability": 120
+}

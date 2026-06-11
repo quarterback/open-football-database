@@ -1,0 +1,19 @@
+{
+  "id": 58051453,
+  "first_name": "Ilja",
+  "last_name": "Kutepov",
+  "birth_date": "1993-01-01",
+  "country_id": 791,
+  "positions": [
+    {
+      "code": "DC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 50,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 128
+}

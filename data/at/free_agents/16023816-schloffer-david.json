@@ -1,0 +1,27 @@
+{
+  "id": 16023816,
+  "first_name": "David",
+  "last_name": "Schloffer",
+  "birth_date": "1992-01-01",
+  "country_id": 755,
+  "positions": [
+    {
+      "code": "AMR",
+      "level": 20
+    },
+    {
+      "code": "AML",
+      "level": 20
+    },
+    {
+      "code": "AMC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 80,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 98
+}

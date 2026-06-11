@@ -1,0 +1,19 @@
+{
+  "id": 20049225,
+  "first_name": "Abraham",
+  "last_name": "Rodriguez",
+  "birth_date": "2002-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "GK",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": -6
+}

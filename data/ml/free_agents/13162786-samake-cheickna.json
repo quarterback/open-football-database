@@ -1,0 +1,23 @@
+{
+  "id": 13162786,
+  "first_name": "Cheickna",
+  "last_name": "Samaké",
+  "birth_date": "1997-01-01",
+  "country_id": 31,
+  "positions": [
+    {
+      "code": "AMC",
+      "level": 20
+    },
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 45,
+    "right": 100
+  },
+  "current_ability": 100,
+  "potential_ability": 106
+}

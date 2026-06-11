@@ -1,0 +1,27 @@
+{
+  "id": 5795767,
+  "first_name": "Nikola",
+  "last_name": "Dimitrijević",
+  "birth_date": "1991-01-01",
+  "country_id": 802,
+  "positions": [
+    {
+      "code": "DR",
+      "level": 20
+    },
+    {
+      "code": "WBR",
+      "level": 20
+    },
+    {
+      "code": "AMR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 108
+}

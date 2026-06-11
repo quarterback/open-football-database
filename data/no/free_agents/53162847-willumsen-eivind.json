@@ -1,0 +1,23 @@
+{
+  "id": 53162847,
+  "first_name": "Eivind",
+  "last_name": "Willumsen",
+  "birth_date": "2001-01-01",
+  "country_id": 786,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    },
+    {
+      "code": "MR",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 40,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 108
+}

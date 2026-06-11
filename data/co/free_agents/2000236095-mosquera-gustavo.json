@@ -1,0 +1,19 @@
+{
+  "id": 2000236095,
+  "first_name": "Gustavo",
+  "last_name": "Mosquera",
+  "birth_date": "2002-01-01",
+  "country_id": 1653,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 90,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 118
+}

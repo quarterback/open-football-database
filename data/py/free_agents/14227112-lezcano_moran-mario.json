@@ -1,0 +1,19 @@
+{
+  "id": 14227112,
+  "first_name": "Mario",
+  "last_name": "Lezcano Morán",
+  "birth_date": "1993-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 55,
+    "right": 100
+  },
+  "current_ability": 90,
+  "potential_ability": 94
+}

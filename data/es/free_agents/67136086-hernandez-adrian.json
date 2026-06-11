@@ -1,0 +1,19 @@
+{
+  "id": 67136086,
+  "first_name": "Adrián",
+  "last_name": "Hernández",
+  "birth_date": "1992-01-01",
+  "country_id": 796,
+  "positions": [
+    {
+      "code": "ST",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 60,
+    "right": 100
+  },
+  "current_ability": 88,
+  "potential_ability": 96
+}

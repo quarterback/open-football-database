@@ -1,0 +1,19 @@
+{
+  "id": 79031729,
+  "first_name": "Víctor",
+  "last_name": "Villasanti",
+  "birth_date": "2000-01-01",
+  "country_id": 1655,
+  "positions": [
+    {
+      "code": "MC",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 80,
+    "right": 100
+  },
+  "current_ability": 94,
+  "potential_ability": 110
+}

@@ -1,0 +1,23 @@
+{
+  "id": 20032605,
+  "first_name": "Elijah",
+  "last_name": "Martin",
+  "birth_date": "1996-01-01",
+  "country_id": 390,
+  "positions": [
+    {
+      "code": "DL",
+      "level": 20
+    },
+    {
+      "code": "DM",
+      "level": 20
+    }
+  ],
+  "foots": {
+    "left": 35,
+    "right": 100
+  },
+  "current_ability": 92,
+  "potential_ability": 106
+}
