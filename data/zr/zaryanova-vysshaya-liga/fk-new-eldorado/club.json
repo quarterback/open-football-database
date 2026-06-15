@@ -1,0 +1,32 @@
+{
+  "id": 991008,
+  "name": "FK New Eldorado",
+  "finance": {
+    "balance": 9300000
+  },
+  "teams": [
+    {
+      "id": 991008,
+      "name": "FK New Eldorado",
+      "slug": "fk-new-eldorado",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6200,
+        "national": 6200,
+        "world": 6200
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 18600
+}

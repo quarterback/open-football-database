@@ -1,0 +1,32 @@
+{
+  "id": 991011,
+  "name": "FK Anadyr",
+  "finance": {
+    "balance": 8850000
+  },
+  "teams": [
+    {
+      "id": 991011,
+      "name": "FK Anadyr",
+      "slug": "fk-anadyr",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5900,
+        "national": 5900,
+        "world": 5900
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 17700
+}

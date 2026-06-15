@@ -4358,5 +4358,25 @@
       "black": 88,
       "metis": 10
     }
+  },
+  {
+    "id": 9100,
+    "code": "zr",
+    "slug": "zaryanova",
+    "name": "Zaryanova",
+    "continent_id": 4,
+    "reputation": 8200,
+    "settings": {
+      "pricing": {
+        "price_level": 2
+      }
+    },
+    "background_color": "#0d1b3e",
+    "foreground_color": "#ffd166",
+    "skin_colors": {
+      "white": 46,
+      "black": 34,
+      "metis": 20
+    }
   }
 ]

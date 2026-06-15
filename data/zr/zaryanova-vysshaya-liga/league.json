@@ -1,0 +1,26 @@
+{
+  "id": 991000,
+  "enabled": true,
+  "slug": "zaryanova-vysshaya-liga",
+  "name": "Zaryanova Vysshaya Liga",
+  "reputation": 6200,
+  "tier": 1,
+  "promotion_spots": 0,
+  "relegation_spots": 2,
+  "sub_leagues_competitions": [],
+  "settings": {
+    "season_starting_half": {
+      "from_day": 5,
+      "from_month": 8,
+      "to_day": 20,
+      "to_month": 12
+    },
+    "season_ending_half": {
+      "from_day": 10,
+      "from_month": 1,
+      "to_day": 20,
+      "to_month": 5
+    }
+  },
+  "foreign_players": []
+}

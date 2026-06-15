@@ -1,0 +1,32 @@
+{
+  "id": 991004,
+  "name": "FK Vostok Harbor",
+  "finance": {
+    "balance": 10050000
+  },
+  "teams": [
+    {
+      "id": 991004,
+      "name": "FK Vostok Harbor",
+      "slug": "fk-vostok-harbor",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6700,
+        "national": 6700,
+        "world": 6700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 20100
+}

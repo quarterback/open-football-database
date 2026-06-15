@@ -1,0 +1,32 @@
+{
+  "id": 991003,
+  "name": "FK Stratton",
+  "finance": {
+    "balance": 10500000
+  },
+  "teams": [
+    {
+      "id": 991003,
+      "name": "FK Stratton",
+      "slug": "fk-stratton",
+      "team_type": "Main",
+      "reputation": {
+        "home": 7000,
+        "national": 7000,
+        "world": 7000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 21000
+}

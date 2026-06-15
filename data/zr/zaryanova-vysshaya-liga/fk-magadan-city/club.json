@@ -1,0 +1,32 @@
+{
+  "id": 991005,
+  "name": "FK Magadan City",
+  "finance": {
+    "balance": 9900000
+  },
+  "teams": [
+    {
+      "id": 991005,
+      "name": "FK Magadan City",
+      "slug": "fk-magadan-city",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6600,
+        "national": 6600,
+        "world": 6600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 19800
+}

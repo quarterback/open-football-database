@@ -1,0 +1,32 @@
+{
+  "id": 991014,
+  "name": "FK Choibalsangrad",
+  "finance": {
+    "balance": 8400000
+  },
+  "teams": [
+    {
+      "id": 991014,
+      "name": "FK Choibalsangrad",
+      "slug": "fk-choibalsangrad",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5600,
+        "national": 5600,
+        "world": 5600
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 16800
+}
