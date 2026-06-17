@@ -1,0 +1,32 @@
+{
+  "id": 991016,
+  "name": "FK Pevek",
+  "finance": {
+    "balance": 8100000
+  },
+  "teams": [
+    {
+      "id": 991016,
+      "name": "FK Pevek",
+      "slug": "fk-pevek",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5400,
+        "national": 5400,
+        "world": 5400
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 16200
+}

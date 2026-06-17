@@ -1,0 +1,32 @@
+{
+  "id": 991015,
+  "name": "FK Nogliki",
+  "finance": {
+    "balance": 8250000
+  },
+  "teams": [
+    {
+      "id": 991015,
+      "name": "FK Nogliki",
+      "slug": "fk-nogliki",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5500,
+        "national": 5500,
+        "world": 5500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 16500
+}

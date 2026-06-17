@@ -1,0 +1,32 @@
+{
+  "id": 991006,
+  "name": "FK Heihegrad",
+  "finance": {
+    "balance": 9750000
+  },
+  "teams": [
+    {
+      "id": 991006,
+      "name": "FK Heihegrad",
+      "slug": "fk-heihegrad",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6500,
+        "national": 6500,
+        "world": 6500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 19500
+}

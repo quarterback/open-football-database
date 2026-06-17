@@ -1,0 +1,32 @@
+{
+  "id": 991001,
+  "name": "FK Garrison",
+  "finance": {
+    "balance": 11250000
+  },
+  "teams": [
+    {
+      "id": 991001,
+      "name": "FK Garrison",
+      "slug": "fk-garrison",
+      "team_type": "Main",
+      "reputation": {
+        "home": 7500,
+        "national": 7500,
+        "world": 7500
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 22500
+}

@@ -1,0 +1,32 @@
+{
+  "id": 991009,
+  "name": "FK Tubmangrad",
+  "finance": {
+    "balance": 9150000
+  },
+  "teams": [
+    {
+      "id": 991009,
+      "name": "FK Tubmangrad",
+      "slug": "fk-tubmangrad",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6100,
+        "national": 6100,
+        "world": 6100
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 18300
+}

@@ -1,0 +1,32 @@
+{
+  "id": 991010,
+  "name": "FK Saroshevsk",
+  "finance": {
+    "balance": 9000000
+  },
+  "teams": [
+    {
+      "id": 991010,
+      "name": "FK Saroshevsk",
+      "slug": "fk-saroshevsk",
+      "team_type": "Main",
+      "reputation": {
+        "home": 6000,
+        "national": 6000,
+        "world": 6000
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 18000
+}

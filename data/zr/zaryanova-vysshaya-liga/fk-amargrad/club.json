@@ -1,0 +1,32 @@
+{
+  "id": 991002,
+  "name": "FK Amargrad",
+  "finance": {
+    "balance": 10950000
+  },
+  "teams": [
+    {
+      "id": 991002,
+      "name": "FK Amargrad",
+      "slug": "fk-amargrad",
+      "team_type": "Main",
+      "reputation": {
+        "home": 7300,
+        "national": 7300,
+        "world": 7300
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 21900
+}

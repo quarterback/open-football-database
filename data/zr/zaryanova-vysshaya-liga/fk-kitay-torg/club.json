@@ -1,0 +1,32 @@
+{
+  "id": 991013,
+  "name": "FK Kitay-Torg",
+  "finance": {
+    "balance": 8550000
+  },
+  "teams": [
+    {
+      "id": 991013,
+      "name": "FK Kitay-Torg",
+      "slug": "fk-kitay-torg",
+      "team_type": "Main",
+      "reputation": {
+        "home": 5700,
+        "national": 5700,
+        "world": 5700
+      }
+    }
+  ],
+  "colors": {
+    "background": "#0d1b3e",
+    "foreground": "#ffd166"
+  },
+  "philosophy": "Balanced",
+  "facilities": {
+    "training": "Good",
+    "youth": "Good",
+    "academy": "Average",
+    "recruitment": "Average"
+  },
+  "average_attendance": 17100
+}
